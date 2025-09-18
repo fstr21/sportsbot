@@ -1,0 +1,4 @@
+﻿id: scripts_ncaaf_summary_output
+changes:
+  - file: scripts/ncaaf_day_capture.py
+    description: Added Markdown summary generation, artifact writing, and reporting alongside existing JSON output.

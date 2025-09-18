@@ -1,0 +1,342 @@
+{
+  "generated_at": "2025-09-18T23:32:37.027860+00:00",
+  "total_listed": 81,
+  "matched": 81,
+  "missing": [],
+  "conferences": {
+    "SEC (Southeastern Conference)": [
+      {
+        "team": "Alabama",
+        "id": 333
+      },
+      {
+        "team": "Arkansas",
+        "id": 8
+      },
+      {
+        "team": "Auburn",
+        "id": 2
+      },
+      {
+        "team": "Florida",
+        "id": 57
+      },
+      {
+        "team": "Georgia",
+        "id": 61
+      },
+      {
+        "team": "Kentucky",
+        "id": 96
+      },
+      {
+        "team": "LSU",
+        "id": 99
+      },
+      {
+        "team": "Mississippi State",
+        "id": 344
+      },
+      {
+        "team": "Missouri",
+        "id": 142
+      },
+      {
+        "team": "Oklahoma",
+        "id": 201
+      },
+      {
+        "team": "Ole Miss",
+        "id": 145
+      },
+      {
+        "team": "South Carolina",
+        "id": 2579
+      },
+      {
+        "team": "Tennessee",
+        "id": 2633
+      },
+      {
+        "team": "Texas",
+        "id": 251
+      },
+      {
+        "team": "Texas A&M",
+        "id": 245
+      },
+      {
+        "team": "Vanderbilt",
+        "id": 238
+      }
+    ],
+    "Big Ten Conference": [
+      {
+        "team": "Illinois",
+        "id": 356
+      },
+      {
+        "team": "Indiana",
+        "id": 84
+      },
+      {
+        "team": "Iowa",
+        "id": 2294
+      },
+      {
+        "team": "Maryland",
+        "id": 120
+      },
+      {
+        "team": "Michigan",
+        "id": 130
+      },
+      {
+        "team": "Michigan State",
+        "id": 127
+      },
+      {
+        "team": "Minnesota",
+        "id": 135
+      },
+      {
+        "team": "Nebraska",
+        "id": 158
+      },
+      {
+        "team": "Northwestern",
+        "id": 77
+      },
+      {
+        "team": "Ohio State",
+        "id": 194
+      },
+      {
+        "team": "Oregon",
+        "id": 2483
+      },
+      {
+        "team": "Penn State",
+        "id": 213
+      },
+      {
+        "team": "Purdue",
+        "id": 2509
+      },
+      {
+        "team": "Rutgers",
+        "id": 164
+      },
+      {
+        "team": "UCLA",
+        "id": 26
+      },
+      {
+        "team": "USC",
+        "id": 30
+      },
+      {
+        "team": "Washington",
+        "id": 264
+      },
+      {
+        "team": "Wisconsin",
+        "id": 275
+      }
+    ],
+    "ACC (Atlantic Coast Conference)": [
+      {
+        "team": "Boston College",
+        "id": 103
+      },
+      {
+        "team": "California",
+        "id": 25
+      },
+      {
+        "team": "Clemson",
+        "id": 228
+      },
+      {
+        "team": "Duke",
+        "id": 150
+      },
+      {
+        "team": "Florida State",
+        "id": 52
+      },
+      {
+        "team": "Georgia Tech",
+        "id": 59
+      },
+      {
+        "team": "Louisville",
+        "id": 97
+      },
+      {
+        "team": "Miami (FL)",
+        "id": 2390
+      },
+      {
+        "team": "NC State",
+        "id": 152
+      },
+      {
+        "team": "North Carolina",
+        "id": 153
+      },
+      {
+        "team": "Pitt",
+        "id": 221
+      },
+      {
+        "team": "SMU",
+        "id": 2567
+      },
+      {
+        "team": "Stanford",
+        "id": 24
+      },
+      {
+        "team": "Syracuse",
+        "id": 183
+      },
+      {
+        "team": "Virginia",
+        "id": 258
+      },
+      {
+        "team": "Virginia Tech",
+        "id": 259
+      },
+      {
+        "team": "Wake Forest",
+        "id": 154
+      }
+    ],
+    "Big 12 Conference": [
+      {
+        "team": "Arizona",
+        "id": 12
+      },
+      {
+        "team": "Arizona State",
+        "id": 9
+      },
+      {
+        "team": "BYU",
+        "id": 252
+      },
+      {
+        "team": "Baylor",
+        "id": 239
+      },
+      {
+        "team": "Cincinnati",
+        "id": 2132
+      },
+      {
+        "team": "Colorado",
+        "id": 38
+      },
+      {
+        "team": "Houston",
+        "id": 248
+      },
+      {
+        "team": "Iowa State",
+        "id": 66
+      },
+      {
+        "team": "Kansas",
+        "id": 2305
+      },
+      {
+        "team": "Kansas State",
+        "id": 2306
+      },
+      {
+        "team": "Oklahoma State",
+        "id": 197
+      },
+      {
+        "team": "TCU",
+        "id": 2628
+      },
+      {
+        "team": "Texas Tech",
+        "id": 2641
+      },
+      {
+        "team": "UCF",
+        "id": 2116
+      },
+      {
+        "team": "Utah",
+        "id": 254
+      },
+      {
+        "team": "West Virginia",
+        "id": 277
+      }
+    ],
+    "AAC (American Athletic Conference)": [
+      {
+        "team": "Army",
+        "id": 349
+      },
+      {
+        "team": "Charlotte",
+        "id": 3253
+      },
+      {
+        "team": "East Carolina",
+        "id": 151
+      },
+      {
+        "team": "Florida Atlantic",
+        "id": 2226
+      },
+      {
+        "team": "Memphis",
+        "id": 235
+      },
+      {
+        "team": "Navy",
+        "id": 2426
+      },
+      {
+        "team": "North Texas",
+        "id": 249
+      },
+      {
+        "team": "Rice",
+        "id": 242
+      },
+      {
+        "team": "South Florida",
+        "id": 58
+      },
+      {
+        "team": "Temple",
+        "id": 218
+      },
+      {
+        "team": "Tulane",
+        "id": 2655
+      },
+      {
+        "team": "Tulsa",
+        "id": 202
+      },
+      {
+        "team": "UAB",
+        "id": 5
+      },
+      {
+        "team": "UTSA",
+        "id": 2636
+      }
+    ]
+  }
+}

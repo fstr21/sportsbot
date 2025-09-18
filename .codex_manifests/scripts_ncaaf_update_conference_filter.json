@@ -1,0 +1,4 @@
+﻿id: scripts_ncaaf_update_conference_filter
+changes:
+  - file: scripts/ncaaf_day_capture.py
+    description: Updated to load conference whitelist from docs/ncaaf_conferences.md and filter schedule results accordingly, keeping odds attachment and ET handling intact.
