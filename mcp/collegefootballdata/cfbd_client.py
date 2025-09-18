@@ -7,7 +7,10 @@ from typing import Any, Dict, Optional
 
 import httpx
 
-from .config import get_settings
+try:  # pragma: no cover - allow package/local execution
+    from .config import get_settings
+except ImportError:  # pragma: no cover
+    from config import get_settings  # type: ignore
 
 
 class CFBDClientError(RuntimeError):

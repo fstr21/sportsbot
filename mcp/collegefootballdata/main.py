@@ -9,9 +9,14 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
-from .cfbd_client import CFBDClientError, get_client, shutdown_client
-from .config import get_settings, require_api_key
-from .tools import ToolSpec, get_tool, list_tools
+try:  # pragma: no cover - allow module execution both packaged and standalone
+    from .cfbd_client import CFBDClientError, get_client, shutdown_client
+    from .config import get_settings, require_api_key
+    from .tools import ToolSpec, get_tool, list_tools
+except ImportError:  # pragma: no cover
+    from cfbd_client import CFBDClientError, get_client, shutdown_client  # type: ignore
+    from config import get_settings, require_api_key  # type: ignore
+    from tools import ToolSpec, get_tool, list_tools  # type: ignore
 
 app = FastAPI(title="CollegeFootballData MCP", version="1.0.0")
 app.add_middleware(
