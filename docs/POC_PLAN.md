@@ -1,123 +1,92 @@
-# POC Plan - Artifacts and Run Flow
+# POC PLAN — Day Snapshots (LOCKED)
 
-## What Artifacts Exist
+> Source-agnostic plan for producing one-day snapshots.  
+> Changes require an entry in `docs/DECISIONS.md`.  
+> This plan supersedes prior versions that assumed `YYYY-MM-DD` dates, snapshot tags, and provider-specific promises.
 
-### NFL Artifacts (`artifacts/nfl/`)
-```
-artifacts/nfl/YYYY-MM-DD/
-├── schedule.json           # Daily NFL games from ESPN
-├── odds.json              # Betting lines from SportsGameOdds
-├── team_stats.json        # Team statistics from ESPN
-├── player_stats.json      # Key player statistics from ESPN
-└── summary.md             # Human-readable daily summary
-```
+## 1) Purpose
+For a single date and league, gather:
+- the **schedule**,
+- the **odds**,
+- **recent team context**,
+and write **JSON + a readable `.md`** so a human can review quickly.  
+No database. No bots. No upstream specifics in this document.
 
-### NCAAF Artifacts (`artifacts/ncaaf/`)
-```
-artifacts/ncaaf/YYYY-MM-DD/
-├── schedule.json          # Daily NCAAF games from CollegeFootballData
-├── odds.json             # Betting lines from SportsGameOdds
-├── team_stats.json       # Team statistics from ESPN
-└── summary.md            # Human-readable daily summary
-```
+## 2) Audience
+- **You** (operator): to run/check the POC.
+- **LLMs/agents**: to understand goals, constraints, and acceptance—without guessing about providers.
 
-## Daily Run Flow
+## 3) Hard Rules (non-negotiable)
+- **Input date format**: `MM/DD/YYYY` (e.g., `09/21/2025`)  
+  (Use `MM-DD-YYYY` only for folder names.)
+- **Timezone**: **All displayed times in outputs must be ET**. Convert from UTC/Zulu if needed.
+- **Snapshot tags**: **None** at this stage (do not invent MORNING/FINAL).
+- **No placeholder or fabricated data**. If required slices are missing, **fail with a clear error**.
+- **Odds source rate limit**: respect **10 requests per minute** during orchestration.
+- **Idempotency**: re-running the same league/date must not duplicate content and should produce consistent counts.
 
-### Morning Capture (Recommended: 8:00 AM ET)
-1. **NFL Day Capture**:
-   ```bash
-   python scripts/nfl_day_capture.py
-   ```
-   - Prompts for date (default: today)
-   - Fetches schedule from ESPN
-   - Fetches odds from SportsGameOdds
-   - Fetches team stats from ESPN
-   - Fetches key player stats from ESPN
-   - Writes artifacts to `artifacts/nfl/YYYY-MM-DD/`
+## 4) Leagues & Policy
+- **NFL**: schedule, odds, team context; may later add a basic player context file.  
+- **NCAAF**: schedule, odds (teams only), team context; **never includes players**.  
+*(Policy only—no provider details here.)*
 
-2. **NCAAF Day Capture**:
-   ```bash
-   python scripts/ncaaf_day_capture.py
-   ```
-   - Prompts for date (default: today)
-   - Fetches schedule from CollegeFootballData
-   - Fetches odds from SportsGameOdds (teams only)
-   - Fetches team stats from ESPN
-   - Writes artifacts to `artifacts/ncaaf/YYYY-MM-DD/`
+## 5) Outputs (per run)
+Write to: `artifacts/<league>/<MM-DD-YYYY>/`
+- `events.json` — schedule entries with an attached **odds list** (consistent list format)
+- `team_stats.json` — recent team context
+- `summary.md` — human-readable summary **organized by matchup**
+- `meta.json` *(optional)* — minimal run info (timestamps, durations)
 
-### Evening Update (Optional: 11:00 PM ET)
-- Re-run same scripts to capture final scores and updated odds
-- Artifacts will be updated in-place with final data
+### Presentation requirements
+- All times shown in JSON and `.md` are **ET**.
+- `summary.md` is **by matchup** (one section per game), stating:
+  - kickoff time (ET),
+  - whether odds are attached,
+  - whether team context is present.
 
-## QA Checklist
+## 6) Run Flow (operator)
+1) **Prompt for date** → accept only `MM/DD/YYYY`; reject others.
+2) **Build the day frame** in ET (for display).
+3) **Fetch slices** for the date:
+   - schedule,
+   - odds,
+   - team context.  
+   *(NFL may later add basic player context; NCAAF never includes players.)*
+4) **Join** slices by (home team, away team, kickoff time in ET) with a small tolerance.
+5) **Write** artifacts (JSON + `.md` by matchup).
+6) **Verify** acceptance checklist; if any required slice is missing, **fail** (no placeholders).
 
-### Pre-Run Validation
-- [ ] Check SportsGameOdds API usage (stay under 900 objects/month)
-- [ ] Verify date format: YYYY-MM-DD
-- [ ] Confirm target date has scheduled games
-- [ ] Check API keys are valid and not expired
+## 7) Acceptance Checklist (pass/fail)
+- [ ] Date accepted in `MM/DD/YYYY`; invalid formats rejected (`bad_params`).
+- [ ] Artifacts folder created: `artifacts/<league>/<MM-DD-YYYY>/`.
+- [ ] Files present: `events.json`, `team_stats.json`, `summary.md`.
+- [ ] All displayed times are **ET**.
+- [ ] `summary.md` is **by matchup** and includes counts:
+      total scheduled games, games with odds attached, teams with context.
+- [ ] No placeholder values; missing required slices cause a clear failure.
+- [ ] Rate-limit discipline respected (≤ **10 req/min** to odds source).
+- [ ] Idempotent re-run: same league/date → no duplicates; counts consistent.
 
-### Post-Run Validation
-- [ ] All JSON files validate against expected schema
-- [ ] Team IDs successfully mapped (no "UNKNOWN_TEAM" entries)
-- [ ] Player IDs successfully mapped for NFL (if applicable)
-- [ ] Odds data includes moneyline, spread, and total for each game
-- [ ] Summary.md is human-readable and accurate
-- [ ] No API errors or rate limit violations logged
+## 8) Idempotency Protocol
+- Re-run immediately with the same league/date.
+- Confirm the same target folder is reused and counts remain stable.
+- If differences appear, record a short note in `docs/STATUS_UPDATE.md` explaining expected vs. unexpected behavior.
 
-### Data Quality Checks
-- [ ] Schedule times are in Eastern Time
-- [ ] Odds values are reasonable (not null or extreme outliers)
-- [ ] Team abbreviations match mapping catalog
-- [ ] Player names match mapping catalog (NFL only)
-- [ ] All required fields present in each artifact
+## 9) Golden Snapshot
+- When a run passes acceptance for a league, mark it as your **baseline** (copy to `artifacts/golden/<league>/<MM-DD-YYYY>/` or note its path in `STATUS_UPDATE.md`).  
+- Use it later to compare changes at a glance.
 
-### File Structure Validation
-```bash
-# Expected structure after successful run
-artifacts/
-├── nfl/
-│   └── 2024-09-18/
-│       ├── schedule.json     ✓
-│       ├── odds.json        ✓
-│       ├── team_stats.json  ✓
-│       ├── player_stats.json ✓
-│       └── summary.md       ✓
-└── ncaaf/
-    └── 2024-09-18/
-        ├── schedule.json    ✓
-        ├── odds.json       ✓
-        ├── team_stats.json ✓
-        └── summary.md      ✓
-```
+## 10) Join Policy (POC level)
+- Match by **home**, **away**, **kickoff time (ET)** with minimal tolerance.  
+- Avoid fuzzy heuristics; if ambiguous, **fail** rather than guess.  
+- Capture enough names/identifiers in artifacts for future mapping work (no DB yet).
 
-## Error Handling Strategy
+## 11) Error Labels (exact tokens)
+- `bad_params` — input missing/invalid (e.g., wrong date format)  
+- `upstream_timeout` — a source call exceeded time budget  
+- `mcp_error` — orchestrated fetch returned an error envelope  
+- `rate_limited` — odds source limit exceeded (assume 10/min)  
+- `unknown_task` — unrecognized task type
 
-### API Failures
-- **Retry Logic**: 3 attempts with exponential backoff
-- **Fallback**: Continue with partial data, log missing components
-- **Graceful Degradation**: Generate artifacts with available data
-
-### Rate Limiting
-- **Detection**: Monitor HTTP 429 responses
-- **Response**: Wait and retry with increased delays
-- **Prevention**: Track request counts and timing
-
-### Data Quality Issues
-- **Unknown Teams**: Log warning, continue with raw provider data
-- **Missing Players**: NFL continues without player stats
-- **Invalid Odds**: Log warning, mark as unavailable
-
-## Monitoring and Logs
-
-### Daily Metrics
-- Total API calls made
-- SportsGameOdds objects consumed
-- Success/failure rates by data source
-- Artifact generation time
-
-### Weekly Review
-- API usage trending toward monthly limits
-- Data quality patterns and issues
-- Team/player mapping coverage
-- Script performance and reliability
+## 12) Status Update Template
+Record quick notes after each run in `docs/STATUS_UPDATE.md`:
