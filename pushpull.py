@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import subprocess
 import sys
+import os
+from datetime import datetime
 
 def run_command(command):
     """Run a shell command and return the result"""
@@ -10,7 +12,33 @@ def run_command(command):
     except Exception as e:
         return False, "", str(e)
 
-def git_status():   
+def get_smart_commit_message():
+    """Generate a smart commit message based on changed files"""
+    success, stdout, stderr = run_command("git diff --name-only --cached")
+    if not success:
+        return f"Update sportsbot workspace - {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+
+    changed_files = stdout.strip().split('\n') if stdout.strip() else []
+
+    # Categorize changes
+    sports_files = [f for f in changed_files if any(sport in f.lower() for sport in ['nfl', 'mlb', 'nba', 'nhl', 'cfb', 'soccer'])]
+    data_files = [f for f in changed_files if 'data' in f.lower() or 'mapping' in f.lower()]
+    script_files = [f for f in changed_files if f.endswith('.py')]
+    config_files = [f for f in changed_files if any(cfg in f.lower() for cfg in ['.env', 'config', 'claude.md'])]
+
+    if sports_files:
+        sports = list(set([sport for f in sports_files for sport in ['NFL', 'MLB', 'NBA', 'NHL', 'CFB', 'Soccer'] if sport.lower() in f.lower()]))
+        return f"Update {', '.join(sports)} sports data and scripts"
+    elif data_files:
+        return "Update sports data mappings and configurations"
+    elif script_files:
+        return "Update Python scripts and utilities"
+    elif config_files:
+        return "Update project configuration"
+    else:
+        return f"Update sportsbot workspace - {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+
+def git_status():
     """Check git status"""
     success, stdout, stderr = run_command("git status --porcelain")
     if success:
@@ -44,8 +72,8 @@ def git_push(branch="main"):
             print(stderr)
             return False
         
-        # Commit with default message
-        commit_msg = "Update workspace"
+        # Get commit message with better context
+        commit_msg = get_smart_commit_message()
         success, stdout, stderr = run_command(f'git commit -m "{commit_msg}"')
         if not success:
             print("Failed to commit changes!")
@@ -149,20 +177,46 @@ def promote_to_production():
     print("production-stable branch updated with latest main")
     return True
 
+def backup_sports_data():
+    """Create backup of critical sports data before major operations"""
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    # Check if data directories exist
+    data_dirs = ["data", "mapping", "new/mapping_backup*"]
+    backup_needed = False
+
+    for pattern in data_dirs:
+        success, stdout, stderr = run_command(f'find . -name "{pattern}" -type d 2>/dev/null || dir /s /b *{pattern.replace("*", "")}* 2>nul')
+        if success and stdout.strip():
+            backup_needed = True
+            break
+
+    if backup_needed:
+        print(f"Creating sports data backup: backup_{timestamp}")
+        run_command(f"mkdir -p backup_{timestamp}")
+        run_command(f"cp -r data backup_{timestamp}/ 2>/dev/null || xcopy /e /i data backup_{timestamp}\\data\\ >nul 2>&1")
+        run_command(f"cp -r mapping backup_{timestamp}/ 2>/dev/null || xcopy /e /i mapping backup_{timestamp}\\mapping\\ >nul 2>&1")
+        print("Backup created successfully!")
+
+    return backup_needed
+
 def main():
-    print("Git Helper Tool")
-    print("==================")
-    
+    print("SportsBot Git Helper")
+    print("===================")
+    print("🏈 Sports Data Management Tool")
+
     while True:
         print("\nChoose an option:")
         print("1. Pull from main branch")
-        print("2. Push to main branch") 
+        print("2. Push to main branch (with smart sports commit)")
         print("3. Pull from production-stable")
         print("4. DEPLOY to production-stable (with confirmation)")
         print("5. Check git status")
-        print("6. Exit")
-        
-        choice = input("\nEnter your choice (1-6): ").strip()
+        print("6. Backup sports data before major changes")
+        print("7. Quick status check (files + recent commits)")
+        print("8. Exit")
+
+        choice = input("\nEnter your choice (1-8): ").strip()
         
         if choice == "1":
             git_pull("main")
@@ -195,10 +249,39 @@ def main():
             input()
             sys.exit(0)
         elif choice == "6":
-            print("Goodbye!")
+            backup_sports_data()
+            print("\nBackup completed. Press Enter to exit...")
+            input()
+            sys.exit(0)
+        elif choice == "7":
+            print("\n🔍 QUICK STATUS CHECK")
+            print("=" * 30)
+
+            # Show modified files
+            success, stdout, stderr = run_command("git status --porcelain")
+            if success and stdout.strip():
+                print("📝 Modified files:")
+                for line in stdout.strip().split('\n'):
+                    print(f"   {line}")
+            else:
+                print("✅ No modified files")
+
+            print()
+
+            # Show recent commits
+            success, stdout, stderr = run_command("git log --oneline -5")
+            if success:
+                print("📊 Recent commits:")
+                print(stdout)
+
+            print("\nQuick check completed. Press Enter to exit...")
+            input()
+            sys.exit(0)
+        elif choice == "8":
+            print("Goodbye! 🏈")
             sys.exit(0)
         else:
-            print("Invalid choice. Please enter 1-6.")
+            print("Invalid choice. Please enter 1-8.")
 
 if __name__ == "__main__":
     main()
