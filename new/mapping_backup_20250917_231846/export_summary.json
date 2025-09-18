@@ -1,0 +1,29 @@
+{
+  "export_timestamp": "2025-09-17T23:18:46.917725",
+  "database_info": {
+    "host": "hopper.proxy.rlwy.net",
+    "database": "mapping"
+  },
+  "export_counts": {
+    "players": 7317,
+    "teams": 235,
+    "player_name_variations": 0,
+    "team_name_variations": 0
+  },
+  "files_created": [
+    "players_complete.json",
+    "players_complete.csv",
+    "teams_complete.json",
+    "teams_complete.csv",
+    "player_name_variations.json",
+    "team_name_variations.json"
+  ],
+  "sports_breakdown": {
+    "NCAAF": 1875,
+    "MLB": 1506,
+    "NHL": 1504,
+    "NFL": 1009,
+    "MLS": 875,
+    "NBA": 548
+  }
+}

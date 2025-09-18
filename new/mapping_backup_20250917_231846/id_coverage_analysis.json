@@ -1,0 +1,80 @@
+{
+  "MLB": {
+    "total_players": 1506,
+    "espn_ids": 0,
+    "sportsgameodds_ids": 179,
+    "mlb_ids": 1497,
+    "theoddsapi_ids": 0,
+    "coverage": {
+      "espn_percent": 0.0,
+      "sgo_percent": 11.9,
+      "mlb_percent": 99.4,
+      "theodds_percent": 0.0
+    }
+  },
+  "MLS": {
+    "total_players": 875,
+    "espn_ids": 875,
+    "sportsgameodds_ids": 0,
+    "mlb_ids": 0,
+    "theoddsapi_ids": 0,
+    "coverage": {
+      "espn_percent": 100.0,
+      "sgo_percent": 0.0,
+      "mlb_percent": 0.0,
+      "theodds_percent": 0.0
+    }
+  },
+  "NBA": {
+    "total_players": 548,
+    "espn_ids": 548,
+    "sportsgameodds_ids": 0,
+    "mlb_ids": 0,
+    "theoddsapi_ids": 0,
+    "coverage": {
+      "espn_percent": 100.0,
+      "sgo_percent": 0.0,
+      "mlb_percent": 0.0,
+      "theodds_percent": 0.0
+    }
+  },
+  "NCAAF": {
+    "total_players": 1875,
+    "espn_ids": 1875,
+    "sportsgameodds_ids": 0,
+    "mlb_ids": 0,
+    "theoddsapi_ids": 0,
+    "coverage": {
+      "espn_percent": 100.0,
+      "sgo_percent": 0.0,
+      "mlb_percent": 0.0,
+      "theodds_percent": 0.0
+    }
+  },
+  "NFL": {
+    "total_players": 1009,
+    "espn_ids": 992,
+    "sportsgameodds_ids": 633,
+    "mlb_ids": 0,
+    "theoddsapi_ids": 0,
+    "coverage": {
+      "espn_percent": 98.3,
+      "sgo_percent": 62.7,
+      "mlb_percent": 0.0,
+      "theodds_percent": 0.0
+    }
+  },
+  "NHL": {
+    "total_players": 1504,
+    "espn_ids": 1504,
+    "sportsgameodds_ids": 0,
+    "mlb_ids": 0,
+    "theoddsapi_ids": 0,
+    "coverage": {
+      "espn_percent": 100.0,
+      "sgo_percent": 0.0,
+      "mlb_percent": 0.0,
+      "theodds_percent": 0.0
+    }
+  }
+}
