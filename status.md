@@ -1,3 +1,4 @@
+Starting Container
 Traceback (most recent call last):
   File "/app/.venv/bin/uvicorn", line 7, in <module>
     sys.exit(main())
