@@ -1,0 +1,166 @@
+{
+  "league": "NCAAF",
+  "date": "09/19/2025",
+  "generated_at_et": "2025-09-18T19:28:49.018243-04:00",
+  "calendar": {
+    "season": 2025,
+    "week": 4,
+    "season_type": "regular",
+    "window_start_et": "2025-09-15T03:00:00-04:00",
+    "window_end_et": "2025-09-22T02:59:00-04:00"
+  },
+  "counts": {
+    "games": 2,
+    "games_with_odds": 2
+  },
+  "games": [
+    {
+      "game_id": 401756900,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-19T19:30:00-04:00",
+      "start_time_display": "2025-09-19 07:30 PM ET",
+      "venue": {
+        "name": "Boone Pickens Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Oklahoma State",
+        "conference": "Big 12",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1202,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "Tulsa",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1046,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "ESPN Bet",
+          "spread": -11.5,
+          "over_under": 55.5,
+          "home_moneyline": -450,
+          "away_moneyline": 340,
+          "spread_open": -13.5,
+          "over_under_open": 55.5,
+          "formatted_spread": "Oklahoma State -11.5",
+          "last_updated": null
+        },
+        {
+          "provider": "DraftKings",
+          "spread": -10.5,
+          "over_under": 54.5,
+          "home_moneyline": -395,
+          "away_moneyline": 310,
+          "spread_open": -13.5,
+          "over_under_open": null,
+          "formatted_spread": "Oklahoma State -10.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": -11,
+          "over_under": 54.5,
+          "home_moneyline": -510,
+          "away_moneyline": 370,
+          "spread_open": -13.5,
+          "over_under_open": 56.5,
+          "formatted_spread": "Oklahoma State -11.0",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401752844,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-19T20:00:00-04:00",
+      "start_time_display": "2025-09-19 08:00 PM ET",
+      "venue": {
+        "name": "SHI Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Rutgers",
+        "conference": "Big Ten",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1593,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "Iowa",
+        "conference": "Big Ten",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1723,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": true,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": 2.5,
+          "over_under": 46.5,
+          "home_moneyline": 105,
+          "away_moneyline": -125,
+          "spread_open": 3,
+          "over_under_open": null,
+          "formatted_spread": "Iowa -2.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": 2.5,
+          "over_under": 46.5,
+          "home_moneyline": 115,
+          "away_moneyline": -135,
+          "spread_open": 2.5,
+          "over_under_open": 46.5,
+          "formatted_spread": "Iowa -2.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": 2.5,
+          "over_under": 46.5,
+          "home_moneyline": 105,
+          "away_moneyline": -125,
+          "spread_open": 2,
+          "over_under_open": 45.5,
+          "formatted_spread": "Iowa -2.5",
+          "last_updated": null
+        }
+      ]
+    }
+  ]
+}

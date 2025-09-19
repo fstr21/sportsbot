@@ -1,0 +1,10 @@
+{
+  "league": "NFL",
+  "date": "09/21/2025",
+  "generated_at_et": "2025-09-18T23:55:54.561749-04:00",
+  "counts": {
+    "events": 14,
+    "games_with_odds": 12,
+    "teams_with_context": 28
+  }
+}

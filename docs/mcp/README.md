@@ -71,6 +71,7 @@ POST /tools/games/invoke
 - Service variables: only `COLLEGE_FOOTBALL_DATA_API_KEY`.
 
 Recent regression run (`python cfbd_mcp_test/run_tests.py`) stores artifacts under `cfbd_mcp_test/results/<timestamp>/`. Latest run `20250919T002338Z` shows all core tooling working; persistent upstream errors remain only on `scoreboard` (502) and ratings/stats endpoints (500).
+Additional targeted example: `python cfbd_mcp_test/team_stats_example.py --team-id 133 --year 2024` (writes season + game-by-game stats under `cfbd_mcp_test/results/`). This runs against the Railway MCP deployment (`https://collegefootballdatamcp-production.up.railway.app`) via `cfbd_mcp_test/client.py`, so the artifacts under `cfbd_mcp_test/results/team_133_stats_<timestamp>/` are MCP-sourced.
 
 ---
 
@@ -88,6 +89,20 @@ mcp/sportsgameodds/
   tools.py         # ToolSpec registry (sports, leagues, bookmakers, bet_types, stats, events)
   main.py          # FastAPI app => /health, /tools, /tools/{name}/invoke
 ```
+
+### scripts/nfl_sgo_snapshot.py (MCP helper)
+
+- Location: `scripts/nfl_sgo_snapshot.py`; calls the Railway-hosted SportsGameOdds MCP `/tools/events/invoke` endpoint.
+- Flow: prompts for an MM/DD/YYYY date, builds the ET day window, paginates the MCP response (default `limit=1` during troubleshooting), and retries on upstream 429/502 with conservative backoff (12s pre-call delay, 90s between retries, up to 8 attempts).
+- Output: writes a consolidated `events.json`, one JSON per matchup under `artifacts/nfl/<MM-DD-YYYY>/games/`, and a matchup-organised `summary.md`. Each game file preserves the full MCP payload as `raw_event` so every odds market/prop is captured.
+- Rate limits: honours the shared SportsGameOdds free-tier (10 requests/min). Even with built-in spacing you may need to wait a full minute between runs if others are testing the MCP.
+- Example: `python scripts/nfl_sgo_snapshot.py` -> enter `09/21/2025` -> outputs in `artifacts/nfl/09-21-2025/` (e.g. `games/game-1-pit-at-ne.json` is ~740 KB with all markets).
+
+- Archived sample: see `docs/mcp/examples/sgo_snapshot/` (contains the script snapshot, `events-20250921.json`, and `game-1-pit-at-ne.json`).
+- Archived NFL day-capture run (direct API): `docs/mcp/examples/nfl_day_capture/` (script + events/team_stats/meta for 09/21/2025).
+- Archived NCAAF day-capture run: `docs/mcp/examples/ncaaf_day_capture/`.
+- Usage checker (key health): `docs/mcp/examples/sgo_usage/` (scans `.env.local` and calls `/account/usage`).
+
 
 ### TODO Before Deploying
 1. **Health Check** – Railway logs show requests hitting `/GET%20/health` when misconfigured. Set path to `/health` without the verb.
