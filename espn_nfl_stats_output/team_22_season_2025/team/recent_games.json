@@ -1,0 +1,500 @@
+[
+  {
+    "gameId": "401772718",
+    "date": "2025-09-07T17:00Z",
+    "attendance": null,
+    "teamStats": {
+      "firstDowns": {
+        "label": "1st Downs",
+        "displayValue": "19",
+        "value": 19.0
+      },
+      "firstDownsPassing": {
+        "label": "Passing 1st downs",
+        "displayValue": "11",
+        "value": 11.0
+      },
+      "firstDownsRushing": {
+        "label": "Rushing 1st downs",
+        "displayValue": "5",
+        "value": 5.0
+      },
+      "firstDownsPenalty": {
+        "label": "1st downs from penalties",
+        "displayValue": "3",
+        "value": 3.0
+      },
+      "thirdDownEff": {
+        "label": "3rd down efficiency",
+        "displayValue": "6-13",
+        "value": 0.4615384615
+      },
+      "fourthDownEff": {
+        "label": "4th down efficiency",
+        "displayValue": "0-0",
+        "value": "-"
+      },
+      "totalOffensivePlays": {
+        "label": "Total Plays",
+        "displayValue": "61",
+        "value": 61.0
+      },
+      "totalYards": {
+        "label": "Total Yards",
+        "displayValue": "276",
+        "value": "-"
+      },
+      "yardsPerPlay": {
+        "label": "Yards per Play",
+        "displayValue": "4.5",
+        "value": 4.5245901639
+      },
+      "totalDrives": {
+        "label": "Total Drives",
+        "displayValue": "9",
+        "value": 9.0
+      },
+      "netPassingYards": {
+        "label": "Passing",
+        "displayValue": "130",
+        "value": 130.0
+      },
+      "completionAttempts": {
+        "label": "Comp/Att",
+        "displayValue": "21/29",
+        "value": "-"
+      },
+      "yardsPerPass": {
+        "label": "Yards per pass",
+        "displayValue": "3.8",
+        "value": 3.823529411764706
+      },
+      "interceptions": {
+        "label": "Interceptions thrown",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "sacksYardsLost": {
+        "label": "Sacks-Yards Lost",
+        "displayValue": "5-33",
+        "value": "-"
+      },
+      "rushingYards": {
+        "label": "Rushing",
+        "displayValue": "146",
+        "value": 146.0
+      },
+      "rushingAttempts": {
+        "label": "Rushing Attempts",
+        "displayValue": "27",
+        "value": 27.0
+      },
+      "yardsPerRushAttempt": {
+        "label": "Yards per rush",
+        "displayValue": "5.4",
+        "value": 5.407
+      },
+      "redZoneAttempts": {
+        "label": "Red Zone (Made-Att)",
+        "displayValue": "2-3",
+        "value": 0.6666666666666666
+      },
+      "totalPenaltiesYards": {
+        "label": "Penalties",
+        "displayValue": "9-54",
+        "value": "-"
+      },
+      "turnovers": {
+        "label": "Turnovers",
+        "displayValue": "0",
+        "value": "-"
+      },
+      "fumblesLost": {
+        "label": "Fumbles lost",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "defensiveTouchdowns": {
+        "label": "Defensive / Special Teams TDs",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "possessionTime": {
+        "label": "Possession",
+        "displayValue": "33:46",
+        "value": 2026
+      }
+    },
+    "opponentStats": {
+      "firstDowns": {
+        "label": "1st Downs",
+        "displayValue": "21",
+        "value": 21.0
+      },
+      "firstDownsPassing": {
+        "label": "Passing 1st downs",
+        "displayValue": "12",
+        "value": 12.0
+      },
+      "firstDownsRushing": {
+        "label": "Rushing 1st downs",
+        "displayValue": "5",
+        "value": 5.0
+      },
+      "firstDownsPenalty": {
+        "label": "1st downs from penalties",
+        "displayValue": "4",
+        "value": 4.0
+      },
+      "thirdDownEff": {
+        "label": "3rd down efficiency",
+        "displayValue": "5-14",
+        "value": 0.3571428571
+      },
+      "fourthDownEff": {
+        "label": "4th down efficiency",
+        "displayValue": "1-2",
+        "value": 0.5
+      },
+      "totalOffensivePlays": {
+        "label": "Total Plays",
+        "displayValue": "69",
+        "value": 69.0
+      },
+      "totalYards": {
+        "label": "Total Yards",
+        "displayValue": "315",
+        "value": "-"
+      },
+      "yardsPerPlay": {
+        "label": "Yards per Play",
+        "displayValue": "4.6",
+        "value": 4.5652173913
+      },
+      "totalDrives": {
+        "label": "Total Drives",
+        "displayValue": "10",
+        "value": 10.0
+      },
+      "netPassingYards": {
+        "label": "Passing",
+        "displayValue": "208",
+        "value": 208.0
+      },
+      "completionAttempts": {
+        "label": "Comp/Att",
+        "displayValue": "27/46",
+        "value": "-"
+      },
+      "yardsPerPass": {
+        "label": "Yards per pass",
+        "displayValue": "4.4",
+        "value": 4.425531914893617
+      },
+      "interceptions": {
+        "label": "Interceptions thrown",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "sacksYardsLost": {
+        "label": "Sacks-Yards Lost",
+        "displayValue": "1-6",
+        "value": "-"
+      },
+      "rushingYards": {
+        "label": "Rushing",
+        "displayValue": "107",
+        "value": 107.0
+      },
+      "rushingAttempts": {
+        "label": "Rushing Attempts",
+        "displayValue": "22",
+        "value": 22.0
+      },
+      "yardsPerRushAttempt": {
+        "label": "Yards per rush",
+        "displayValue": "4.9",
+        "value": 4.864
+      },
+      "redZoneAttempts": {
+        "label": "Red Zone (Made-Att)",
+        "displayValue": "1-4",
+        "value": 0.25
+      },
+      "totalPenaltiesYards": {
+        "label": "Penalties",
+        "displayValue": "13-89",
+        "value": "-"
+      },
+      "turnovers": {
+        "label": "Turnovers",
+        "displayValue": "0",
+        "value": "-"
+      },
+      "fumblesLost": {
+        "label": "Fumbles lost",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "defensiveTouchdowns": {
+        "label": "Defensive / Special Teams TDs",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "possessionTime": {
+        "label": "Possession",
+        "displayValue": "26:14",
+        "value": 1574
+      }
+    }
+  },
+  {
+    "gameId": "401772730",
+    "date": "2025-09-14T20:05Z",
+    "attendance": null,
+    "teamStats": {
+      "firstDowns": {
+        "label": "1st Downs",
+        "displayValue": "16",
+        "value": 16.0
+      },
+      "firstDownsPassing": {
+        "label": "Passing 1st downs",
+        "displayValue": "10",
+        "value": 10.0
+      },
+      "firstDownsRushing": {
+        "label": "Rushing 1st downs",
+        "displayValue": "5",
+        "value": 5.0
+      },
+      "firstDownsPenalty": {
+        "label": "1st downs from penalties",
+        "displayValue": "1",
+        "value": 1.0
+      },
+      "thirdDownEff": {
+        "label": "3rd down efficiency",
+        "displayValue": "3-9",
+        "value": 0.3333333333
+      },
+      "fourthDownEff": {
+        "label": "4th down efficiency",
+        "displayValue": "1-1",
+        "value": 1
+      },
+      "totalOffensivePlays": {
+        "label": "Total Plays",
+        "displayValue": "48",
+        "value": 48.0
+      },
+      "totalYards": {
+        "label": "Total Yards",
+        "displayValue": "293",
+        "value": "-"
+      },
+      "yardsPerPlay": {
+        "label": "Yards per Play",
+        "displayValue": "6.1",
+        "value": 6.1041666667
+      },
+      "totalDrives": {
+        "label": "Total Drives",
+        "displayValue": "8",
+        "value": 8.0
+      },
+      "netPassingYards": {
+        "label": "Passing",
+        "displayValue": "211",
+        "value": 211.0
+      },
+      "completionAttempts": {
+        "label": "Comp/Att",
+        "displayValue": "17/25",
+        "value": "-"
+      },
+      "yardsPerPass": {
+        "label": "Yards per pass",
+        "displayValue": "8.1",
+        "value": 8.115384615384615
+      },
+      "interceptions": {
+        "label": "Interceptions thrown",
+        "displayValue": "1",
+        "value": 1.0
+      },
+      "sacksYardsLost": {
+        "label": "Sacks-Yards Lost",
+        "displayValue": "1-9",
+        "value": "-"
+      },
+      "rushingYards": {
+        "label": "Rushing",
+        "displayValue": "82",
+        "value": 82.0
+      },
+      "rushingAttempts": {
+        "label": "Rushing Attempts",
+        "displayValue": "22",
+        "value": 22.0
+      },
+      "yardsPerRushAttempt": {
+        "label": "Yards per rush",
+        "displayValue": "3.7",
+        "value": 3.727
+      },
+      "redZoneAttempts": {
+        "label": "Red Zone (Made-Att)",
+        "displayValue": "2-4",
+        "value": 0.5
+      },
+      "totalPenaltiesYards": {
+        "label": "Penalties",
+        "displayValue": "12-96",
+        "value": "-"
+      },
+      "turnovers": {
+        "label": "Turnovers",
+        "displayValue": "1",
+        "value": "-"
+      },
+      "fumblesLost": {
+        "label": "Fumbles lost",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "defensiveTouchdowns": {
+        "label": "Defensive / Special Teams TDs",
+        "displayValue": "1",
+        "value": 1.0
+      },
+      "possessionTime": {
+        "label": "Possession",
+        "displayValue": "26:45",
+        "value": 1605
+      }
+    },
+    "opponentStats": {
+      "firstDowns": {
+        "label": "1st Downs",
+        "displayValue": "26",
+        "value": 26.0
+      },
+      "firstDownsPassing": {
+        "label": "Passing 1st downs",
+        "displayValue": "19",
+        "value": 19.0
+      },
+      "firstDownsRushing": {
+        "label": "Rushing 1st downs",
+        "displayValue": "4",
+        "value": 4.0
+      },
+      "firstDownsPenalty": {
+        "label": "1st downs from penalties",
+        "displayValue": "3",
+        "value": 3.0
+      },
+      "thirdDownEff": {
+        "label": "3rd down efficiency",
+        "displayValue": "5-15",
+        "value": 0.3333333333
+      },
+      "fourthDownEff": {
+        "label": "4th down efficiency",
+        "displayValue": "3-4",
+        "value": 0.75
+      },
+      "totalOffensivePlays": {
+        "label": "Total Plays",
+        "displayValue": "77",
+        "value": 77.0
+      },
+      "totalYards": {
+        "label": "Total Yards",
+        "displayValue": "352",
+        "value": "-"
+      },
+      "yardsPerPlay": {
+        "label": "Yards per Play",
+        "displayValue": "4.6",
+        "value": 4.5714285714
+      },
+      "totalDrives": {
+        "label": "Total Drives",
+        "displayValue": "10",
+        "value": 10.0
+      },
+      "netPassingYards": {
+        "label": "Passing",
+        "displayValue": "303",
+        "value": 303.0
+      },
+      "completionAttempts": {
+        "label": "Comp/Att",
+        "displayValue": "35/55",
+        "value": "-"
+      },
+      "yardsPerPass": {
+        "label": "Yards per pass",
+        "displayValue": "5.2",
+        "value": 5.224137931034483
+      },
+      "interceptions": {
+        "label": "Interceptions thrown",
+        "displayValue": "1",
+        "value": 1.0
+      },
+      "sacksYardsLost": {
+        "label": "Sacks-Yards Lost",
+        "displayValue": "3-25",
+        "value": "-"
+      },
+      "rushingYards": {
+        "label": "Rushing",
+        "displayValue": "49",
+        "value": 49.0
+      },
+      "rushingAttempts": {
+        "label": "Rushing Attempts",
+        "displayValue": "19",
+        "value": 19.0
+      },
+      "yardsPerRushAttempt": {
+        "label": "Yards per rush",
+        "displayValue": "2.6",
+        "value": 2.579
+      },
+      "redZoneAttempts": {
+        "label": "Red Zone (Made-Att)",
+        "displayValue": "3-4",
+        "value": 0.75
+      },
+      "totalPenaltiesYards": {
+        "label": "Penalties",
+        "displayValue": "7-83",
+        "value": "-"
+      },
+      "turnovers": {
+        "label": "Turnovers",
+        "displayValue": "2",
+        "value": "-"
+      },
+      "fumblesLost": {
+        "label": "Fumbles lost",
+        "displayValue": "1",
+        "value": 1.0
+      },
+      "defensiveTouchdowns": {
+        "label": "Defensive / Special Teams TDs",
+        "displayValue": "0",
+        "value": 0.0
+      },
+      "possessionTime": {
+        "label": "Possession",
+        "displayValue": "33:15",
+        "value": 1995
+      }
+    }
+  }
+]

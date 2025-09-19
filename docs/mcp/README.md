@@ -133,3 +133,31 @@ Once ready, deployment steps mirror CFBD: `pip install -r requirements.txt`, `uv
 - Consider retry/backoff for transient provider 5xx responses.
 - Capture provider Ray IDs/timestamps in logs to simplify escalation.
 - Extend tool registries as new endpoints or sports are required.
+- ESPN stats POC (teams + players): `docs/mcp/examples/espn_nfl_stats/` (ready to convert into a dedicated MCP).
+---
+
+## ESPN MCP (prototype)
+
+**Source:** mcp/espn
+
+> Proof-of-concept service wrapping ESPN NFL endpoints. Provides team metadata, season stats, and recent game/player box scores.
+
+### Current Code Layout
+`
+mcp/espn/
+  config.py        # Settings for ESPN site/core base URLs and request timeout
+  espn_client.py   # Shared async client with rate-friendly headers
+  utils.py         # Normalisers for team metadata, season stats, and box score summaries
+  tools.py         # Tool registry (team_meta, team_season_stats, team_recent_games, team_recent_players)
+  main.py          # FastAPI app => /health, /tools, /tools/{name}/invoke
+`
+
+### Tools
+| Tool | Description |
+| --- | --- |
+| 	eam_meta | Returns ESPN team metadata (logos, venue, reference links). |
+| 	eam_season_stats | Flattened season metrics (offense/defense/special teams) via ESPN splits. |
+| 	eam_recent_games | Recent completed games with team/opponent totals. |
+| 	eam_recent_players | Recent completed games with per-player box scores (passing, rushing, defense, ST). |
+
+See docs/mcp/examples/espn_nfl_stats/ for the snapshot helper and sample outputs (season 2025, team 22).
