@@ -6,7 +6,7 @@ import os
 from functools import lru_cache
 from typing import Optional
 
-from pydantic import BaseModel, Field, ValidationError
+from pydantic import BaseModel, Field, ValidationError, ConfigDict
 
 
 class Settings(BaseModel):
@@ -17,8 +17,7 @@ class Settings(BaseModel):
     )
     request_timeout: float = Field(default=30.0, alias="SPORTSGAMEODDS_TIMEOUT")
 
-    class Config:
-        allow_population_by_field_name = True
+    model_config = ConfigDict(populate_by_name=True)
 
 
 @lru_cache(maxsize=1)

@@ -1,0 +1,451 @@
+{
+  "data": [
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "firstDowns",
+      "statValue": 305,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "firstDownsOpponent",
+      "statValue": 249,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fourthDownConversions",
+      "statValue": 18,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fourthDownConversionsOpponent",
+      "statValue": 17,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fourthDowns",
+      "statValue": 27,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fourthDownsOpponent",
+      "statValue": 31,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fumblesLost",
+      "statValue": 7,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fumblesLostOpponent",
+      "statValue": 10,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fumblesRecovered",
+      "statValue": 11,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "fumblesRecoveredOpponent",
+      "statValue": 7,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "games",
+      "statValue": 14,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "interceptions",
+      "statValue": 13,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "interceptionsOpponent",
+      "statValue": 8,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "interceptionTDs",
+      "statValue": 0,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "interceptionTDsOpponent",
+      "statValue": 0,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "interceptionYards",
+      "statValue": 23,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "interceptionYardsOpponent",
+      "statValue": 156,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "kickReturns",
+      "statValue": 13,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "kickReturnsOpponent",
+      "statValue": 21,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "kickReturnTDs",
+      "statValue": 0,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "kickReturnTDsOpponent",
+      "statValue": 1,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "kickReturnYards",
+      "statValue": 205,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "kickReturnYardsOpponent",
+      "statValue": 450,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "netPassingYards",
+      "statValue": 3934,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "netPassingYardsOpponent",
+      "statValue": 2803,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passAttempts",
+      "statValue": 513,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passAttemptsOpponent",
+      "statValue": 423,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passCompletions",
+      "statValue": 336,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passCompletionsOpponent",
+      "statValue": 251,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passesIntercepted",
+      "statValue": 8,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passesInterceptedOpponent",
+      "statValue": 13,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passingTDs",
+      "statValue": 29,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "passingTDsOpponent",
+      "statValue": 14,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "penalties",
+      "statValue": 80,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "penaltiesOpponent",
+      "statValue": 89,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "penaltyYards",
+      "statValue": 751,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "penaltyYardsOpponent",
+      "statValue": 690,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "possessionTime",
+      "statValue": 24979,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "possessionTimeOpponent",
+      "statValue": 25121,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "puntReturns",
+      "statValue": 22,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "puntReturnsOpponent",
+      "statValue": 11,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "puntReturnTDs",
+      "statValue": 0,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "puntReturnTDsOpponent",
+      "statValue": 0,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "puntReturnYards",
+      "statValue": 174,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "puntReturnYardsOpponent",
+      "statValue": 57,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "rushingAttempts",
+      "statValue": 423,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "rushingAttemptsOpponent",
+      "statValue": 487,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "rushingTDs",
+      "statValue": 24,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "rushingTDsOpponent",
+      "statValue": 14,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "rushingYards",
+      "statValue": 1750,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "rushingYardsOpponent",
+      "statValue": 1854,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "sacks",
+      "statValue": 37,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "sacksOpponent",
+      "statValue": 25,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "tacklesForLoss",
+      "statValue": 87,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "tacklesForLossOpponent",
+      "statValue": 67,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "thirdDownConversions",
+      "statValue": 69,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "thirdDownConversionsOpponent",
+      "statValue": 64,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "thirdDowns",
+      "statValue": 176,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "thirdDownsOpponent",
+      "statValue": 197,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "totalYards",
+      "statValue": 5684,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "totalYardsOpponent",
+      "statValue": 4657,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "turnovers",
+      "statValue": 20,
+      "team": "Georgia"
+    },
+    {
+      "conference": "SEC",
+      "season": 2024,
+      "statName": "turnoversOpponent",
+      "statValue": 18,
+      "team": "Georgia"
+    }
+  ],
+  "params": {
+    "category": "offense",
+    "team": "Georgia",
+    "year": 2024
+  },
+  "tool": "stats_season"
+}
