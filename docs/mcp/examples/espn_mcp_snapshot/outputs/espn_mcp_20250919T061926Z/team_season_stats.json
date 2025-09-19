@@ -1,0 +1,1614 @@
+{
+  "tool": "team_season_stats",
+  "params": {
+    "teamId": 22,
+    "season": 2024
+  },
+  "data": {
+    "season": {
+      "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2024?lang=en&region=us"
+    },
+    "seasonType": {
+      "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2024/types/2?lang=en&region=us"
+    },
+    "statCount": 228,
+    "stats": {
+      "fumbles": {
+        "displayName": "Fumbles",
+        "displayValue": "21",
+        "value": 21.0,
+        "rank": 10,
+        "category": "general"
+      },
+      "fumblesLost": {
+        "displayName": "Fumbles Lost",
+        "displayValue": "9",
+        "value": 9.0,
+        "rank": 12,
+        "category": "miscellaneous"
+      },
+      "fumblesForced": {
+        "displayName": "Forced Fumbles",
+        "displayValue": "17",
+        "value": 17.0,
+        "rank": 27,
+        "category": "general"
+      },
+      "fumblesRecovered": {
+        "displayName": "Fumbles Recovered",
+        "displayValue": "8",
+        "value": 8.0,
+        "rank": 14,
+        "category": "general"
+      },
+      "fumblesTouchdowns": {
+        "displayName": "Fumbles Touchdowns",
+        "displayValue": "2",
+        "value": 2.0,
+        "rank": 15,
+        "category": "general"
+      },
+      "gamesPlayed": {
+        "displayName": "Games Played",
+        "displayValue": "17",
+        "value": 17.0,
+        "rank": 1,
+        "category": "general"
+      },
+      "offensiveTwoPtReturns": {
+        "displayName": "Two Point Returns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "general"
+      },
+      "offensiveFumblesTouchdowns": {
+        "displayName": "Fumbles Touchdowns",
+        "displayValue": "2",
+        "value": 2.0,
+        "rank": 1,
+        "category": "general"
+      },
+      "defensiveFumblesTouchdowns": {
+        "displayName": "Fumbles Touchdowns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 15,
+        "category": "general"
+      },
+      "totalPenalties": {
+        "displayName": "Total Penalties",
+        "displayValue": "92",
+        "value": 92.0,
+        "rank": 31,
+        "category": "miscellaneous"
+      },
+      "totalPenaltyYards": {
+        "displayName": "Total Penalty Yards",
+        "displayValue": "806",
+        "value": 806.0,
+        "rank": 26,
+        "category": "miscellaneous"
+      },
+      "avgGain": {
+        "displayName": "Average Gain",
+        "displayValue": "605.4",
+        "value": 605.368,
+        "rank": 6,
+        "category": "receiving"
+      },
+      "completionPct": {
+        "displayName": "Completion Percentage",
+        "displayValue": "68.9",
+        "value": 68.877,
+        "rank": 7,
+        "category": "passing"
+      },
+      "completions": {
+        "displayName": "Completions",
+        "displayValue": "374",
+        "value": 374.0,
+        "rank": 12,
+        "category": "passing"
+      },
+      "ESPNQBRating": {
+        "displayName": "ESPN Quarterback Rating",
+        "displayValue": "4999.0",
+        "value": 4999.0,
+        "rank": 20,
+        "category": "passing"
+      },
+      "interceptionPct": {
+        "displayName": "Interception Percentage",
+        "displayValue": "2.03",
+        "value": 2.026,
+        "rank": 13,
+        "category": "passing"
+      },
+      "interceptions": {
+        "displayName": "Interceptions",
+        "displayValue": "9",
+        "value": 9.0,
+        "rank": 24,
+        "category": "defensiveInterceptions"
+      },
+      "longPassing": {
+        "displayName": "Longest Pass",
+        "displayValue": "60",
+        "value": 60.0,
+        "rank": 24,
+        "category": "passing"
+      },
+      "miscYards": {
+        "displayName": "Miscellaneous Yards",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "receiving"
+      },
+      "netPassingYards": {
+        "displayName": "Net Passing Yards",
+        "displayValue": "3,639",
+        "value": 3639.0,
+        "rank": 18,
+        "category": "passing"
+      },
+      "netPassingYardsPerGame": {
+        "displayName": "Net Passing Yards Per Game",
+        "displayValue": "214.1",
+        "value": 214.05882,
+        "rank": 18,
+        "category": "passing"
+      },
+      "netTotalYards": {
+        "displayName": "Net Total Yards",
+        "displayValue": "6,090",
+        "value": 6090.0,
+        "rank": 11,
+        "category": "receiving"
+      },
+      "netYardsPerGame": {
+        "displayName": "Net Yards Per Game",
+        "displayValue": "358.2",
+        "value": 358.2353,
+        "rank": 11,
+        "category": "receiving"
+      },
+      "passingAttempts": {
+        "displayName": "Passing Attempts",
+        "displayValue": "543",
+        "value": 543.0,
+        "rank": 21,
+        "category": "passing"
+      },
+      "passingBigPlays": {
+        "displayName": "Passing Big Plays",
+        "displayValue": "43",
+        "value": 43.0,
+        "rank": 24,
+        "category": "passing"
+      },
+      "passingFirstDowns": {
+        "displayName": "Passing 1st downs",
+        "displayValue": "191",
+        "value": 191.0,
+        "rank": 17,
+        "category": "passing"
+      },
+      "passingFumbles": {
+        "displayName": "Passing Fumbles",
+        "displayValue": "8",
+        "value": 8.0,
+        "rank": 16,
+        "category": "passing"
+      },
+      "passingFumblesLost": {
+        "displayName": "Passing Fumbles Lost",
+        "displayValue": "5",
+        "value": 5.0,
+        "rank": 7,
+        "category": "passing"
+      },
+      "passingTouchdownPct": {
+        "displayName": "Passing Touchdown %",
+        "displayValue": "3.87",
+        "value": 3.867,
+        "rank": 20,
+        "category": "passing"
+      },
+      "passingTouchdowns": {
+        "displayName": "Passing Touchdowns",
+        "displayValue": "21",
+        "value": 21.0,
+        "rank": 20,
+        "category": "scoring"
+      },
+      "passingYards": {
+        "displayName": "Passing Yards",
+        "displayValue": "3,859",
+        "value": 3859.0,
+        "rank": 21,
+        "category": "passing"
+      },
+      "passingYardsAfterCatch": {
+        "displayName": "Passing Yards After Catch",
+        "displayValue": "1,974",
+        "value": 1974.0,
+        "rank": 14,
+        "category": "passing"
+      },
+      "passingYardsAtCatch": {
+        "displayName": "Passing Yards At Catch",
+        "displayValue": "1,885",
+        "value": 1885.0,
+        "rank": 22,
+        "category": "passing"
+      },
+      "passingYardsPerGame": {
+        "displayName": "Passing Yards Per Game",
+        "displayValue": "227.0",
+        "value": 227.0,
+        "rank": 21,
+        "category": "passing"
+      },
+      "QBRating": {
+        "displayName": "Passer Rating",
+        "displayValue": "93.5",
+        "value": 93.542,
+        "rank": 15,
+        "category": "passing"
+      },
+      "sacks": {
+        "displayName": "Sacks",
+        "displayValue": "41",
+        "value": 41.0,
+        "rank": 13,
+        "category": "defensive"
+      },
+      "sackYardsLost": {
+        "displayName": "Sack Yards Lost",
+        "displayValue": "220",
+        "value": 220.0,
+        "rank": 7,
+        "category": "passing"
+      },
+      "netPassingAttempts": {
+        "displayName": "Net Passing Attempts",
+        "displayValue": "573",
+        "value": 573.0,
+        "rank": 49,
+        "category": "passing"
+      },
+      "teamGamesPlayed": {
+        "displayName": "Team Games Played",
+        "displayValue": "17",
+        "value": 17.0,
+        "rank": 1,
+        "category": "punting"
+      },
+      "totalOffensivePlays": {
+        "displayName": "Total Offensive Plays",
+        "displayValue": "1036",
+        "value": 1036.0,
+        "rank": 38,
+        "category": "receiving"
+      },
+      "totalPoints": {
+        "displayName": "Total Points",
+        "displayValue": "400",
+        "value": 400.0,
+        "rank": 12,
+        "category": "scoring"
+      },
+      "totalPointsPerGame": {
+        "displayName": "Total Points Per Game",
+        "displayValue": "23.5",
+        "value": 23.529,
+        "rank": 12,
+        "category": "scoring"
+      },
+      "totalTouchdowns": {
+        "displayName": "Total Touchdowns",
+        "displayValue": "41",
+        "value": 41.0,
+        "rank": 12,
+        "category": "scoring"
+      },
+      "totalYards": {
+        "displayName": "Total Yards",
+        "displayValue": "6,310",
+        "value": 6310.0,
+        "rank": 10,
+        "category": "receiving"
+      },
+      "totalYardsFromScrimmage": {
+        "displayName": "Total Yards From Scrimmage",
+        "displayValue": "6310",
+        "value": 6310.0,
+        "rank": 1,
+        "category": "receiving"
+      },
+      "twoPointPassConvs": {
+        "displayName": "Two Point Pass Conversions",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 18,
+        "category": "scoring"
+      },
+      "twoPtPass": {
+        "displayName": "Two Point Pass",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 18,
+        "category": "passing"
+      },
+      "twoPtPassAttempts": {
+        "displayName": "Two Point Pass Attempts",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 31,
+        "category": "passing"
+      },
+      "yardsFromScrimmagePerGame": {
+        "displayName": "Yards From Scrimmage Per Game",
+        "displayValue": "371.2",
+        "value": 371.17648,
+        "rank": 10,
+        "category": "receiving"
+      },
+      "yardsPerCompletion": {
+        "displayName": "Yards Per Completion",
+        "displayValue": "10.3",
+        "value": 10.318,
+        "rank": 22,
+        "category": "passing"
+      },
+      "yardsPerGame": {
+        "displayName": "Yards Per Game",
+        "displayValue": "371.2",
+        "value": 371.176,
+        "rank": 10,
+        "category": "receiving"
+      },
+      "yardsPerPassAttempt": {
+        "displayName": "Yards Per Pass Attempt",
+        "displayValue": "7.1",
+        "value": 7.107,
+        "rank": 16,
+        "category": "passing"
+      },
+      "netYardsPerPassAttempt": {
+        "displayName": "Net Yards Per Pass Attempt",
+        "displayValue": "6.4",
+        "value": 6.350785340314136,
+        "rank": null,
+        "category": "passing"
+      },
+      "quarterbackRating": {
+        "displayName": "Quarterback Rating",
+        "displayValue": "93.5",
+        "value": 93.542,
+        "rank": 15,
+        "category": "passing"
+      },
+      "ESPNRBRating": {
+        "displayName": "ESPN RB Rating",
+        "displayValue": "2946.00",
+        "value": 2946.0,
+        "rank": 8,
+        "category": "rushing"
+      },
+      "longRushing": {
+        "displayName": "Long Rushing",
+        "displayValue": "53",
+        "value": 53.0,
+        "rank": 18,
+        "category": "rushing"
+      },
+      "rushingAttempts": {
+        "displayName": "Rushing Attempts",
+        "displayValue": "463",
+        "value": 463.0,
+        "rank": 11,
+        "category": "rushing"
+      },
+      "rushingBigPlays": {
+        "displayName": "20+ Yard Rushing Plays",
+        "displayValue": "17",
+        "value": 17.0,
+        "rank": 5,
+        "category": "rushing"
+      },
+      "rushingFirstDowns": {
+        "displayName": "Rushing 1st downs",
+        "displayValue": "136",
+        "value": 136.0,
+        "rank": 8,
+        "category": "rushing"
+      },
+      "rushingFumbles": {
+        "displayName": "Rushing Fumbles",
+        "displayValue": "17",
+        "value": 17.0,
+        "rank": 5,
+        "category": "rushing"
+      },
+      "rushingFumblesLost": {
+        "displayName": "Rushing Fumbles Lost",
+        "displayValue": "1",
+        "value": 1.0,
+        "rank": 23,
+        "category": "rushing"
+      },
+      "rushingTouchdowns": {
+        "displayName": "Rushing Touchdowns",
+        "displayValue": "18",
+        "value": 18.0,
+        "rank": 8,
+        "category": "scoring"
+      },
+      "rushingYards": {
+        "displayName": "Rushing Yards",
+        "displayValue": "2,451",
+        "value": 2451.0,
+        "rank": 7,
+        "category": "rushing"
+      },
+      "rushingYardsPerGame": {
+        "displayName": "Rushing Yards Per Game",
+        "displayValue": "144.2",
+        "value": 144.176,
+        "rank": 7,
+        "category": "rushing"
+      },
+      "stuffs": {
+        "displayName": "Stuffs",
+        "displayValue": "46",
+        "value": 46.0,
+        "rank": 14,
+        "category": "defensive"
+      },
+      "stuffYardsLost": {
+        "displayName": "Stuff Yards Lost",
+        "displayValue": "-80",
+        "value": -80.0,
+        "rank": 6,
+        "category": "rushing"
+      },
+      "twoPointRushConvs": {
+        "displayName": "Two Point Rush Conversion",
+        "displayValue": "3",
+        "value": 3.0,
+        "rank": 1,
+        "category": "scoring"
+      },
+      "twoPtRush": {
+        "displayName": "Two Point Rush",
+        "displayValue": "3",
+        "value": 3.0,
+        "rank": 1,
+        "category": "rushing"
+      },
+      "twoPtRushAttempts": {
+        "displayName": "Two Point Rush Attempts",
+        "displayValue": "5",
+        "value": 5.0,
+        "rank": 1,
+        "category": "rushing"
+      },
+      "yardsPerRushAttempt": {
+        "displayName": "Yards Per Rush Attempt",
+        "displayValue": "5.3",
+        "value": 5.294,
+        "rank": 2,
+        "category": "rushing"
+      },
+      "ESPNWRRating": {
+        "displayName": "ESPN Widereceiver Rating",
+        "displayValue": "6464.00",
+        "value": 6464.0,
+        "rank": 19,
+        "category": "receiving"
+      },
+      "longReception": {
+        "displayName": "Long Reception",
+        "displayValue": "60",
+        "value": 60.0,
+        "rank": 28,
+        "category": "receiving"
+      },
+      "receivingBigPlays": {
+        "displayName": "20+ Yard Receiving Plays",
+        "displayValue": "43",
+        "value": 43.0,
+        "rank": 24,
+        "category": "receiving"
+      },
+      "receivingFirstDowns": {
+        "displayName": "Receiving First Downs",
+        "displayValue": "191",
+        "value": 191.0,
+        "rank": 17,
+        "category": "receiving"
+      },
+      "receivingFumbles": {
+        "displayName": "Receiving Fumbles",
+        "displayValue": "8",
+        "value": 8.0,
+        "rank": 16,
+        "category": "receiving"
+      },
+      "receivingFumblesLost": {
+        "displayName": "Receiving Fumbles Lost",
+        "displayValue": "5",
+        "value": 5.0,
+        "rank": 7,
+        "category": "receiving"
+      },
+      "receivingTargets": {
+        "displayName": "Receiving Targets",
+        "displayValue": "523",
+        "value": 523.0,
+        "rank": 16,
+        "category": "receiving"
+      },
+      "receivingTouchdowns": {
+        "displayName": "Receiving Touchdowns",
+        "displayValue": "21",
+        "value": 21.0,
+        "rank": 20,
+        "category": "scoring"
+      },
+      "receivingYards": {
+        "displayName": "Receiving Yards",
+        "displayValue": "3,859",
+        "value": 3859.0,
+        "rank": 21,
+        "category": "receiving"
+      },
+      "receivingYardsAfterCatch": {
+        "displayName": "Receiving Yards After Catch",
+        "displayValue": "1972",
+        "value": 1972.0,
+        "rank": 13,
+        "category": "receiving"
+      },
+      "receivingYardsAtCatch": {
+        "displayName": "Receiving Yards At Catch",
+        "displayValue": "1887",
+        "value": 1887.0,
+        "rank": 24,
+        "category": "receiving"
+      },
+      "receivingYardsPerGame": {
+        "displayName": "Receiving Yards Per Game",
+        "displayValue": "227.0",
+        "value": 227.0,
+        "rank": 21,
+        "category": "receiving"
+      },
+      "receptions": {
+        "displayName": "Receptions",
+        "displayValue": "374",
+        "value": 374.0,
+        "rank": 12,
+        "category": "receiving"
+      },
+      "twoPointRecConvs": {
+        "displayName": "Two Point Receiving Conversion",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 17,
+        "category": "scoring"
+      },
+      "twoPtReception": {
+        "displayName": "Two Point Receptions",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 18,
+        "category": "receiving"
+      },
+      "twoPtReceptionAttempts": {
+        "displayName": "Two Point Reception Attempts",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 31,
+        "category": "receiving"
+      },
+      "yardsPerReception": {
+        "displayName": "Yards Per Reception",
+        "displayValue": "10.3",
+        "value": 10.318,
+        "rank": 22,
+        "category": "receiving"
+      },
+      "assistTackles": {
+        "displayName": "Assist Tackles",
+        "displayValue": "517",
+        "value": 517.0,
+        "rank": 31,
+        "category": "defensive"
+      },
+      "avgInterceptionYards": {
+        "displayName": "Average Interception Yards",
+        "displayValue": "1.3",
+        "value": 1.333,
+        "rank": 31,
+        "category": "defensive"
+      },
+      "avgSackYards": {
+        "displayName": "Average Sack Yards",
+        "displayValue": "6.2",
+        "value": 6.244,
+        "rank": 24,
+        "category": "defensive"
+      },
+      "avgStuffYards": {
+        "displayName": "Average Stuff Yards",
+        "displayValue": "4.7",
+        "value": 4.674,
+        "rank": 23,
+        "category": "defensive"
+      },
+      "blockedFieldGoalTouchdowns": {
+        "displayName": "Block Field Goal Touchdown",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 4,
+        "category": "defensive"
+      },
+      "blockedPuntTouchdowns": {
+        "displayName": "Blocked Punt Touchdowns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "defensiveTouchdowns": {
+        "displayName": "Defensive Touchdown",
+        "displayValue": "1",
+        "value": 1.0,
+        "rank": 18,
+        "category": "defensive"
+      },
+      "hurries": {
+        "displayName": "Hurries",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "kicksBlocked": {
+        "displayName": "Kicks Blocked",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 24,
+        "category": "defensive"
+      },
+      "longInterception": {
+        "displayName": "Long Interception",
+        "displayValue": "10",
+        "value": 10.0,
+        "rank": 30,
+        "category": "defensive"
+      },
+      "miscTouchdowns": {
+        "displayName": "Miscellaneous Touchdowns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 7,
+        "category": "defensive"
+      },
+      "passesBattedDown": {
+        "displayName": "Passes Batted Down",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "passesDefended": {
+        "displayName": "Passes Defended",
+        "displayValue": "63",
+        "value": 63.0,
+        "rank": 23,
+        "category": "defensive"
+      },
+      "twoPtReturns": {
+        "displayName": "Two Point Returns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "sackYards": {
+        "displayName": "Sack Yards",
+        "displayValue": "256",
+        "value": 256.0,
+        "rank": 17,
+        "category": "defensive"
+      },
+      "safeties": {
+        "displayName": "Safeties",
+        "displayValue": "2",
+        "value": 2.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "soloTackles": {
+        "displayName": "Solo Tackles",
+        "displayValue": "695",
+        "value": 695.0,
+        "rank": 38,
+        "category": "defensive"
+      },
+      "stuffYards": {
+        "displayName": "Stuff Yards",
+        "displayValue": "215",
+        "value": 215.0,
+        "rank": 18,
+        "category": "defensive"
+      },
+      "tacklesForLoss": {
+        "displayName": "Tackles For Loss",
+        "displayValue": "87",
+        "value": 87.0,
+        "rank": 12,
+        "category": "defensive"
+      },
+      "totalTackles": {
+        "displayName": "Total Tackles",
+        "displayValue": "1212",
+        "value": 1212.0,
+        "rank": 7,
+        "category": "defensive"
+      },
+      "yardsAllowed": {
+        "displayName": "Yards Allowed",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "pointsAllowed": {
+        "displayName": "Points Allowed",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "onePtSafetiesMade": {
+        "displayName": "One Point Safeties Made",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "scoring"
+      },
+      "missedFieldGoalReturnTd": {
+        "displayName": "Missed Field Goal Return TD",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "blockedPuntEzRecTd": {
+        "displayName": "Blocked Punt Ez Rec TD",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "defensive"
+      },
+      "interceptionTouchdowns": {
+        "displayName": "Interception Touchdowns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 19,
+        "category": "defensiveInterceptions"
+      },
+      "interceptionYards": {
+        "displayName": "Interception Yards",
+        "displayValue": "12",
+        "value": 12.0,
+        "rank": 31,
+        "category": "defensiveInterceptions"
+      },
+      "avgKickoffReturnYards": {
+        "displayName": "Average Kickoff Return Yards",
+        "displayValue": "27.3",
+        "value": 27.269,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "avgKickoffYards": {
+        "displayName": "Average Kickoff Yards",
+        "displayValue": "64.6",
+        "value": 64.621,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "extraPointAttempts": {
+        "displayName": "Extra Point Attempts",
+        "displayValue": "37",
+        "value": 37.0,
+        "rank": 3,
+        "category": "kicking"
+      },
+      "extraPointPct": {
+        "displayName": "Extra Point Percentage",
+        "displayValue": "97.3",
+        "value": 97.297,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "extraPointsBlocked": {
+        "displayName": "Extra Point Blocked",
+        "displayValue": "1",
+        "value": 1.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "extraPointsBlockedPct": {
+        "displayName": "Extra Points Blocked Percentage",
+        "displayValue": "3",
+        "value": 2.703,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "extraPointsMade": {
+        "displayName": "Extra Points Made",
+        "displayValue": "36",
+        "value": 36.0,
+        "rank": 3,
+        "category": "kicking"
+      },
+      "fairCatches": {
+        "displayName": "Fair Catches",
+        "displayValue": "20",
+        "value": 20.0,
+        "rank": 10,
+        "category": "punting"
+      },
+      "fairCatchPct": {
+        "displayName": "Fair Catch Percentage",
+        "displayValue": "1.1",
+        "value": 1.149,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts": {
+        "displayName": "Field Goal Attempts",
+        "displayValue": "38",
+        "value": 38.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts1_19": {
+        "displayName": "Field Goal Attempts 1-19",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts20_29": {
+        "displayName": "Field Goal Attempts 20-29",
+        "displayValue": "7",
+        "value": 7.0,
+        "rank": 3,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts30_39": {
+        "displayName": "Field Goal Attempts 30-39",
+        "displayValue": "12",
+        "value": 12.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts40_49": {
+        "displayName": "Field Goal Attempts 40-49",
+        "displayValue": "14",
+        "value": 14.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts50_59": {
+        "displayName": "Field Goal Attempts 50-59",
+        "displayValue": "5",
+        "value": 5.0,
+        "rank": 4,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts60_99": {
+        "displayName": "Field Goal Attempts 60-99",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "fieldGoalAttempts50": {
+        "displayName": "Field Goal Attempts 50+",
+        "displayValue": "5",
+        "value": 5.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "fieldGoalAttemptYards": {
+        "displayName": "Field Goal Attempt Yards",
+        "displayValue": "1,481",
+        "value": 1481.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "fieldGoalPct": {
+        "displayName": "Field Goal Percentage",
+        "displayValue": "89.5",
+        "value": 89.474,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalsBlocked": {
+        "displayName": "Field Goals Blocked",
+        "displayValue": "1",
+        "value": 1.0,
+        "rank": 3,
+        "category": "kicking"
+      },
+      "fieldGoalsBlockedPct": {
+        "displayName": "Field Goals Blocked Percentage",
+        "displayValue": "2.6",
+        "value": 2.632,
+        "rank": 3,
+        "category": "kicking"
+      },
+      "fieldGoalsMade": {
+        "displayName": "Field Goal Made",
+        "displayValue": "34",
+        "value": 34.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalsMade1_19": {
+        "displayName": "Field Goals Made 1-19",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalsMade20_29": {
+        "displayName": "Field Goals Made 20-29",
+        "displayValue": "7",
+        "value": 7.0,
+        "rank": 3,
+        "category": "kicking"
+      },
+      "fieldGoalsMade30_39": {
+        "displayName": "Field Goals Made 30-39",
+        "displayValue": "12",
+        "value": 12.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalsMade40_49": {
+        "displayName": "Field Goals Made 40-49",
+        "displayValue": "10",
+        "value": 10.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalsMade50_59": {
+        "displayName": "Field Goals Made 50-59",
+        "displayValue": "5",
+        "value": 5.0,
+        "rank": 4,
+        "category": "kicking"
+      },
+      "fieldGoalsMade60_99": {
+        "displayName": "Field Goals Made 60-99",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalsMade50": {
+        "displayName": "Field Goals Made 50+",
+        "displayValue": "5",
+        "value": 5.0,
+        "rank": 3,
+        "category": "kicking"
+      },
+      "fieldGoalsMadeYards": {
+        "displayName": "Field Goals Made Yards",
+        "displayValue": "1,304",
+        "value": 1304.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "fieldGoalsMissedYards": {
+        "displayName": "Field Goals Missed Yards",
+        "displayValue": "177",
+        "value": 177.0,
+        "rank": 4,
+        "category": "kicking"
+      },
+      "kickoffReturns": {
+        "displayName": "Kickoff Returns",
+        "displayValue": "26",
+        "value": 26.0,
+        "rank": 4,
+        "category": "kicking"
+      },
+      "kickoffReturnTouchdowns": {
+        "displayName": "Kickoff Return Touchdowns",
+        "displayValue": "1",
+        "value": 1.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "kickoffReturnYards": {
+        "displayName": "Kickoff Return Yards",
+        "displayValue": "709",
+        "value": 709.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "kickoffs": {
+        "displayName": "Kickoffs",
+        "displayValue": "87",
+        "value": 87.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "kickoffYards": {
+        "displayName": "Kickoff Yards",
+        "displayValue": "5,622",
+        "value": 5622.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "longFieldGoalAttempt": {
+        "displayName": "Long Field Goal Attempt",
+        "displayValue": "58",
+        "value": 58.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "longFieldGoalMade": {
+        "displayName": "Long Field Goal Made",
+        "displayValue": "58",
+        "value": 58.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "longKickoff": {
+        "displayName": "Long Kickoff",
+        "displayValue": "70",
+        "value": 70.0,
+        "rank": 2,
+        "category": "kicking"
+      },
+      "totalKickingPoints": {
+        "displayName": "Total Kicking Points",
+        "displayValue": "138",
+        "value": 138.0,
+        "rank": 1,
+        "category": "kicking"
+      },
+      "touchbackPct": {
+        "displayName": "Touchback Percentage",
+        "displayValue": "3.70",
+        "value": 3.704,
+        "rank": 30,
+        "category": "punting"
+      },
+      "touchbacks": {
+        "displayName": "Touchbacks",
+        "displayValue": "2",
+        "value": 2.0,
+        "rank": 28,
+        "category": "punting"
+      },
+      "defFumbleReturns": {
+        "displayName": "Defensive Fumbles Returns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "defFumbleReturnYards": {
+        "displayName": "Defensive Fumble Return Yards",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "fumbleRecoveries": {
+        "displayName": "Fumble Recoveries",
+        "displayValue": "8",
+        "value": 8.0,
+        "rank": 16,
+        "category": "returning"
+      },
+      "fumbleRecoveryYards": {
+        "displayName": "Fumble Recovery Yards",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "kickReturnFairCatches": {
+        "displayName": "Kick Return Fair Catches",
+        "displayValue": "1",
+        "value": 1.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "kickReturnFairCatchPct": {
+        "displayName": "Kick Return Fair Catch Percentage",
+        "displayValue": "3.85",
+        "value": 3.846154,
+        "rank": 4,
+        "category": "returning"
+      },
+      "kickReturnFumbles": {
+        "displayName": "Kick Return Fumbles",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "kickReturnFumblesLost": {
+        "displayName": "Kick Return Fumbles Lost",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "kickReturns": {
+        "displayName": "Kick Returns",
+        "displayValue": "25",
+        "value": 25.0,
+        "rank": 22,
+        "category": "returning"
+      },
+      "kickReturnTouchdowns": {
+        "displayName": "Kick Return Touchdowns",
+        "displayValue": "1",
+        "value": 1.0,
+        "rank": 2,
+        "category": "returning"
+      },
+      "kickReturnYards": {
+        "displayName": "Kick Return Yards",
+        "displayValue": "709",
+        "value": 709.0,
+        "rank": 22,
+        "category": "returning"
+      },
+      "longKickReturn": {
+        "displayName": "Long Kick Return",
+        "displayValue": "96",
+        "value": 96.0,
+        "rank": 6,
+        "category": "returning"
+      },
+      "longPuntReturn": {
+        "displayName": "Long Punt Return",
+        "displayValue": "27",
+        "value": 27.0,
+        "rank": 22,
+        "category": "returning"
+      },
+      "miscFumbleReturns": {
+        "displayName": "Miscellaneous Fumbles Returns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "miscFumbleReturnYards": {
+        "displayName": "Miscellaneous Fumble Return Yards",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "oppFumbleRecoveries": {
+        "displayName": "Opposition Fumble Recoveries",
+        "displayValue": "9",
+        "value": 9.0,
+        "rank": 11,
+        "category": "returning"
+      },
+      "oppFumbleRecoveryYards": {
+        "displayName": "Opposition Fumble Recovery Yards",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "oppSpecialTeamFumbleReturns": {
+        "displayName": "Opposition Special Team Fumble Returns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "oppSpecialTeamFumbleReturnYards": {
+        "displayName": "Opposition Special Team Fumble Return Yards",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "puntReturnFairCatches": {
+        "displayName": "Punt Return Fair Catches",
+        "displayValue": "3",
+        "value": 3.0,
+        "rank": 32,
+        "category": "returning"
+      },
+      "puntReturnFairCatchPct": {
+        "displayName": "Punt Return Fair Catch Percentage",
+        "displayValue": "12.50",
+        "value": 12.5,
+        "rank": 640,
+        "category": "returning"
+      },
+      "puntReturnFumbles": {
+        "displayName": "Punt Return Fumbles",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "puntReturnFumblesLost": {
+        "displayName": "Punt Return Fumbles Lost",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "puntReturns": {
+        "displayName": "Punt Returns",
+        "displayValue": "21",
+        "value": 21.0,
+        "rank": 27,
+        "category": "punting"
+      },
+      "puntReturnsStartedInsideThe10": {
+        "displayName": "Punt Returns Started Inside the 10",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "puntReturnsStartedInsideThe20": {
+        "displayName": "Punt Returns Started Inside the 20",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "puntReturnTouchdowns": {
+        "displayName": "Punt Return Touchdowns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 7,
+        "category": "returning"
+      },
+      "puntReturnYards": {
+        "displayName": "Punt Return Yards",
+        "displayValue": "214",
+        "value": 214.0,
+        "rank": 22,
+        "category": "punting"
+      },
+      "specialTeamFumbleReturns": {
+        "displayName": "Special Team Fumbles Returns",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "specialTeamFumbleReturnYards": {
+        "displayName": "Special Team Fumble Return Yards",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "returning"
+      },
+      "yardsPerKickReturn": {
+        "displayName": "Yards Per Kick Return",
+        "displayValue": "28.4",
+        "value": 28.36,
+        "rank": 1,
+        "category": "returning"
+      },
+      "yardsPerPuntReturn": {
+        "displayName": "Yards Per Punt Return",
+        "displayValue": "9.6",
+        "value": 9.619047,
+        "rank": null,
+        "category": "returning"
+      },
+      "yardsPerReturn": {
+        "displayName": "Yards Per Return",
+        "displayValue": "19.8",
+        "value": 19.804348,
+        "rank": null,
+        "category": "returning"
+      },
+      "avgPuntReturnYards": {
+        "displayName": "Average Punt Return Yards",
+        "displayValue": "10.2",
+        "value": 10.19,
+        "rank": 14,
+        "category": "punting"
+      },
+      "grossAvgPuntYards": {
+        "displayName": "Gross Average Punt Yards",
+        "displayValue": "47.5",
+        "value": 47.463,
+        "rank": 15,
+        "category": "punting"
+      },
+      "longPunt": {
+        "displayName": "Long Punt",
+        "displayValue": "63",
+        "value": 63.0,
+        "rank": 30,
+        "category": "punting"
+      },
+      "netAvgPuntYards": {
+        "displayName": "Net Average Punt Yards",
+        "displayValue": "43.5",
+        "value": 43.5,
+        "rank": 12,
+        "category": "punting"
+      },
+      "punts": {
+        "displayName": "Punts",
+        "displayValue": "54",
+        "value": 54.0,
+        "rank": 25,
+        "category": "punting"
+      },
+      "puntsBlocked": {
+        "displayName": "Punts Blocked",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 11,
+        "category": "punting"
+      },
+      "puntsBlockedPct": {
+        "displayName": "Punts Blocked Percentage",
+        "displayValue": "0.00",
+        "value": 0.0,
+        "rank": 11,
+        "category": "punting"
+      },
+      "puntsInside10": {
+        "displayName": "Punts Inside 10",
+        "displayValue": "6",
+        "value": 6.0,
+        "rank": 23,
+        "category": "punting"
+      },
+      "puntsInside10Pct": {
+        "displayName": "Punts Inside 10 Percentage",
+        "displayValue": "11.11",
+        "value": 11.111,
+        "rank": 23,
+        "category": "punting"
+      },
+      "puntsInside20": {
+        "displayName": "Punts Inside 20",
+        "displayValue": "20",
+        "value": 20.0,
+        "rank": 27,
+        "category": "punting"
+      },
+      "puntsInside20Pct": {
+        "displayName": "Punts Inside 20 Percentage",
+        "displayValue": "37.04",
+        "value": 37.037,
+        "rank": 26,
+        "category": "punting"
+      },
+      "puntYards": {
+        "displayName": "Punt Yards",
+        "displayValue": "2,563",
+        "value": 2563.0,
+        "rank": 25,
+        "category": "punting"
+      },
+      "defensivePoints": {
+        "displayName": "Defensive Points",
+        "displayValue": "46",
+        "value": 46.0,
+        "rank": 7,
+        "category": "scoring"
+      },
+      "fieldGoals": {
+        "displayName": "Field Goals",
+        "displayValue": "34",
+        "value": 34.0,
+        "rank": 7,
+        "category": "scoring"
+      },
+      "kickExtraPoints": {
+        "displayName": "Kick Extra Points",
+        "displayValue": "36",
+        "value": 36.0,
+        "rank": 15,
+        "category": "scoring"
+      },
+      "kickExtraPointsMade": {
+        "displayName": "Kick Extra Points Made",
+        "displayValue": "36",
+        "value": 36.0,
+        "rank": 15,
+        "category": "scoring"
+      },
+      "miscPoints": {
+        "displayName": "Miscellaneous Points",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "scoring"
+      },
+      "returnTouchdowns": {
+        "displayName": "Return Touchdowns",
+        "displayValue": "2",
+        "value": 2.0,
+        "rank": 10,
+        "category": "scoring"
+      },
+      "totalTwoPointConvs": {
+        "displayName": "Total Two Point Conversions",
+        "displayValue": "3",
+        "value": 3.0,
+        "rank": 5,
+        "category": "scoring"
+      },
+      "firstDowns": {
+        "displayName": "Total 1st downs",
+        "displayValue": "356",
+        "value": 356.0,
+        "rank": 9,
+        "category": "miscellaneous"
+      },
+      "firstDownsPassing": {
+        "displayName": "Passing 1st downs",
+        "displayValue": "191",
+        "value": 191.0,
+        "rank": 17,
+        "category": "miscellaneous"
+      },
+      "firstDownsPenalty": {
+        "displayName": "1st downs by penalty",
+        "displayValue": "29",
+        "value": 29.0,
+        "rank": 18,
+        "category": "miscellaneous"
+      },
+      "firstDownsPerGame": {
+        "displayName": "First Downs Per Game",
+        "displayValue": "20.94",
+        "value": 20.941,
+        "rank": 9,
+        "category": "miscellaneous"
+      },
+      "firstDownsRushing": {
+        "displayName": "Rushing 1st downs",
+        "displayValue": "136",
+        "value": 136.0,
+        "rank": 8,
+        "category": "miscellaneous"
+      },
+      "fourthDownAttempts": {
+        "displayName": "First Downs Attempts",
+        "displayValue": "18",
+        "value": 18.0,
+        "rank": 23,
+        "category": "miscellaneous"
+      },
+      "fourthDownConvPct": {
+        "displayName": "4th down %",
+        "displayValue": "44.44",
+        "value": 44.444,
+        "rank": 28,
+        "category": "miscellaneous"
+      },
+      "fourthDownConvs": {
+        "displayName": "Fourth Down Conversions",
+        "displayValue": "8",
+        "value": 8.0,
+        "rank": 27,
+        "category": "miscellaneous"
+      },
+      "possessionTimeSeconds": {
+        "displayName": "Possession Time Seconds",
+        "displayValue": "30346",
+        "value": 30346.0,
+        "rank": 22,
+        "category": "miscellaneous"
+      },
+      "redzoneEfficiencyPct": {
+        "displayName": "Red Zone Efficiency Percentage",
+        "displayValue": "64.41",
+        "value": 64.41,
+        "rank": 20,
+        "category": "miscellaneous"
+      },
+      "redzoneFieldGoalPct": {
+        "displayName": "Red Zone Field Goal Percentage",
+        "displayValue": "31.58",
+        "value": 31.58,
+        "rank": 6,
+        "category": "miscellaneous"
+      },
+      "redzoneScoringPct": {
+        "displayName": "Red Zone Scoring Percentage",
+        "displayValue": "82.46",
+        "value": 82.46,
+        "rank": 17,
+        "category": "miscellaneous"
+      },
+      "redzoneTouchdownPct": {
+        "displayName": "Red Zone Touchdown Percentage",
+        "displayValue": "50.88",
+        "value": 50.88,
+        "rank": 25,
+        "category": "miscellaneous"
+      },
+      "thirdDownAttempts": {
+        "displayName": "Third Down Attempts",
+        "displayValue": "193",
+        "value": 193.0,
+        "rank": 30,
+        "category": "miscellaneous"
+      },
+      "thirdDownConvPct": {
+        "displayName": "3rd down %",
+        "displayValue": "43.01",
+        "value": 43.005,
+        "rank": 8,
+        "category": "miscellaneous"
+      },
+      "thirdDownConvs": {
+        "displayName": "Third Down Conversions",
+        "displayValue": "83",
+        "value": 83.0,
+        "rank": 15,
+        "category": "miscellaneous"
+      },
+      "totalGiveaways": {
+        "displayName": "Total Giveaways",
+        "displayValue": "20",
+        "value": 20.0,
+        "rank": 17,
+        "category": "miscellaneous"
+      },
+      "totalTakeaways": {
+        "displayName": "Total Takeaways",
+        "displayValue": "17",
+        "value": 17.0,
+        "rank": 20,
+        "category": "miscellaneous"
+      },
+      "totalDrives": {
+        "displayName": "Total Drives",
+        "displayValue": "0",
+        "value": 0.0,
+        "rank": 1,
+        "category": "miscellaneous"
+      },
+      "turnOverDifferential": {
+        "displayName": "Turnover Ratio",
+        "displayValue": "-3",
+        "value": -3.0,
+        "rank": 18,
+        "category": "miscellaneous"
+      }
+    }
+  }
+}

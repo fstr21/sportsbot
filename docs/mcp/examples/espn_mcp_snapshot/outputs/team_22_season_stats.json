@@ -46,7 +46,7 @@
       "displayName": "Games Played",
       "displayValue": "2",
       "value": 2.0,
-      "rank": 1,
+      "rank": 3,
       "category": "general"
     },
     "offensiveTwoPtReturns": {
@@ -277,7 +277,7 @@
       "displayName": "Team Games Played",
       "displayValue": "2",
       "value": 2.0,
-      "rank": 1,
+      "rank": 3,
       "category": "punting"
     },
     "totalOffensivePlays": {
@@ -389,7 +389,7 @@
       "displayName": "ESPN RB Rating",
       "displayValue": "263.00",
       "value": 263.0,
-      "rank": 17,
+      "rank": 18,
       "category": "rushing"
     },
     "longRushing": {
@@ -1586,7 +1586,7 @@
       "displayName": "Total Takeaways",
       "displayValue": "2",
       "value": 2.0,
-      "rank": 11,
+      "rank": 12,
       "category": "miscellaneous"
     },
     "totalDrives": {

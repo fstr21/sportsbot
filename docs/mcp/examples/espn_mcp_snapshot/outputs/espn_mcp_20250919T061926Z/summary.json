@@ -1,0 +1,39 @@
+{
+  "timestamp": "20250919T061926Z",
+  "tests": [
+    {
+      "tool": "team_meta",
+      "params": {
+        "teamId": 22,
+        "season": 2024
+      },
+      "output_path": "team_meta.json"
+    },
+    {
+      "tool": "team_season_stats",
+      "params": {
+        "teamId": 22,
+        "season": 2024
+      },
+      "output_path": "team_season_stats.json"
+    },
+    {
+      "tool": "team_recent_games",
+      "params": {
+        "teamId": 22,
+        "season": 2024,
+        "gameLimit": 3
+      },
+      "output_path": "team_recent_games.json"
+    },
+    {
+      "tool": "team_recent_players",
+      "params": {
+        "teamId": 22,
+        "season": 2024,
+        "gameLimit": 3
+      },
+      "output_path": "team_recent_players.json"
+    }
+  ]
+}

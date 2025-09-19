@@ -1,0 +1,32 @@
+{
+  "team_meta": {
+    "keys": [
+      "$ref",
+      "abbreviation",
+      "againstTheSpreadRecords",
+      "alternateColor",
+      "alternateIds",
+      "attendance",
+      "coaches",
+      "color",
+      "displayName",
+      "events"
+    ],
+    "total_keys": 32
+  },
+  "team_season_stats": {
+    "keys": [
+      "season",
+      "seasonType",
+      "statCount",
+      "stats"
+    ],
+    "total_keys": 4
+  },
+  "team_recent_games": {
+    "count": 3
+  },
+  "team_recent_players": {
+    "count": 3
+  }
+}

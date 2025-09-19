@@ -1,4 +1,4 @@
-ï»¿# MCP Access Guide
+# MCP Access Guide
 
 This guide covers the CollegeFootballData MCP service that is live today, plus the scaffolded (not yet deployed) SportsGameOdds service.
 
@@ -105,22 +105,22 @@ mcp/sportsgameodds/
 
 
 ### TODO Before Deploying
-1. **Health Check** â€“ Railway logs show requests hitting `/GET%20/health` when misconfigured. Set path to `/health` without the verb.
-2. **Environment variable validation** â€“ Address the pydantic warning (V2 renamed `allow_population_by_field_name` -> `populate_by_name`). Update config accordingly.
-3. **Testing harness** â€“ Replicate `cfbd_mcp_test` for SportsGameOdds once deployed.
-4. **Provider coverage** â€“ Confirm required endpoints (`/sports`, `/leagues`, `/bookmakers`, `/bet-types`, `/stats`, `/events`) match project requirements.
+1. **Health Check** – Railway logs show requests hitting `/GET%20/health` when misconfigured. Set path to `/health` without the verb.
+2. **Environment variable validation** – Address the pydantic warning (V2 renamed `allow_population_by_field_name` -> `populate_by_name`). Update config accordingly.
+3. **Testing harness** – Replicate `cfbd_mcp_test` for SportsGameOdds once deployed.
+4. **Provider coverage** – Confirm required endpoints (`/sports`, `/leagues`, `/bookmakers`, `/bet-types`, `/stats`, `/events`) match project requirements.
 
 Once ready, deployment steps mirror CFBD: `pip install -r requirements.txt`, `uvicorn main:app --host 0.0.0.0 --port $PORT`, service variable `SPORTSGAMEODDS_API_KEY`, health path `/health`.
 
 ---
 
 ## Troubleshooting Cheat Sheet
-- **401 Unauthorized (CFBD)** â€“ Key expired/revoked; update env var and redeploy.
-- **502 Bad Gateway (CFBD)** â€“ Cloudflare host error; capture Ray ID, notify CFBD.
-- **500 Internal Server Error** â€“ Upstream bug (ratings/stats). Record timestamp, escalate if persistent.
-- **Timeouts** â€“ Upstream slow/unreachable; retry or check provider status.
-- **400 errors (SGO)** â€“ Review `docs/sgo_docs` reference for valid IDs.
-- **Railway health check 404** â€“ Ensure the health path is `/health` (no verb, no protocol).
+- **401 Unauthorized (CFBD)** – Key expired/revoked; update env var and redeploy.
+- **502 Bad Gateway (CFBD)** – Cloudflare host error; capture Ray ID, notify CFBD.
+- **500 Internal Server Error** – Upstream bug (ratings/stats). Record timestamp, escalate if persistent.
+- **Timeouts** – Upstream slow/unreachable; retry or check provider status.
+- **400 errors (SGO)** – Review `docs/sgo_docs` reference for valid IDs.
+- **Railway health check 404** – Ensure the health path is `/health` (no verb, no protocol).
 
 ## Maintenance Checklist
 - Confirm Railway env vars before deploy.
@@ -161,3 +161,16 @@ mcp/espn/
 | 	eam_recent_players | Recent completed games with per-player box scores (passing, rushing, defense, ST). |
 
 See docs/mcp/examples/espn_nfl_stats/ for the snapshot helper and sample outputs (season 2025, team 22).
+### ESPN MCP Testing Notes (2025-09-19)
+- `python docs/mcp/examples/espn_mcp_snapshot/scripts/run_espn_mcp_tests.py`: quick harness hitting all four tools (`team_meta`, `team_season_stats`, `team_recent_games`, `team_recent_players`) for `teamId=22`, `season=2024`; artefacts live in `docs/mcp/examples/espn_mcp_snapshot/outputs/espn_mcp_20250919T061926Z/`.
+- `python docs/mcp/examples/espn_mcp_snapshot/scripts/espn_mcp_snapshot.py --team-id 22 --season 2025 --game-limit 3 --output docs/mcp/examples/espn_mcp_snapshot/outputs`: mirrors the legacy POC snapshot via MCP tools; writes JSON + Markdown under `docs/mcp/examples/espn_mcp_snapshot/outputs/team_22_season_2025/`.
+- `python docs/mcp/examples/espn_mcp_snapshot/scripts/espn_mcp_snapshot.py --team-id 1 --season 2024 --game-limit 2 --output docs/mcp/examples/espn_mcp_snapshot/outputs`: validates cross-team, cross-season coverage (outputs in `docs/mcp/examples/espn_mcp_snapshot/outputs/team_1_season_2024/`).
+- `python docs/mcp/examples/espn_mcp_snapshot/scripts/espn_mcp_limit_check.py`: requests 12 recent games and confirms the tool enforces a max `gameLimit` of 10 (current sample returns 2 finals for 2025).
+- `python docs/mcp/examples/espn_mcp_snapshot/scripts/espn_mcp_error_check.py`: negative `teamId` surfaces HTTP 400 with "teamId must be positive", exercising parameter validation.
+
+Observations:
+- Player payloads remain large (~300–370 KB for three games) and preserve ESPN field names; downstream consumers should trim as needed.
+- ESPN timestamps arrive in UTC (`Z` suffix); convert to ET in the Day Snapshot flow to stay compliant with policy.
+- Player positions are often missing (`None`); Markdown summaries substitute `--` until upstream fills those fields.
+- `docs/mcp/examples/espn_mcp_snapshot/espn_mcp_notes.md` logs each test run with command lines, output folders, and quirks encountered for quick reference.
+
