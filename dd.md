@@ -1,1 +1,0 @@
-OK IT Says its active   here collegefootballdatamcp-production.up.railway.app can you run extensive tsting for the tools , feel free to create any subfolders and files in C:\Users\fstr2\Desktop\sportsbot\cfbd_mcp_test but keep everything in there for now, after wihcih ill ask you for a README.md for everything we learned. 
