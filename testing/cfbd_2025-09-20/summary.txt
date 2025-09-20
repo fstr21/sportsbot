@@ -1,0 +1,6 @@
+Target date (ET): 09/20/2025
+Games retained: 35
+Database inserted: 14
+Database updated: 6
+Skipped (missing teams or metadata): 274
+Output JSON: C:/Users/fstr2/Desktop/sportsbot/testing/cfbd_2025-09-20/games_filtered.json
