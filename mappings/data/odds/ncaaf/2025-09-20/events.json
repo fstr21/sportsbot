@@ -1,0 +1,599 @@
+{
+  "league": "NCAAF",
+  "date": "09/20/2025",
+  "generated_at_et": "2025-09-20T01:49:45.638595-04:00",
+  "calendar": {
+    "season": 2025,
+    "week": 4,
+    "season_type": "regular",
+    "window_start_et": "2025-09-15T03:00:00-04:00",
+    "window_end_et": "2025-09-22T02:59:00-04:00"
+  },
+  "counts": {
+    "games": 8,
+    "games_with_odds": 8
+  },
+  "games": [
+    {
+      "game_id": 401752708,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T12:00:00-04:00",
+      "start_time_display": "2025-09-20 12:00 PM ET",
+      "venue": {
+        "name": "Simmons Bank Liberty Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Memphis",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1658,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "Arkansas",
+        "conference": "SEC",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1678,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": 7.5,
+          "over_under": 60.5,
+          "home_moneyline": 225,
+          "away_moneyline": -278,
+          "spread_open": 5.5,
+          "over_under_open": null,
+          "formatted_spread": "Arkansas -7.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": 7.5,
+          "over_under": 61.5,
+          "home_moneyline": 225,
+          "away_moneyline": -275,
+          "spread_open": 6.5,
+          "over_under_open": 62.5,
+          "formatted_spread": "Arkansas -7.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": 7,
+          "over_under": 61,
+          "home_moneyline": 195,
+          "away_moneyline": -235,
+          "spread_open": 6.5,
+          "over_under_open": 62.5,
+          "formatted_spread": "Arkansas -7.0",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401762469,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T12:00:00-04:00",
+      "start_time_display": "2025-09-20 12:00 PM ET",
+      "venue": {
+        "name": "Michie Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Army",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1615,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "North Texas",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1585,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": true,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": 2.5,
+          "over_under": 50.5,
+          "home_moneyline": 110,
+          "away_moneyline": -130,
+          "spread_open": -1.5,
+          "over_under_open": null,
+          "formatted_spread": "North Texas -2.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": 2.5,
+          "over_under": 50.5,
+          "home_moneyline": 105,
+          "away_moneyline": -125,
+          "spread_open": -1.5,
+          "over_under_open": 53.5,
+          "formatted_spread": "North Texas -2.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": 2.5,
+          "over_under": 50.5,
+          "home_moneyline": -110,
+          "away_moneyline": -110,
+          "spread_open": 1,
+          "over_under_open": 52,
+          "formatted_spread": "North Texas -2.5",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401762470,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T12:00:00-04:00",
+      "start_time_display": "2025-09-20 12:00 PM ET",
+      "venue": {
+        "name": "Raymond James Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "South Florida",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1477,
+        "postgame_elo": 1477
+      },
+      "away": {
+        "team": "South Carolina State",
+        "conference": "MEAC",
+        "classification": "fcs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": null,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": -29.5,
+          "over_under": 56.5,
+          "home_moneyline": -10000,
+          "away_moneyline": 3000,
+          "spread_open": null,
+          "over_under_open": null,
+          "formatted_spread": "South Florida -29.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": -30.5,
+          "over_under": 56.5,
+          "home_moneyline": -7500,
+          "away_moneyline": 2000,
+          "spread_open": -30,
+          "over_under_open": 56.5,
+          "formatted_spread": "South Florida -30.5",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401752715,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T12:45:00-04:00",
+      "start_time_display": "2025-09-20 12:45 PM ET",
+      "venue": {
+        "name": "Neyland Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Tennessee",
+        "conference": "SEC",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1809,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "UAB",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1307,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": -38.5,
+          "over_under": 68.5,
+          "home_moneyline": null,
+          "away_moneyline": null,
+          "spread_open": -41.5,
+          "over_under_open": null,
+          "formatted_spread": "Tennessee -38.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": -39,
+          "over_under": 69,
+          "home_moneyline": null,
+          "away_moneyline": null,
+          "spread_open": -38,
+          "over_under_open": 67,
+          "formatted_spread": "Tennessee -39.0",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": -38.5,
+          "over_under": 68.5,
+          "home_moneyline": null,
+          "away_moneyline": null,
+          "spread_open": -37.5,
+          "over_under_open": 68.5,
+          "formatted_spread": "Tennessee -38.5",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401752711,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T15:30:00-04:00",
+      "start_time_display": "2025-09-20 03:30 PM ET",
+      "venue": {
+        "name": "Vaught-Hemingway Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Ole Miss",
+        "conference": "SEC",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1918,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "Tulane",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1642,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": -11.5,
+          "over_under": 61.5,
+          "home_moneyline": -440,
+          "away_moneyline": 340,
+          "spread_open": -13.5,
+          "over_under_open": null,
+          "formatted_spread": "Ole Miss -11.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": -11.5,
+          "over_under": 61,
+          "home_moneyline": -470,
+          "away_moneyline": 345,
+          "spread_open": -12.5,
+          "over_under_open": 60.5,
+          "formatted_spread": "Ole Miss -11.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": -11.5,
+          "over_under": 61.5,
+          "home_moneyline": -450,
+          "away_moneyline": 340,
+          "spread_open": -12.5,
+          "over_under_open": 61.5,
+          "formatted_spread": "Ole Miss -11.5",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401754542,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T16:30:00-04:00",
+      "start_time_display": "2025-09-20 04:30 PM ET",
+      "venue": {
+        "name": "Bobby Dodd Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Georgia Tech",
+        "conference": "ACC",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1560,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "Temple",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1221,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": -24.5,
+          "over_under": 52.5,
+          "home_moneyline": -2400,
+          "away_moneyline": 1200,
+          "spread_open": -24.5,
+          "over_under_open": null,
+          "formatted_spread": "Georgia Tech -24.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": -24.5,
+          "over_under": 52.5,
+          "home_moneyline": -2500,
+          "away_moneyline": 1000,
+          "spread_open": -24,
+          "over_under_open": 53.5,
+          "formatted_spread": "Georgia Tech -24.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": -24.5,
+          "over_under": 52.5,
+          "home_moneyline": -3000,
+          "away_moneyline": 1200,
+          "spread_open": -23.5,
+          "over_under_open": 53.5,
+          "formatted_spread": "Georgia Tech -24.5",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401756898,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T19:30:00-04:00",
+      "start_time_display": "2025-09-20 07:30 PM ET",
+      "venue": {
+        "name": "Dowdy-Ficklen Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "East Carolina",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1519,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "BYU",
+        "conference": "Big 12",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1666,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": 6.5,
+          "over_under": 49.5,
+          "home_moneyline": 195,
+          "away_moneyline": -238,
+          "spread_open": 9.5,
+          "over_under_open": null,
+          "formatted_spread": "BYU -6.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": 6.5,
+          "over_under": 49.5,
+          "home_moneyline": 195,
+          "away_moneyline": -235,
+          "spread_open": 7,
+          "over_under_open": 49.5,
+          "formatted_spread": "BYU -6.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": 6.5,
+          "over_under": 49.5,
+          "home_moneyline": 195,
+          "away_moneyline": -230,
+          "spread_open": 7.5,
+          "over_under_open": 48.5,
+          "formatted_spread": "BYU -6.5",
+          "last_updated": null
+        }
+      ]
+    },
+    {
+      "game_id": 401760373,
+      "season": 2025,
+      "week": 4,
+      "season_type": "regular",
+      "start_time_et": "2025-09-20T21:30:00-04:00",
+      "start_time_display": "2025-09-20 09:30 PM ET",
+      "venue": {
+        "name": "Canvas Stadium",
+        "city": null,
+        "state": null,
+        "capacity": null
+      },
+      "home": {
+        "team": "Colorado State",
+        "conference": "Mountain West",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1363,
+        "postgame_elo": null
+      },
+      "away": {
+        "team": "UTSA",
+        "conference": "American Athletic",
+        "classification": "fbs",
+        "points": null,
+        "line_scores": null,
+        "pregame_elo": 1499,
+        "postgame_elo": null
+      },
+      "excitement_index": null,
+      "notes": {
+        "broadcast": null,
+        "neutral_site": false,
+        "conference_game": false,
+        "venue_id": null
+      },
+      "odds": [
+        {
+          "provider": "DraftKings",
+          "spread": 4.5,
+          "over_under": 58.5,
+          "home_moneyline": 170,
+          "away_moneyline": -205,
+          "spread_open": 4.5,
+          "over_under_open": null,
+          "formatted_spread": "UTSA -4.5",
+          "last_updated": null
+        },
+        {
+          "provider": "Bovada",
+          "spread": 4.5,
+          "over_under": 58.5,
+          "home_moneyline": 160,
+          "away_moneyline": -185,
+          "spread_open": 4,
+          "over_under_open": 58,
+          "formatted_spread": "UTSA -4.5",
+          "last_updated": null
+        },
+        {
+          "provider": "ESPN Bet",
+          "spread": 4.5,
+          "over_under": 58.5,
+          "home_moneyline": 170,
+          "away_moneyline": -200,
+          "spread_open": 3.5,
+          "over_under_open": 58.5,
+          "formatted_spread": "UTSA -4.5",
+          "last_updated": null
+        }
+      ]
+    }
+  ]
+}

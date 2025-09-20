@@ -1,0 +1,4027 @@
+{
+  "KEATON_MITCHELL_1_NFL": {
+    "espn_player_id": "4596334",
+    "sgo_player_id": "KEATON_MITCHELL_1_NFL",
+    "name": "Keaton Mitchell",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "ADONAI_MITCHELL_1_NFL": {
+    "espn_player_id": "4597500",
+    "sgo_player_id": "ADONAI_MITCHELL_1_NFL",
+    "name": "Adonai Mitchell",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "COOPER_RUSH_1_NFL": {
+    "espn_player_id": "2972515",
+    "sgo_player_id": "COOPER_RUSH_1_NFL",
+    "name": "Cooper Rush",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "DAYTON_WADE_1_NFL": {
+    "espn_player_id": "4428763",
+    "sgo_player_id": "DAYTON_WADE_1_NFL",
+    "name": "Dayton Wade",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "ASHTON_DULIN_1_NFL": {
+    "espn_player_id": "4061956",
+    "sgo_player_id": "ASHTON_DULIN_1_NFL",
+    "name": "Ashton Dulin",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "TYLER_GOODSON_1_NFL": {
+    "espn_player_id": "4429676",
+    "sgo_player_id": "TYLER_GOODSON_1_NFL",
+    "name": "Tyler Goodson",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "CHARLIE_KOLAR_1_NFL": {
+    "espn_player_id": "4241263",
+    "sgo_player_id": "CHARLIE_KOLAR_1_NFL",
+    "name": "Charlie Kolar",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "RASHEEN_ALI_1_NFL": {
+    "espn_player_id": "4690013",
+    "sgo_player_id": "RASHEEN_ALI_1_NFL",
+    "name": "Rasheen Ali",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "TYLAN_WALLACE_1_NFL": {
+    "espn_player_id": "4241424",
+    "sgo_player_id": "TYLAN_WALLACE_1_NFL",
+    "name": "Tylan Wallace",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "ANTHONY_GOULD_1_NFL": {
+    "espn_player_id": "4429684",
+    "sgo_player_id": "ANTHONY_GOULD_1_NFL",
+    "name": "Anthony Gould",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "DANIEL_JONES_1_NFL": {
+    "espn_player_id": "3917792",
+    "sgo_player_id": "DANIEL_JONES_1_NFL",
+    "name": "Daniel Jones",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "DEVONTEZ_WALKER_1_NFL": {
+    "espn_player_id": "4696882",
+    "sgo_player_id": "DEVONTEZ_WALKER_1_NFL",
+    "name": "Devontez Walker",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "DERNEST_JOHNSON_1_NFL": {
+    "espn_player_id": "3139602",
+    "sgo_player_id": "DERNEST_JOHNSON_1_NFL",
+    "name": "D'Ernest Johnson",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "WILL_MALLORY_1_NFL": {
+    "espn_player_id": "4362523",
+    "sgo_player_id": "WILL_MALLORY_1_NFL",
+    "name": "Will Mallory",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "LAQUON_TREADWELL_1_NFL": {
+    "espn_player_id": "3051889",
+    "sgo_player_id": "LAQUON_TREADWELL_1_NFL",
+    "name": "Laquon Treadwell",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "ANTHONY_MILLER_1_NFL": {
+    "espn_player_id": "3050487",
+    "sgo_player_id": "ANTHONY_MILLER_1_NFL",
+    "name": "Anthony Miller",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "KEITH_KIRKWOOD_1_NFL": {
+    "espn_player_id": "3046401",
+    "sgo_player_id": "KEITH_KIRKWOOD_1_NFL",
+    "name": "Keith Kirkwood",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "SEAN_MCKEON_1_NFL": {
+    "espn_player_id": "4036275",
+    "sgo_player_id": "SEAN_MCKEON_1_NFL",
+    "name": "Sean McKeon",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "TANNER_MCKEE_1_NFL": {
+    "espn_player_id": "4685201",
+    "sgo_player_id": "TANNER_MCKEE_1_NFL",
+    "name": "Tanner McKee",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "CHASE_BROWN_1_NFL": {
+    "espn_player_id": "4362238",
+    "sgo_player_id": "CHASE_BROWN_1_NFL",
+    "name": "Chase Brown",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "JERMAINE_BURTON_1_NFL": {
+    "espn_player_id": "4429033",
+    "sgo_player_id": "JERMAINE_BURTON_1_NFL",
+    "name": "Jermaine Burton",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "CAMERON_LATU_1_NFL": {
+    "espn_player_id": "4372026",
+    "sgo_player_id": "CAMERON_LATU_1_NFL",
+    "name": "Cameron Latu",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "JAMARR_CHASE_1_NFL": {
+    "espn_player_id": "4362628",
+    "sgo_player_id": "JAMARR_CHASE_1_NFL",
+    "name": "Ja'Marr Chase",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "JOE_BURROW_1_NFL": {
+    "espn_player_id": "3915511",
+    "sgo_player_id": "JOE_BURROW_1_NFL",
+    "name": "Joe Burrow",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "TEE_HIGGINS_1_NFL": {
+    "espn_player_id": "4239993",
+    "sgo_player_id": "TEE_HIGGINS_1_NFL",
+    "name": "Tee Higgins",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "CHARLIE_JONES_1_NFL": {
+    "espn_player_id": "4257188",
+    "sgo_player_id": "CHARLIE_JONES_1_NFL",
+    "name": "Charlie Jones",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "TANNER_HUDSON_1_NFL": {
+    "espn_player_id": "3050481",
+    "sgo_player_id": "TANNER_HUDSON_1_NFL",
+    "name": "Tanner Hudson",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "JAHAN_DOTSON_1_NFL": {
+    "espn_player_id": "4361409",
+    "sgo_player_id": "JAHAN_DOTSON_1_NFL",
+    "name": "Jahan Dotson",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "WILL_SHIPLEY_1_NFL": {
+    "espn_player_id": "4431545",
+    "sgo_player_id": "WILL_SHIPLEY_1_NFL",
+    "name": "Will Shipley",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "JOHNNY_WILSON_1_NFL": {
+    "espn_player_id": "4686104",
+    "sgo_player_id": "JOHNNY_WILSON_1_NFL",
+    "name": "Johnny Wilson",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "GRANT_CALCATERRA_1_NFL": {
+    "espn_player_id": "4241374",
+    "sgo_player_id": "GRANT_CALCATERRA_1_NFL",
+    "name": "Grant Calcaterra",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "JAKE_BROWNING_1_NFL": {
+    "espn_player_id": "3886812",
+    "sgo_player_id": "JAKE_BROWNING_1_NFL",
+    "name": "Jake Browning",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "SAMAJE_PERINE_1_NFL": {
+    "espn_player_id": "3116389",
+    "sgo_player_id": "SAMAJE_PERINE_1_NFL",
+    "name": "Samaje Perine",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "AJ_DILLON_1_NFL": {
+    "espn_player_id": "4239934",
+    "sgo_player_id": "AJ_DILLON_1_NFL",
+    "name": "A.J. Dillon",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "MITCHELL_TINSLEY_1_NFL": {
+    "espn_player_id": "4690070",
+    "sgo_player_id": "MITCHELL_TINSLEY_1_NFL",
+    "name": "Mitchell Tinsley",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "KYLEN_GRANSON_1_NFL": {
+    "espn_player_id": "4039160",
+    "sgo_player_id": "KYLEN_GRANSON_1_NFL",
+    "name": "Kylen Granson",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "EJ_JENKINS_1_NFL": {
+    "espn_player_id": "4248557",
+    "sgo_player_id": "EJ_JENKINS_1_NFL",
+    "name": "E.J. Jenkins",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "KENDRIC_PRYOR_1_NFL": {
+    "espn_player_id": "4035776",
+    "sgo_player_id": "KENDRIC_PRYOR_1_NFL",
+    "name": "Kendric Pryor",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "ZAMIR_WHITE_1_NFL": {
+    "espn_player_id": "4361777",
+    "sgo_player_id": "ZAMIR_WHITE_1_NFL",
+    "name": "Zamir White",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "TRE_TUCKER_1_NFL": {
+    "espn_player_id": "4428718",
+    "sgo_player_id": "TRE_TUCKER_1_NFL",
+    "name": "Tre Tucker",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "GENO_SMITH_1_NFL": {
+    "espn_player_id": "15864",
+    "sgo_player_id": "GENO_SMITH_1_NFL",
+    "name": "Geno Smith",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "JAKOBI_MEYERS_1_NFL": {
+    "espn_player_id": "3916433",
+    "sgo_player_id": "JAKOBI_MEYERS_1_NFL",
+    "name": "Jakobi Meyers",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "DREW_LOCK_1_NFL": {
+    "espn_player_id": "3924327",
+    "sgo_player_id": "DREW_LOCK_1_NFL",
+    "name": "Drew Lock",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "GEORGE_HOLANI_1_NFL": {
+    "espn_player_id": "4429835",
+    "sgo_player_id": "GEORGE_HOLANI_1_NFL",
+    "name": "George Holani",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "CODY_WHITE_1_NFL": {
+    "espn_player_id": "4241983",
+    "sgo_player_id": "CODY_WHITE_1_NFL",
+    "name": "Cody White",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "AIDAN_OCONNELL_1_NFL": {
+    "espn_player_id": "4260394",
+    "sgo_player_id": "AIDAN_OCONNELL_1_NFL",
+    "name": "Aidan O'Connell",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "MICHAEL_MAYER_1_NFL": {
+    "espn_player_id": "4429086",
+    "sgo_player_id": "MICHAEL_MAYER_1_NFL",
+    "name": "Michael Mayer",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "RAHEEM_MOSTERT_1_NFL": {
+    "espn_player_id": "2576414",
+    "sgo_player_id": "RAHEEM_MOSTERT_1_NFL",
+    "name": "Raheem Mostert",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "JAKE_BOBO_1_NFL": {
+    "espn_player_id": "4360405",
+    "sgo_player_id": "JAKE_BOBO_1_NFL",
+    "name": "Jake Bobo",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "ERIC_SAUBERT_1_NFL": {
+    "espn_player_id": "2975863",
+    "sgo_player_id": "ERIC_SAUBERT_1_NFL",
+    "name": "Eric Saubert",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "ALEX_BACHMAN_1_NFL": {
+    "espn_player_id": "3919510",
+    "sgo_player_id": "ALEX_BACHMAN_1_NFL",
+    "name": "Alex Bachman",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "IAN_THOMAS_1_NFL": {
+    "espn_player_id": "4045305",
+    "sgo_player_id": "IAN_THOMAS_1_NFL",
+    "name": "Ian Thomas",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "DAREKE_YOUNG_1_NFL": {
+    "espn_player_id": "4401805",
+    "sgo_player_id": "DAREKE_YOUNG_1_NFL",
+    "name": "Dareke Young",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "JUSTIN_SHORTER_1_NFL": {
+    "espn_player_id": "4361426",
+    "sgo_player_id": "JUSTIN_SHORTER_1_NFL",
+    "name": "Justin Shorter",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "DYLAN_LAUBE_1_NFL": {
+    "espn_player_id": "4366963",
+    "sgo_player_id": "DYLAN_LAUBE_1_NFL",
+    "name": "Dylan Laube",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "CHRIS_COLLIER_1_NFL": {
+    "espn_player_id": "4698191",
+    "sgo_player_id": "CHRIS_COLLIER_1_NFL",
+    "name": "Chris Collier",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "SHEDRICK_JACKSON_1_NFL": {
+    "espn_player_id": "4361332",
+    "sgo_player_id": "SHEDRICK_JACKSON_1_NFL",
+    "name": "Shedrick Jackson",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "KADEN_DAVIS_1_NFL": {
+    "espn_player_id": "5065495",
+    "sgo_player_id": "KADEN_DAVIS_1_NFL",
+    "name": "Kaden Davis",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "BRYCE_YOUNG_1_NFL": {
+    "espn_player_id": "4685720",
+    "sgo_player_id": "BRYCE_YOUNG_1_NFL",
+    "name": "Bryce Young",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "CHUBA_HUBBARD_1_NFL": {
+    "espn_player_id": "4241416",
+    "sgo_player_id": "CHUBA_HUBBARD_1_NFL",
+    "name": "Chuba Hubbard",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "JAMARI_THRASH_1_NFL": {
+    "espn_player_id": "4428678",
+    "sgo_player_id": "JAMARI_THRASH_1_NFL",
+    "name": "Jamari Thrash",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "RICO_DOWDLE_1_NFL": {
+    "espn_player_id": "4038815",
+    "sgo_player_id": "RICO_DOWDLE_1_NFL",
+    "name": "Rico Dowdle",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "JALEN_COKER_1_NFL": {
+    "espn_player_id": "4695883",
+    "sgo_player_id": "JALEN_COKER_1_NFL",
+    "name": "Jalen Coker",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "BRYCEN_TREMAYNE_1_NFL": {
+    "espn_player_id": "4360763",
+    "sgo_player_id": "BRYCEN_TREMAYNE_1_NFL",
+    "name": "Brycen Tremayne",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "SAL_CANNELLA_1_NFL": {
+    "espn_player_id": "4242536",
+    "sgo_player_id": "SAL_CANNELLA_1_NFL",
+    "name": "Sal Cannella",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "ANDY_DALTON_1_NFL": {
+    "espn_player_id": "14012",
+    "sgo_player_id": "ANDY_DALTON_1_NFL",
+    "name": "Andy Dalton",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "JAMES_MITCHELL_1_NFL": {
+    "espn_player_id": "4361988",
+    "sgo_player_id": "JAMES_MITCHELL_1_NFL",
+    "name": "James Mitchell",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "DAVID_MOORE_1_NFL": {
+    "espn_player_id": "4212909",
+    "sgo_player_id": "DAVID_MOORE_1_NFL",
+    "name": "David Moore",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "EASTON_STICK_1_NFL": {
+    "espn_player_id": "3120590",
+    "sgo_player_id": "EASTON_STICK_1_NFL",
+    "name": "Easton Stick",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "ISAAC_TESLAA_1_NFL": {
+    "espn_player_id": "5123663",
+    "sgo_player_id": "ISAAC_TESLAA_1_NFL",
+    "name": "Isaac TeSlaa",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "SHANE_ZYLSTRA_1_NFL": {
+    "espn_player_id": "4608362",
+    "sgo_player_id": "SHANE_ZYLSTRA_1_NFL",
+    "name": "Shane Zylstra",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "DYLAN_DRUMMOND_1_NFL": {
+    "espn_player_id": "4363551",
+    "sgo_player_id": "DYLAN_DRUMMOND_1_NFL",
+    "name": "Dylan Drummond",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "TOM_KENNEDY_1_NFL": {
+    "espn_player_id": "3126997",
+    "sgo_player_id": "TOM_KENNEDY_1_NFL",
+    "name": "Tom Kennedy",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "CRAIG_REYNOLDS_1_NFL": {
+    "espn_player_id": "4421446",
+    "sgo_player_id": "CRAIG_REYNOLDS_1_NFL",
+    "name": "Craig Reynolds",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "JACKSON_MEEKS_1_NFL": {
+    "espn_player_id": "4602788",
+    "sgo_player_id": "JACKSON_MEEKS_1_NFL",
+    "name": "Jackson Meeks",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "CHRIS_BLAIR_1_NFL": {
+    "espn_player_id": "4369886",
+    "sgo_player_id": "CHRIS_BLAIR_1_NFL",
+    "name": "Chris Blair",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "KYLE_ALLEN_1_NFL": {
+    "espn_player_id": "3115293",
+    "sgo_player_id": "KYLE_ALLEN_1_NFL",
+    "name": "Kyle Allen",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "JACOB_SAYLORS_1_NFL": {
+    "espn_player_id": "4383429",
+    "sgo_player_id": "JACOB_SAYLORS_1_NFL",
+    "name": "Jacob Saylors",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "RONNIE_BELL_1_NFL": {
+    "espn_player_id": "4372063",
+    "sgo_player_id": "RONNIE_BELL_1_NFL",
+    "name": "Ronnie Bell",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "EMORY_JONES_1_NFL": {
+    "espn_player_id": "4360230",
+    "sgo_player_id": "EMORY_JONES_1_NFL",
+    "name": "Emory Jones",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "SAM_HARTMAN_1_NFL": {
+    "espn_player_id": "4361994",
+    "sgo_player_id": "SAM_HARTMAN_1_NFL",
+    "name": "Sam Hartman",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "BEN_SINNOTT_1_NFL": {
+    "espn_player_id": "4690923",
+    "sgo_player_id": "BEN_SINNOTT_1_NFL",
+    "name": "Ben Sinnott",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "CHRIS_MOORE_1_NFL": {
+    "espn_player_id": "2576581",
+    "sgo_player_id": "CHRIS_MOORE_1_NFL",
+    "name": "Chris Moore",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "RHAMONDRE_STEVENSON_1_NFL": {
+    "espn_player_id": "4569173",
+    "sgo_player_id": "RHAMONDRE_STEVENSON_1_NFL",
+    "name": "Rhamondre Stevenson",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "DRAKE_MAYE_1_NFL": {
+    "espn_player_id": "4431452",
+    "sgo_player_id": "DRAKE_MAYE_1_NFL",
+    "name": "Drake Maye",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "LUKE_MCCAFFREY_1_NFL": {
+    "espn_player_id": "4426948",
+    "sgo_player_id": "LUKE_MCCAFFREY_1_NFL",
+    "name": "Luke McCaffrey",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "MACK_HOLLINS_1_NFL": {
+    "espn_player_id": "2991662",
+    "sgo_player_id": "MACK_HOLLINS_1_NFL",
+    "name": "Mack Hollins",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "AUSTIN_HOOPER_1_NFL": {
+    "espn_player_id": "3043275",
+    "sgo_player_id": "AUSTIN_HOOPER_1_NFL",
+    "name": "Austin Hooper",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "ANTONIO_GIBSON_1_NFL": {
+    "espn_player_id": "4360294",
+    "sgo_player_id": "ANTONIO_GIBSON_1_NFL",
+    "name": "Antonio Gibson",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "JOSHUA_DOBBS_1_NFL": {
+    "espn_player_id": "3044720",
+    "sgo_player_id": "JOSHUA_DOBBS_1_NFL",
+    "name": "Joshua Dobbs",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "CHRIS_RODRIGUEZ_JR_1_NFL": {
+    "espn_player_id": "4362619",
+    "sgo_player_id": "CHRIS_RODRIGUEZ_JR_1_NFL",
+    "name": "Chris Rodriguez Jr.",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "JEREMY_MCNICHOLS_1_NFL": {
+    "espn_player_id": "3127586",
+    "sgo_player_id": "JEREMY_MCNICHOLS_1_NFL",
+    "name": "Jeremy McNichols",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "TAY_MARTIN_1_NFL": {
+    "espn_player_id": "4245144",
+    "sgo_player_id": "TAY_MARTIN_1_NFL",
+    "name": "Tay Martin",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "TERRELL_JENNINGS_1_NFL": {
+    "espn_player_id": "4427600",
+    "sgo_player_id": "TERRELL_JENNINGS_1_NFL",
+    "name": "Terrell Jennings",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "JOSH_JOHNSON_1_NFL": {
+    "espn_player_id": "11394",
+    "sgo_player_id": "JOSH_JOHNSON_1_NFL",
+    "name": "Josh Johnson",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "LAWRENCE_CAGER_1_NFL": {
+    "espn_player_id": "3917849",
+    "sgo_player_id": "LAWRENCE_CAGER_1_NFL",
+    "name": "Lawrence Cager",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "COLSON_YANKOFF_1_NFL": {
+    "espn_player_id": "4361088",
+    "sgo_player_id": "COLSON_YANKOFF_1_NFL",
+    "name": "Colson Yankoff",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "JOHN_JILES_1_NFL": {
+    "espn_player_id": "4887705",
+    "sgo_player_id": "JOHN_JILES_1_NFL",
+    "name": "John Jiles",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "RAY_DAVIS_1_NFL": {
+    "espn_player_id": "4429501",
+    "sgo_player_id": "RAY_DAVIS_1_NFL",
+    "name": "Ray Davis",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "JAMES_COOK_1_NFL": {
+    "espn_player_id": "4379399",
+    "sgo_player_id": "JAMES_COOK_1_NFL",
+    "name": "James Cook",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "FRANK_GORE_JR_1_NFL": {
+    "espn_player_id": "4429805",
+    "sgo_player_id": "FRANK_GORE_JR_1_NFL",
+    "name": "Frank Gore Jr.",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "SHANE_BUECHELE_1_NFL": {
+    "espn_player_id": "4039034",
+    "sgo_player_id": "SHANE_BUECHELE_1_NFL",
+    "name": "Shane Buechele",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "IHMIR_SMITHMARSETTE_1_NFL": {
+    "espn_player_id": "4240573",
+    "sgo_player_id": "IHMIR_SMITHMARSETTE_1_NFL",
+    "name": "Ihmir Smith-Marsette",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "RUSSELL_WILSON_1_NFL": {
+    "espn_player_id": "14881",
+    "sgo_player_id": "RUSSELL_WILSON_1_NFL",
+    "name": "Russell Wilson",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "THEO_JOHNSON_1_NFL": {
+    "espn_player_id": "4429148",
+    "sgo_player_id": "THEO_JOHNSON_1_NFL",
+    "name": "Theo Johnson",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "WANDALE_ROBINSON_1_NFL": {
+    "espn_player_id": "4569587",
+    "sgo_player_id": "WANDALE_ROBINSON_1_NFL",
+    "name": "Wan'dale Robinson",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "DANIEL_BELLINGER_1_NFL": {
+    "espn_player_id": "4361516",
+    "sgo_player_id": "DANIEL_BELLINGER_1_NFL",
+    "name": "Daniel Bellinger",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "DEVIN_SINGLETARY_1_NFL": {
+    "espn_player_id": "4040761",
+    "sgo_player_id": "DEVIN_SINGLETARY_1_NFL",
+    "name": "Devin Singletary",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "DALTON_KINCAID_1_NFL": {
+    "espn_player_id": "4385690",
+    "sgo_player_id": "DALTON_KINCAID_1_NFL",
+    "name": "Dalton Kincaid",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "MITCHELL_TRUBISKY_1_NFL": {
+    "espn_player_id": "3039707",
+    "sgo_player_id": "MITCHELL_TRUBISKY_1_NFL",
+    "name": "Mitchell Trubisky",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "KEON_COLEMAN_1_NFL": {
+    "espn_player_id": "4635008",
+    "sgo_player_id": "KEON_COLEMAN_1_NFL",
+    "name": "Keon Coleman",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "DANTE_MILLER_1_NFL": {
+    "espn_player_id": "4367510",
+    "sgo_player_id": "DANTE_MILLER_1_NFL",
+    "name": "Dante Miller",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "LILJORDAN_HUMPHREY_1_NFL": {
+    "espn_player_id": "4039057",
+    "sgo_player_id": "LILJORDAN_HUMPHREY_1_NFL",
+    "name": "Lil'Jordan Humphrey",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "TY_JOHNSON_1_NFL": {
+    "espn_player_id": "3915411",
+    "sgo_player_id": "TY_JOHNSON_1_NFL",
+    "name": "Ty Johnson",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "DAWSON_KNOX_1_NFL": {
+    "espn_player_id": "3930086",
+    "sgo_player_id": "DAWSON_KNOX_1_NFL",
+    "name": "Dawson Knox",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "TYRELL_SHAVERS_1_NFL": {
+    "espn_player_id": "4241476",
+    "sgo_player_id": "TYRELL_SHAVERS_1_NFL",
+    "name": "Tyrell Shavers",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "KRISTIAN_WILKERSON_1_NFL": {
+    "espn_player_id": "3910176",
+    "sgo_player_id": "KRISTIAN_WILKERSON_1_NFL",
+    "name": "Kristian Wilkerson",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "GUNNER_OLSZEWSKI_1_NFL": {
+    "espn_player_id": "4424106",
+    "sgo_player_id": "GUNNER_OLSZEWSKI_1_NFL",
+    "name": "Gunner Olszewski",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "JAMEIS_WINSTON_1_NFL": {
+    "espn_player_id": "2969939",
+    "sgo_player_id": "JAMEIS_WINSTON_1_NFL",
+    "name": "Jameis Winston",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "JORDAN_MASON_1_NFL": {
+    "espn_player_id": "4360569",
+    "sgo_player_id": "JORDAN_MASON_1_NFL",
+    "name": "Jordan Mason",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "JORDAN_ADDISON_1_NFL": {
+    "espn_player_id": "4429205",
+    "sgo_player_id": "JORDAN_ADDISON_1_NFL",
+    "name": "Jordan Addison",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "JJ_MCCARTHY_1_NFL": {
+    "espn_player_id": "4433970",
+    "sgo_player_id": "JJ_MCCARTHY_1_NFL",
+    "name": "J.J. McCarthy",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "LUCKY_JACKSON_1_NFL": {
+    "espn_player_id": "3915802",
+    "sgo_player_id": "LUCKY_JACKSON_1_NFL",
+    "name": "Lucky Jackson",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "BRAXTON_BERRIOS_1_NFL": {
+    "espn_player_id": "3123075",
+    "sgo_player_id": "BRAXTON_BERRIOS_1_NFL",
+    "name": "Braxton Berrios",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "CADE_STOVER_1_NFL": {
+    "espn_player_id": "4426496",
+    "sgo_player_id": "CADE_STOVER_1_NFL",
+    "name": "Cade Stover",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "DARE_OGUNBOWALE_1_NFL": {
+    "espn_player_id": "2983509",
+    "sgo_player_id": "DARE_OGUNBOWALE_1_NFL",
+    "name": "Dare Ogunbowale",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "DAVIS_MILLS_1_NFL": {
+    "espn_player_id": "4242546",
+    "sgo_player_id": "DAVIS_MILLS_1_NFL",
+    "name": "Davis Mills",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "JOHN_METCHIE_III_1_NFL": {
+    "espn_player_id": "4567096",
+    "sgo_player_id": "JOHN_METCHIE_III_1_NFL",
+    "name": "John Metchie III",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "JALEN_NAILOR_1_NFL": {
+    "espn_player_id": "4382466",
+    "sgo_player_id": "JALEN_NAILOR_1_NFL",
+    "name": "Jalen Nailor",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "TY_CHANDLER_1_NFL": {
+    "espn_player_id": "4242431",
+    "sgo_player_id": "TY_CHANDLER_1_NFL",
+    "name": "Ty Chandler",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "BREVIN_JORDAN_1_NFL": {
+    "espn_player_id": "4362504",
+    "sgo_player_id": "BREVIN_JORDAN_1_NFL",
+    "name": "Brevin Jordan",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "RONDALE_MOORE_1_NFL": {
+    "espn_player_id": "4372485",
+    "sgo_player_id": "RONDALE_MOORE_1_NFL",
+    "name": "Rondale Moore",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "JESHAUN_JONES_1_NFL": {
+    "espn_player_id": "4360637",
+    "sgo_player_id": "JESHAUN_JONES_1_NFL",
+    "name": "Jeshaun Jones",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "ZAVIER_SCOTT_1_NFL": {
+    "espn_player_id": "4257364",
+    "sgo_player_id": "ZAVIER_SCOTT_1_NFL",
+    "name": "Zavier Scott",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "XAVIER_HUTCHINSON_1_NFL": {
+    "espn_player_id": "4686422",
+    "sgo_player_id": "XAVIER_HUTCHINSON_1_NFL",
+    "name": "Xavier Hutchinson",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "JAWHAR_JORDAN_1_NFL": {
+    "espn_player_id": "4429939",
+    "sgo_player_id": "JAWHAR_JORDAN_1_NFL",
+    "name": "Jawhar Jordan",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "BRITISH_BROOKS_1_NFL": {
+    "espn_player_id": "4373273",
+    "sgo_player_id": "BRITISH_BROOKS_1_NFL",
+    "name": "British Brooks",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "TIM_JONES_1_NFL": {
+    "espn_player_id": "4245131",
+    "sgo_player_id": "TIM_JONES_1_NFL",
+    "name": "Tim Jones",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "JUSTIN_WATSON_1_NFL": {
+    "espn_player_id": "3118892",
+    "sgo_player_id": "JUSTIN_WATSON_1_NFL",
+    "name": "Justin Watson",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "AUSTIN_TRAMMELL_1_NFL": {
+    "espn_player_id": "4244856",
+    "sgo_player_id": "AUSTIN_TRAMMELL_1_NFL",
+    "name": "Austin Trammell",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "TREVOR_LAWRENCE_1_NFL": {
+    "espn_player_id": "4360310",
+    "sgo_player_id": "TREVOR_LAWRENCE_1_NFL",
+    "name": "Trevor Lawrence",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "JOSHUA_CEPHUS_1_NFL": {
+    "espn_player_id": "4426893",
+    "sgo_player_id": "JOSHUA_CEPHUS_1_NFL",
+    "name": "Joshua Cephus",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "BRENTON_STRANGE_1_NFL": {
+    "espn_player_id": "4430539",
+    "sgo_player_id": "BRENTON_STRANGE_1_NFL",
+    "name": "Brenton Strange",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "DYAMI_BROWN_1_NFL": {
+    "espn_player_id": "4361577",
+    "sgo_player_id": "DYAMI_BROWN_1_NFL",
+    "name": "Dyami Brown",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "TRAVIS_ETIENNE_JR_1_NFL": {
+    "espn_player_id": "4239996",
+    "sgo_player_id": "TRAVIS_ETIENNE_JR_1_NFL",
+    "name": "Travis Etienne Jr.",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "PARKER_WASHINGTON_1_NFL": {
+    "espn_player_id": "4432620",
+    "sgo_player_id": "PARKER_WASHINGTON_1_NFL",
+    "name": "Parker Washington",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "BEN_SKOWRONEK_1_NFL": {
+    "espn_player_id": "4035656",
+    "sgo_player_id": "BEN_SKOWRONEK_1_NFL",
+    "name": "Ben Skowronek",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "MASON_RUDOLPH_1_NFL": {
+    "espn_player_id": "3116407",
+    "sgo_player_id": "MASON_RUDOLPH_1_NFL",
+    "name": "Mason Rudolph",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "DARNELL_WASHINGTON_1_NFL": {
+    "espn_player_id": "4430802",
+    "sgo_player_id": "DARNELL_WASHINGTON_1_NFL",
+    "name": "Darnell Washington",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "KALEB_JOHNSON_1_NFL": {
+    "espn_player_id": "4819231",
+    "sgo_player_id": "KALEB_JOHNSON_1_NFL",
+    "name": "Kaleb Johnson",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "NICK_MULLENS_1_NFL": {
+    "espn_player_id": "3059989",
+    "sgo_player_id": "NICK_MULLENS_1_NFL",
+    "name": "Nick Mullens",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "CONNOR_HEYWARD_1_NFL": {
+    "espn_player_id": "4241961",
+    "sgo_player_id": "CONNOR_HEYWARD_1_NFL",
+    "name": "Connor Heyward",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "TREY_SERMON_1_NFL": {
+    "espn_player_id": "4241401",
+    "sgo_player_id": "TREY_SERMON_1_NFL",
+    "name": "Trey Sermon",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "HUNTER_LONG_1_NFL": {
+    "espn_player_id": "4239944",
+    "sgo_player_id": "HUNTER_LONG_1_NFL",
+    "name": "Hunter Long",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "SKYLAR_THOMPSON_1_NFL": {
+    "espn_player_id": "4036419",
+    "sgo_player_id": "SKYLAR_THOMPSON_1_NFL",
+    "name": "Skylar Thompson",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "QUINTIN_MORRIS_1_NFL": {
+    "espn_player_id": "4244049",
+    "sgo_player_id": "QUINTIN_MORRIS_1_NFL",
+    "name": "Quintin Morris",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "LOGAN_WOODSIDE_1_NFL": {
+    "espn_player_id": "3042749",
+    "sgo_player_id": "LOGAN_WOODSIDE_1_NFL",
+    "name": "Logan Woodside",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "BLAKE_CORUM_1_NFL": {
+    "espn_player_id": "4429096",
+    "sgo_player_id": "BLAKE_CORUM_1_NFL",
+    "name": "Blake Corum",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "DAVIS_ALLEN_1_NFL": {
+    "espn_player_id": "4426553",
+    "sgo_player_id": "DAVIS_ALLEN_1_NFL",
+    "name": "Davis Allen",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "XAVIER_SMITH_1_NFL": {
+    "espn_player_id": "4386544",
+    "sgo_player_id": "XAVIER_SMITH_1_NFL",
+    "name": "Xavier Smith",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "JALEN_TOLBERT_1_NFL": {
+    "espn_player_id": "4249417",
+    "sgo_player_id": "JALEN_TOLBERT_1_NFL",
+    "name": "Jalen Tolbert",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "LUKE_SCHOONMAKER_1_NFL": {
+    "espn_player_id": "4372096",
+    "sgo_player_id": "LUKE_SCHOONMAKER_1_NFL",
+    "name": "Luke Schoonmaker",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "JONATHAN_MINGO_1_NFL": {
+    "espn_player_id": "4426485",
+    "sgo_player_id": "JONATHAN_MINGO_1_NFL",
+    "name": "Jonathan Mingo",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "JALEN_BROOKS_1_NFL": {
+    "espn_player_id": "4692835",
+    "sgo_player_id": "JALEN_BROOKS_1_NFL",
+    "name": "Jalen Brooks",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "RYAN_FLOURNOY_1_NFL": {
+    "espn_player_id": "5083754",
+    "sgo_player_id": "RYAN_FLOURNOY_1_NFL",
+    "name": "Ryan Flournoy",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "MATTHEW_STAFFORD_1_NFL": {
+    "espn_player_id": "12483",
+    "sgo_player_id": "MATTHEW_STAFFORD_1_NFL",
+    "name": "Matthew Stafford",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "RONNIE_RIVERS_1_NFL": {
+    "espn_player_id": "4243003",
+    "sgo_player_id": "RONNIE_RIVERS_1_NFL",
+    "name": "Ronnie Rivers",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "MALIK_DAVIS_1_NFL": {
+    "espn_player_id": "4240603",
+    "sgo_player_id": "MALIK_DAVIS_1_NFL",
+    "name": "Malik Davis",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "WILL_GRIER_1_NFL": {
+    "espn_player_id": "3115252",
+    "sgo_player_id": "WILL_GRIER_1_NFL",
+    "name": "Will Grier",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "JALEN_MCMILLAN_1_NFL": {
+    "espn_player_id": "4430834",
+    "sgo_player_id": "JALEN_MCMILLAN_1_NFL",
+    "name": "Jalen McMillan",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "RACHAAD_WHITE_1_NFL": {
+    "espn_player_id": "4697815",
+    "sgo_player_id": "RACHAAD_WHITE_1_NFL",
+    "name": "Rachaad White",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "TONY_POLLARD_1_NFL": {
+    "espn_player_id": "3916148",
+    "sgo_player_id": "TONY_POLLARD_1_NFL",
+    "name": "Tony Pollard",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "VAN_JEFFERSON_1_NFL": {
+    "espn_player_id": "3930066",
+    "sgo_player_id": "VAN_JEFFERSON_1_NFL",
+    "name": "Van Jefferson",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "SEAN_TUCKER_1_NFL": {
+    "espn_player_id": "4430871",
+    "sgo_player_id": "SEAN_TUCKER_1_NFL",
+    "name": "Sean Tucker",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "RYAN_MILLER_1_NFL": {
+    "espn_player_id": "4369466",
+    "sgo_player_id": "RYAN_MILLER_1_NFL",
+    "name": "Ryan Miller",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "CALVIN_RIDLEY_1_NFL": {
+    "espn_player_id": "3925357",
+    "sgo_player_id": "CALVIN_RIDLEY_1_NFL",
+    "name": "Calvin Ridley",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "TYLER_LOCKETT_1_NFL": {
+    "espn_player_id": "2577327",
+    "sgo_player_id": "TYLER_LOCKETT_1_NFL",
+    "name": "Tyler Lockett",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "TYJAE_SPEARS_1_NFL": {
+    "espn_player_id": "4428557",
+    "sgo_player_id": "TYJAE_SPEARS_1_NFL",
+    "name": "Tyjae Spears",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "BRANDON_ALLEN_1_NFL": {
+    "espn_player_id": "2574511",
+    "sgo_player_id": "BRANDON_ALLEN_1_NFL",
+    "name": "Brandon Allen",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "DEVIN_CULP_1_NFL": {
+    "espn_player_id": "4361112",
+    "sgo_player_id": "DEVIN_CULP_1_NFL",
+    "name": "Devin Culp",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "JULIUS_CHESTNUT_1_NFL": {
+    "espn_player_id": "4367567",
+    "sgo_player_id": "JULIUS_CHESTNUT_1_NFL",
+    "name": "Julius Chestnut",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "BRYCE_OLIVER_1_NFL": {
+    "espn_player_id": "4362617",
+    "sgo_player_id": "BRYCE_OLIVER_1_NFL",
+    "name": "Bryce Oliver",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "DAVID_MARTINROBINSON_1_NFL": {
+    "espn_player_id": "4360978",
+    "sgo_player_id": "DAVID_MARTINROBINSON_1_NFL",
+    "name": "David Martin-Robinson",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "JADEN_SMITH_1_NFL": {
+    "espn_player_id": "4581750",
+    "sgo_player_id": "JADEN_SMITH_1_NFL",
+    "name": "Jaden Smith",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "JORDAN_MIMS_1_NFL": {
+    "espn_player_id": "4243004",
+    "sgo_player_id": "JORDAN_MIMS_1_NFL",
+    "name": "Jordan Mims",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "MASON_KINSEY_1_NFL": {
+    "espn_player_id": "4057082",
+    "sgo_player_id": "MASON_KINSEY_1_NFL",
+    "name": "Mason Kinsey",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "JORDAN_LOVE_1_NFL": {
+    "espn_player_id": "4036378",
+    "sgo_player_id": "JORDAN_LOVE_1_NFL",
+    "name": "Jordan Love",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "ROMEO_DOUBS_1_NFL": {
+    "espn_player_id": "4361432",
+    "sgo_player_id": "ROMEO_DOUBS_1_NFL",
+    "name": "Romeo Doubs",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "BRAELON_ALLEN_1_NFL": {
+    "espn_player_id": "4685247",
+    "sgo_player_id": "BRAELON_ALLEN_1_NFL",
+    "name": "Braelon Allen",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "BREECE_HALL_1_NFL": {
+    "espn_player_id": "4427366",
+    "sgo_player_id": "BREECE_HALL_1_NFL",
+    "name": "Breece Hall",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "GARRETT_WILSON_1_NFL": {
+    "espn_player_id": "4569618",
+    "sgo_player_id": "GARRETT_WILSON_1_NFL",
+    "name": "Garrett Wilson",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "JUSTIN_FIELDS_1_NFL": {
+    "espn_player_id": "4362887",
+    "sgo_player_id": "JUSTIN_FIELDS_1_NFL",
+    "name": "Justin Fields",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "TYLER_JOHNSON_1_NFL": {
+    "espn_player_id": "2310331",
+    "sgo_player_id": "TYLER_JOHNSON_1_NFL",
+    "name": "Tyler Johnson",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "EMANUEL_WILSON_1_NFL": {
+    "espn_player_id": "4887558",
+    "sgo_player_id": "EMANUEL_WILSON_1_NFL",
+    "name": "Emanuel Wilson",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "ISAIAH_DAVIS_1_NFL": {
+    "espn_player_id": "4695404",
+    "sgo_player_id": "ISAIAH_DAVIS_1_NFL",
+    "name": "Isaiah Davis",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "MALIK_HEATH_1_NFL": {
+    "espn_player_id": "4689334",
+    "sgo_player_id": "MALIK_HEATH_1_NFL",
+    "name": "Malik Heath",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "LUKE_MUSGRAVE_1_NFL": {
+    "espn_player_id": "4428085",
+    "sgo_player_id": "LUKE_MUSGRAVE_1_NFL",
+    "name": "Luke Musgrave",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "ALLEN_LAZARD_1_NFL": {
+    "espn_player_id": "3128390",
+    "sgo_player_id": "ALLEN_LAZARD_1_NFL",
+    "name": "Allen Lazard",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "MALIK_WILLIS_1_NFL": {
+    "espn_player_id": "4242512",
+    "sgo_player_id": "MALIK_WILLIS_1_NFL",
+    "name": "Malik Willis",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "JOHN_FITZPATRICK_1_NFL": {
+    "espn_player_id": "4379401",
+    "sgo_player_id": "JOHN_FITZPATRICK_1_NFL",
+    "name": "John FitzPatrick",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "KENE_NWANGWU_1_NFL": {
+    "espn_player_id": "4035537",
+    "sgo_player_id": "KENE_NWANGWU_1_NFL",
+    "name": "Kene Nwangwu",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "MECOLE_HARDMAN_1_NFL": {
+    "espn_player_id": "4035004",
+    "sgo_player_id": "MECOLE_HARDMAN_1_NFL",
+    "name": "Mecole Hardman",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "BEN_SIMS_1_NFL": {
+    "espn_player_id": "4373030",
+    "sgo_player_id": "BEN_SIMS_1_NFL",
+    "name": "Ben Sims",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "BRANDON_SMITH_1_NFL": {
+    "espn_player_id": "4240577",
+    "sgo_player_id": "BRANDON_SMITH_1_NFL",
+    "name": "Brandon Smith",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "STONE_SMARTT_1_NFL": {
+    "espn_player_id": "4250764",
+    "sgo_player_id": "STONE_SMARTT_1_NFL",
+    "name": "Stone Smartt",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "ISIAH_PACHECO_1_NFL": {
+    "espn_player_id": "4361529",
+    "sgo_player_id": "ISIAH_PACHECO_1_NFL",
+    "name": "Isiah Pacheco",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "GREG_DORTCH_1_NFL": {
+    "espn_player_id": "4037235",
+    "sgo_player_id": "GREG_DORTCH_1_NFL",
+    "name": "Greg Dortch",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "TYQUAN_THORNTON_1_NFL": {
+    "espn_player_id": "4362921",
+    "sgo_player_id": "TYQUAN_THORNTON_1_NFL",
+    "name": "Tyquan Thornton",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "PATRICK_MAHOMES_1_NFL": {
+    "espn_player_id": "3139477",
+    "sgo_player_id": "PATRICK_MAHOMES_1_NFL",
+    "name": "Patrick Mahomes",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "JASON_BROWNLEE_1_NFL": {
+    "espn_player_id": "4689988",
+    "sgo_player_id": "JASON_BROWNLEE_1_NFL",
+    "name": "Jason Brownlee",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "JAMES_CONNER_1_NFL": {
+    "espn_player_id": "3045147",
+    "sgo_player_id": "JAMES_CONNER_1_NFL",
+    "name": "James Conner",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "KYLER_MURRAY_1_NFL": {
+    "espn_player_id": "3917315",
+    "sgo_player_id": "KYLER_MURRAY_1_NFL",
+    "name": "Kyler Murray",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "MACK_WILSON_1_NFL": {
+    "espn_player_id": "4360761",
+    "sgo_player_id": "MACK_WILSON_1_NFL",
+    "name": "Michael Wilson",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "MARVIN_HARRISON_JR_1_NFL": {
+    "espn_player_id": "4432708",
+    "sgo_player_id": "MARVIN_HARRISON_JR_1_NFL",
+    "name": "Marvin Harrison Jr.",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "TREY_MCBRIDE_1_NFL": {
+    "espn_player_id": "4361307",
+    "sgo_player_id": "TREY_MCBRIDE_1_NFL",
+    "name": "Trey McBride",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "GARDNER_MINSHEW_1_NFL": {
+    "espn_player_id": "4038524",
+    "sgo_player_id": "GARDNER_MINSHEW_1_NFL",
+    "name": "Gardner Minshew",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "KAREEM_HUNT_1_NFL": {
+    "espn_player_id": "3059915",
+    "sgo_player_id": "KAREEM_HUNT_1_NFL",
+    "name": "Kareem Hunt",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "NOAH_GRAY_1_NFL": {
+    "espn_player_id": "4240472",
+    "sgo_player_id": "NOAH_GRAY_1_NFL",
+    "name": "Noah Gray",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "TIP_REIMAN_1_NFL": {
+    "espn_player_id": "4696700",
+    "sgo_player_id": "TIP_REIMAN_1_NFL",
+    "name": "Tip Reiman",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "TREY_BENSON_1_NFL": {
+    "espn_player_id": "4429275",
+    "sgo_player_id": "TREY_BENSON_1_NFL",
+    "name": "Trey Benson",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "NIKKO_REMIGIO_1_NFL": {
+    "espn_player_id": "4372716",
+    "sgo_player_id": "NIKKO_REMIGIO_1_NFL",
+    "name": "Nikko Remigio",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "ROBERT_TONYAN_1_NFL": {
+    "espn_player_id": "2975674",
+    "sgo_player_id": "ROBERT_TONYAN_1_NFL",
+    "name": "Robert Tonyan",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "JACOBY_BRISSETT_1_NFL": {
+    "espn_player_id": "2578570",
+    "sgo_player_id": "JACOBY_BRISSETT_1_NFL",
+    "name": "Jacoby Brissett",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "XAVIER_WEAVER_1_NFL": {
+    "espn_player_id": "4428811",
+    "sgo_player_id": "XAVIER_WEAVER_1_NFL",
+    "name": "Xavier Weaver",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "ELIJAH_MITCHELL_1_NFL": {
+    "espn_player_id": "4241555",
+    "sgo_player_id": "ELIJAH_MITCHELL_1_NFL",
+    "name": "Elijah Mitchell",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "JARED_WILEY_1_NFL": {
+    "espn_player_id": "4430723",
+    "sgo_player_id": "JARED_WILEY_1_NFL",
+    "name": "Jared Wiley",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "EMARI_DEMERCADO_1_NFL": {
+    "espn_player_id": "4362478",
+    "sgo_player_id": "EMARI_DEMERCADO_1_NFL",
+    "name": "Emari Demercado",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "SKYY_MOORE_1_NFL": {
+    "espn_player_id": "4430191",
+    "sgo_player_id": "SKYY_MOORE_1_NFL",
+    "name": "Skyy Moore",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "ELIJAH_HIGGINS_1_NFL": {
+    "espn_player_id": "4426844",
+    "sgo_player_id": "ELIJAH_HIGGINS_1_NFL",
+    "name": "Elijah Higgins",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "TEJHAUN_PALMER_1_NFL": {
+    "espn_player_id": "4875912",
+    "sgo_player_id": "TEJHAUN_PALMER_1_NFL",
+    "name": "Tejhaun Palmer",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "MICHAEL_CARTER_1_NFL": {
+    "espn_player_id": "4240657",
+    "sgo_player_id": "MICHAEL_CARTER_1_NFL",
+    "name": "Michael Carter",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "TRAVIS_VOKOLEK_1_NFL": {
+    "espn_player_id": "4259324",
+    "sgo_player_id": "TRAVIS_VOKOLEK_1_NFL",
+    "name": "Travis Vokolek",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "ANDRE_BACCELLIA_1_NFL": {
+    "espn_player_id": "3886809",
+    "sgo_player_id": "ANDRE_BACCELLIA_1_NFL",
+    "name": "Andre Baccellia",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "JOSIAH_DEGUARA_1_NFL": {
+    "espn_player_id": "3914151",
+    "sgo_player_id": "JOSIAH_DEGUARA_1_NFL",
+    "name": "Josiah Deguara",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "CHRIS_OLADOKUN_1_NFL": {
+    "espn_player_id": "4044111",
+    "sgo_player_id": "CHRIS_OLADOKUN_1_NFL",
+    "name": "Chris Oladokun",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "TRISHTON_JACKSON_1_NFL": {
+    "espn_player_id": "4046715",
+    "sgo_player_id": "TRISHTON_JACKSON_1_NFL",
+    "name": "Trishton Jackson",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "DEMARCUS_ROBINSON_1_NFL": {
+    "espn_player_id": "3043116",
+    "sgo_player_id": "DEMARCUS_ROBINSON_1_NFL",
+    "name": "Demarcus Robinson",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "MAC_JONES_1_NFL": {
+    "espn_player_id": "4241464",
+    "sgo_player_id": "MAC_JONES_1_NFL",
+    "name": "Mac Jones",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "BO_NIX_1_NFL": {
+    "espn_player_id": "4426338",
+    "sgo_player_id": "BO_NIX_1_NFL",
+    "name": "Bo Nix",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "COURTLAND_SUTTON_1_NFL": {
+    "espn_player_id": "3128429",
+    "sgo_player_id": "COURTLAND_SUTTON_1_NFL",
+    "name": "Courtland Sutton",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "TROY_FRANKLIN_1_NFL": {
+    "espn_player_id": "4431280",
+    "sgo_player_id": "TROY_FRANKLIN_1_NFL",
+    "name": "Troy Franklin",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "TYLER_BADIE_1_NFL": {
+    "espn_player_id": "4362748",
+    "sgo_player_id": "TYLER_BADIE_1_NFL",
+    "name": "Tyler Badie",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "MARVIN_MIMS_JR_1_NFL": {
+    "espn_player_id": "4686472",
+    "sgo_player_id": "MARVIN_MIMS_JR_1_NFL",
+    "name": "Marvin Mims Jr.",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "JARRETT_STIDHAM_1_NFL": {
+    "espn_player_id": "3892775",
+    "sgo_player_id": "JARRETT_STIDHAM_1_NFL",
+    "name": "Jarrett Stidham",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "LUCAS_KRULL_1_NFL": {
+    "espn_player_id": "4360231",
+    "sgo_player_id": "LUCAS_KRULL_1_NFL",
+    "name": "Lucas Krull",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "JALEEL_MCLAUGHLIN_1_NFL": {
+    "espn_player_id": "4722893",
+    "sgo_player_id": "JALEEL_MCLAUGHLIN_1_NFL",
+    "name": "Jaleel McLaughlin",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "BRAYDEN_WILLIS_1_NFL": {
+    "espn_player_id": "4360290",
+    "sgo_player_id": "BRAYDEN_WILLIS_1_NFL",
+    "name": "Brayden Willis",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "MICHAEL_BANDY_1_NFL": {
+    "espn_player_id": "4034704",
+    "sgo_player_id": "MICHAEL_BANDY_1_NFL",
+    "name": "Michael Bandy",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "JAKE_TONGES_1_NFL": {
+    "espn_player_id": "4259147",
+    "sgo_player_id": "JAKE_TONGES_1_NFL",
+    "name": "Jake Tonges",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "SAM_EHLINGER_1_NFL": {
+    "espn_player_id": "4241820",
+    "sgo_player_id": "SAM_EHLINGER_1_NFL",
+    "name": "Sam Ehlinger",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "TYSON_BAGENT_1_NFL": {
+    "espn_player_id": "4434153",
+    "sgo_player_id": "TYSON_BAGENT_1_NFL",
+    "name": "Tyson Bagent",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "JAYLEN_WRIGHT_1_NFL": {
+    "espn_player_id": "4682745",
+    "sgo_player_id": "JAYLEN_WRIGHT_1_NFL",
+    "name": "Jaylen Wright",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "MALIK_WASHINGTON_1_NFL": {
+    "espn_player_id": "4569603",
+    "sgo_player_id": "MALIK_WASHINGTON_1_NFL",
+    "name": "Malik Washington",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "DEVON_ACHANE_1_NFL": {
+    "espn_player_id": "4429160",
+    "sgo_player_id": "DEVON_ACHANE_1_NFL",
+    "name": "Devon Achane",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "TUA_TAGOVAILOA_1_NFL": {
+    "espn_player_id": "4241479",
+    "sgo_player_id": "TUA_TAGOVAILOA_1_NFL",
+    "name": "Tua Tagovailoa",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "DEE_ESKRIDGE_1_NFL": {
+    "espn_player_id": "4043016",
+    "sgo_player_id": "DEE_ESKRIDGE_1_NFL",
+    "name": "Dee Eskridge",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "TAHJ_WASHINGTON_1_NFL": {
+    "espn_player_id": "4567506",
+    "sgo_player_id": "TAHJ_WASHINGTON_1_NFL",
+    "name": "Tahj Washington",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "DEVIN_DUVERNAY_1_NFL": {
+    "espn_player_id": "4039050",
+    "sgo_player_id": "DEVIN_DUVERNAY_1_NFL",
+    "name": "Devin Duvernay",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "JULIAN_HILL_1_NFL": {
+    "espn_player_id": "4365395",
+    "sgo_player_id": "JULIAN_HILL_1_NFL",
+    "name": "Julian Hill",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "NICK_WESTBROOKIKHINE_1_NFL": {
+    "espn_player_id": "3929785",
+    "sgo_player_id": "NICK_WESTBROOKIKHINE_1_NFL",
+    "name": "Nick Westbrook-Ikhine",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "ZACH_WILSON_1_NFL": {
+    "espn_player_id": "4361259",
+    "sgo_player_id": "ZACH_WILSON_1_NFL",
+    "name": "Zach Wilson",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "ALEXANDER_MATTISON_1_NFL": {
+    "espn_player_id": "4048244",
+    "sgo_player_id": "ALEXANDER_MATTISON_1_NFL",
+    "name": "Alexander Mattison",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "TANNER_CONNER_1_NFL": {
+    "espn_player_id": "4047422",
+    "sgo_player_id": "TANNER_CONNER_1_NFL",
+    "name": "Tanner Conner",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "DURHAM_SMYTHE_1_NFL": {
+    "espn_player_id": "3052897",
+    "sgo_player_id": "DURHAM_SMYTHE_1_NFL",
+    "name": "Durham Smythe",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "TRAVIS_HOMER_1_NFL": {
+    "espn_player_id": "4037457",
+    "sgo_player_id": "TRAVIS_HOMER_1_NFL",
+    "name": "Travis Homer",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "MAURICE_ALEXANDER_1_NFL": {
+    "espn_player_id": "3914307",
+    "sgo_player_id": "MAURICE_ALEXANDER_1_NFL",
+    "name": "Maurice Alexander",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "STEPHEN_CARLSON_1_NFL": {
+    "espn_player_id": "3948283",
+    "sgo_player_id": "STEPHEN_CARLSON_1_NFL",
+    "name": "Stephen Carlson",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "CASE_KEENUM_1_NFL": {
+    "espn_player_id": "15168",
+    "sgo_player_id": "CASE_KEENUM_1_NFL",
+    "name": "Case Keenum",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "JP_RICHARDSON_1_NFL": {
+    "espn_player_id": "4685183",
+    "sgo_player_id": "JP_RICHARDSON_1_NFL",
+    "name": "JP Richardson",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "KIMANI_VIDAL_1_NFL": {
+    "espn_player_id": "4430968",
+    "sgo_player_id": "KIMANI_VIDAL_1_NFL",
+    "name": "Kimani Vidal",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "TYLER_CONKLIN_1_NFL": {
+    "espn_player_id": "3915486",
+    "sgo_player_id": "TYLER_CONKLIN_1_NFL",
+    "name": "Tyler Conklin",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "HASSAN_HASKINS_1_NFL": {
+    "espn_player_id": "4372071",
+    "sgo_player_id": "HASSAN_HASKINS_1_NFL",
+    "name": "Hassan Haskins",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "KENDRE_MILLER_1_NFL": {
+    "espn_player_id": "4599739",
+    "sgo_player_id": "KENDRE_MILLER_1_NFL",
+    "name": "Kendre Miller",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "SPENCER_RATTLER_1_NFL": {
+    "espn_player_id": "4426339",
+    "sgo_player_id": "SPENCER_RATTLER_1_NFL",
+    "name": "Spencer Rattler",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "BRANDIN_COOKS_1_NFL": {
+    "espn_player_id": "16731",
+    "sgo_player_id": "BRANDIN_COOKS_1_NFL",
+    "name": "Brandin Cooks",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "JAQUAE_JACKSON_1_NFL": {
+    "espn_player_id": "5160748",
+    "sgo_player_id": "JAQUAE_JACKSON_1_NFL",
+    "name": "JaQuae Jackson",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "JUWAN_JOHNSON_1_NFL": {
+    "espn_player_id": "3929645",
+    "sgo_player_id": "JUWAN_JOHNSON_1_NFL",
+    "name": "Juwan Johnson",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "TREYTON_WELCH_1_NFL": {
+    "espn_player_id": "4430684",
+    "sgo_player_id": "TREYTON_WELCH_1_NFL",
+    "name": "Treyton Welch",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "VELUS_JONES_JR_1_NFL": {
+    "espn_player_id": "4035693",
+    "sgo_player_id": "VELUS_JONES_JR_1_NFL",
+    "name": "Velus Jones Jr.",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "JACK_STOLL_1_NFL": {
+    "espn_player_id": "4034862",
+    "sgo_player_id": "JACK_STOLL_1_NFL",
+    "name": "Jack Stoll",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "KEVIN_AUSTIN_JR_1_NFL": {
+    "espn_player_id": "4372758",
+    "sgo_player_id": "KEVIN_AUSTIN_JR_1_NFL",
+    "name": "Kevin Austin Jr.",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "ORONDE_GADSDEN_II_1_NFL": {
+    "espn_player_id": "4595342",
+    "sgo_player_id": "ORONDE_GADSDEN_II_1_NFL",
+    "name": "Oronde Gadsden II",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "TREY_LANCE_1_NFL": {
+    "espn_player_id": "4383351",
+    "sgo_player_id": "TREY_LANCE_1_NFL",
+    "name": "Trey Lance",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "BUB_MEANS_1_NFL": {
+    "espn_player_id": "4427985",
+    "sgo_player_id": "BUB_MEANS_1_NFL",
+    "name": "Bub Means",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "TRE_HARRIS_1_NFL": {
+    "espn_player_id": "4686612",
+    "sgo_player_id": "TRE_HARRIS_1_NFL",
+    "name": "Tre Harris",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "MASON_TIPTON_1_NFL": {
+    "espn_player_id": "4573697",
+    "sgo_player_id": "MASON_TIPTON_1_NFL",
+    "name": "Mason Tipton",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "JAKE_HAENER_1_NFL": {
+    "espn_player_id": "4243322",
+    "sgo_player_id": "JAKE_HAENER_1_NFL",
+    "name": "Jake Haener",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "DJ_UIAGALELEI_1_NFL": {
+    "espn_player_id": "4429020",
+    "sgo_player_id": "DJ_UIAGALELEI_1_NFL",
+    "name": "DJ Uiagalelei",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "NATHAN_CARTER_1_NFL": {
+    "espn_player_id": "4605841",
+    "sgo_player_id": "NATHAN_CARTER_1_NFL",
+    "name": "Nathan Carter",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "NICK_NASH_1_NFL": {
+    "espn_player_id": "4570242",
+    "sgo_player_id": "NICK_NASH_1_NFL",
+    "name": "Nick Nash",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "CHIMERE_DIKE_1_NFL": {
+    "espn_player_id": "4431268",
+    "sgo_player_id": "CHIMERE_DIKE_1_NFL",
+    "name": "Chimere Dike",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "ELIC_AYOMANOR_1_NFL": {
+    "espn_player_id": "4883647",
+    "sgo_player_id": "ELIC_AYOMANOR_1_NFL",
+    "name": "Elic Ayomanor",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "KALEL_MULLINGS_1_NFL": {
+    "espn_player_id": "4429121",
+    "sgo_player_id": "KALEL_MULLINGS_1_NFL",
+    "name": "Kalel Mullings",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "JOSHUA_SIMON_1_NFL": {
+    "espn_player_id": "4430482",
+    "sgo_player_id": "JOSHUA_SIMON_1_NFL",
+    "name": "Joshua Simon",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "GUNNAR_HELM_1_NFL": {
+    "espn_player_id": "4686728",
+    "sgo_player_id": "GUNNAR_HELM_1_NFL",
+    "name": "Gunnar Helm",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "TEAGAN_QUITORIANO_1_NFL": {
+    "espn_player_id": "4374045",
+    "sgo_player_id": "TEAGAN_QUITORIANO_1_NFL",
+    "name": "Teagan Quitoriano",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "XAVIER_RESTREPO_1_NFL": {
+    "espn_player_id": "4431353",
+    "sgo_player_id": "XAVIER_RESTREPO_1_NFL",
+    "name": "Xavier Restrepo",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "THOMAS_ODUKOYA_1_NFL": {
+    "espn_player_id": "4363554",
+    "sgo_player_id": "THOMAS_ODUKOYA_1_NFL",
+    "name": "Thomas Odukoya",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "TREVOR_SIEMIAN_1_NFL": {
+    "espn_player_id": "2511109",
+    "sgo_player_id": "TREVOR_SIEMIAN_1_NFL",
+    "name": "Trevor Siemian",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "JAXON_SMITHNJIGBA_1_NFL": {
+    "espn_player_id": "4430878",
+    "sgo_player_id": "JAXON_SMITHNJIGBA_1_NFL",
+    "name": "Jaxon Smith-Njigba",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "XAVIER_WORTHY_1_NFL": {
+    "espn_player_id": "4683062",
+    "sgo_player_id": "XAVIER_WORTHY_1_NFL",
+    "name": "Xavier Worthy",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "TRAVIS_KELCE_1_NFL": {
+    "espn_player_id": "15847",
+    "sgo_player_id": "TRAVIS_KELCE_1_NFL",
+    "name": "Travis Kelce",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "RASHEE_RICE_1_NFL": {
+    "espn_player_id": "4428331",
+    "sgo_player_id": "RASHEE_RICE_1_NFL",
+    "name": "Rashee Rice",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "KENNY_MCINTOSH_1_NFL": {
+    "espn_player_id": "4427391",
+    "sgo_player_id": "KENNY_MCINTOSH_1_NFL",
+    "name": "Kenny McIntosh",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "ZACH_CHARBONNET_1_NFL": {
+    "espn_player_id": "4426385",
+    "sgo_player_id": "ZACH_CHARBONNET_1_NFL",
+    "name": "Zach Charbonnet",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "AJ_BARNER_1_NFL": {
+    "espn_player_id": "4576297",
+    "sgo_player_id": "AJ_BARNER_1_NFL",
+    "name": "AJ Barner",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "ELIJAH_ARROYO_1_NFL": {
+    "espn_player_id": "4678006",
+    "sgo_player_id": "ELIJAH_ARROYO_1_NFL",
+    "name": "Elijah Arroyo",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "SAM_DARNOLD_1_NFL": {
+    "espn_player_id": "3912547",
+    "sgo_player_id": "SAM_DARNOLD_1_NFL",
+    "name": "Sam Darnold",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "JUJU_SMITHSCHUSTER_1_NFL": {
+    "espn_player_id": "3120348",
+    "sgo_player_id": "JUJU_SMITHSCHUSTER_1_NFL",
+    "name": "Juju Smith-Schuster",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "DAMIEN_MARTINEZ_1_NFL": {
+    "espn_player_id": "4808830",
+    "sgo_player_id": "DAMIEN_MARTINEZ_1_NFL",
+    "name": "Damien Martinez",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "JACARDIA_WRIGHT_1_NFL": {
+    "espn_player_id": "4428943",
+    "sgo_player_id": "JACARDIA_WRIGHT_1_NFL",
+    "name": "Jacardia Wright",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "TORY_HORTON_1_NFL": {
+    "espn_player_id": "4597703",
+    "sgo_player_id": "TORY_HORTON_1_NFL",
+    "name": "Tory Horton",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "TYRONE_BRODEN_1_NFL": {
+    "espn_player_id": "4429313",
+    "sgo_player_id": "TYRONE_BRODEN_1_NFL",
+    "name": "Tyrone Broden",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "JIMMY_HOLIDAY_1_NFL": {
+    "espn_player_id": "4431142",
+    "sgo_player_id": "JIMMY_HOLIDAY_1_NFL",
+    "name": "Jimmy Holiday",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "SIONE_VAKI_1_NFL": {
+    "espn_player_id": "4912274",
+    "sgo_player_id": "SIONE_VAKI_1_NFL",
+    "name": "Sione Vaki",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "DOMINIC_LOVETT_1_NFL": {
+    "espn_player_id": "4596439",
+    "sgo_player_id": "DOMINIC_LOVETT_1_NFL",
+    "name": "Dominic Lovett",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "AJ_HENNING_1_NFL": {
+    "espn_player_id": "4429053",
+    "sgo_player_id": "AJ_HENNING_1_NFL",
+    "name": "A.J. Henning",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "QUINN_EWERS_1_NFL": {
+    "espn_player_id": "4889929",
+    "sgo_player_id": "QUINN_EWERS_1_NFL",
+    "name": "Quinn Ewers",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "TREVEYON_HENDERSON_1_NFL": {
+    "espn_player_id": "4432710",
+    "sgo_player_id": "TREVEYON_HENDERSON_1_NFL",
+    "name": "TreVeyon Henderson",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "DEMARIO_DOUGLAS_1_NFL": {
+    "espn_player_id": "4427095",
+    "sgo_player_id": "DEMARIO_DOUGLAS_1_NFL",
+    "name": "Demario Douglas",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "KAYSHON_BOUTTE_1_NFL": {
+    "espn_player_id": "4429022",
+    "sgo_player_id": "KAYSHON_BOUTTE_1_NFL",
+    "name": "Kayshon Boutte",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "TAI_FELTON_1_NFL": {
+    "espn_player_id": "4565185",
+    "sgo_player_id": "TAI_FELTON_1_NFL",
+    "name": "Tai Felton",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "EFTON_CHISM_III_1_NFL": {
+    "espn_player_id": "4695193",
+    "sgo_player_id": "EFTON_CHISM_III_1_NFL",
+    "name": "Efton Chism III",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "KYLE_WILLIAMS_1_NFL": {
+    "espn_player_id": "4613202",
+    "sgo_player_id": "KYLE_WILLIAMS_1_NFL",
+    "name": "Kyle Williams",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "NICK_VANNETT_1_NFL": {
+    "espn_player_id": "2576399",
+    "sgo_player_id": "NICK_VANNETT_1_NFL",
+    "name": "Nick Vannett",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "JEREMIAH_WEBB_1_NFL": {
+    "espn_player_id": "4572655",
+    "sgo_player_id": "JEREMIAH_WEBB_1_NFL",
+    "name": "Jeremiah Webb",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "MYLES_PRICE_1_NFL": {
+    "espn_player_id": "4430656",
+    "sgo_player_id": "MYLES_PRICE_1_NFL",
+    "name": "Myles Price",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "JACK_WESTOVER_1_NFL": {
+    "espn_player_id": "4361100",
+    "sgo_player_id": "JACK_WESTOVER_1_NFL",
+    "name": "Jack Westover",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "MAX_BROSMER_1_NFL": {
+    "espn_player_id": "4573398",
+    "sgo_player_id": "MAX_BROSMER_1_NFL",
+    "name": "Max Brosmer",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "BRYSON_NESBIT_1_NFL": {
+    "espn_player_id": "4602969",
+    "sgo_player_id": "BRYSON_NESBIT_1_NFL",
+    "name": "Bryson Nesbit",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "DONTAE_FLEMING_1_NFL": {
+    "espn_player_id": "4565297",
+    "sgo_player_id": "DONTAE_FLEMING_1_NFL",
+    "name": "Dontae Fleming",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "TETAIROA_MCMILLAN_1_NFL": {
+    "espn_player_id": "4685472",
+    "sgo_player_id": "TETAIROA_MCMILLAN_1_NFL",
+    "name": "Tetairoa McMillan",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "TREVOR_ETIENNE_1_NFL": {
+    "espn_player_id": "4685350",
+    "sgo_player_id": "TREVOR_ETIENNE_1_NFL",
+    "name": "Trevor Etienne",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "JATAVION_SANDERS_1_NFL": {
+    "espn_player_id": "4431588",
+    "sgo_player_id": "JATAVION_SANDERS_1_NFL",
+    "name": "Ja'Tavion Sanders",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "XAVIER_LEGETTE_1_NFL": {
+    "espn_player_id": "4430034",
+    "sgo_player_id": "XAVIER_LEGETTE_1_NFL",
+    "name": "Xavier Legette",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "NICK_CHUBB_1_NFL": {
+    "espn_player_id": "3128720",
+    "sgo_player_id": "NICK_CHUBB_1_NFL",
+    "name": "Nick Chubb",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "CJ_STROUD_1_NFL": {
+    "espn_player_id": "4432577",
+    "sgo_player_id": "CJ_STROUD_1_NFL",
+    "name": "C.J. Stroud",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "NICO_COLLINS_1_NFL": {
+    "espn_player_id": "4258173",
+    "sgo_player_id": "NICO_COLLINS_1_NFL",
+    "name": "Nico Collins",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "JAYLIN_NOEL_1_NFL": {
+    "espn_player_id": "4586312",
+    "sgo_player_id": "JAYLIN_NOEL_1_NFL",
+    "name": "Jaylin Noel",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "JAYDEN_HIGGINS_1_NFL": {
+    "espn_player_id": "4877706",
+    "sgo_player_id": "JAYDEN_HIGGINS_1_NFL",
+    "name": "Jayden Higgins",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "MITCHELL_EVANS_1_NFL": {
+    "espn_player_id": "4683243",
+    "sgo_player_id": "MITCHELL_EVANS_1_NFL",
+    "name": "Mitchell Evans",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "HUNTER_RENFROW_1_NFL": {
+    "espn_player_id": "3135321",
+    "sgo_player_id": "HUNTER_RENFROW_1_NFL",
+    "name": "Hunter Renfrow",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "JIMMY_HORN_JR_1_NFL": {
+    "espn_player_id": "4708486",
+    "sgo_player_id": "JIMMY_HORN_JR_1_NFL",
+    "name": "Jimmy Horn Jr.",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "IRV_SMITH_JR_1_NFL": {
+    "espn_player_id": "4040980",
+    "sgo_player_id": "IRV_SMITH_JR_1_NFL",
+    "name": "Irv Smith Jr.",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "LUKE_LACHEY_1_NFL": {
+    "espn_player_id": "4432338",
+    "sgo_player_id": "LUKE_LACHEY_1_NFL",
+    "name": "Luke Lachey",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "GRAHAM_MERTZ_1_NFL": {
+    "espn_player_id": "4426335",
+    "sgo_player_id": "GRAHAM_MERTZ_1_NFL",
+    "name": "Graham Mertz",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "MARSHAWN_LLOYD_1_NFL": {
+    "espn_player_id": "4429023",
+    "sgo_player_id": "MARSHAWN_LLOYD_1_NFL",
+    "name": "MarShawn Lloyd",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "MO_ALIECOX_1_NFL": {
+    "espn_player_id": "2998565",
+    "sgo_player_id": "MO_ALIECOX_1_NFL",
+    "name": "Mo Alie-Cox",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "JONATHAN_TAYLOR_1_NFL": {
+    "espn_player_id": "4242335",
+    "sgo_player_id": "JONATHAN_TAYLOR_1_NFL",
+    "name": "Jonathan Taylor",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "DJ_GIDDENS_1_NFL": {
+    "espn_player_id": "4874509",
+    "sgo_player_id": "DJ_GIDDENS_1_NFL",
+    "name": "DJ Giddens",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "WILL_SHEPPARD_1_NFL": {
+    "espn_player_id": "4608679",
+    "sgo_player_id": "WILL_SHEPPARD_1_NFL",
+    "name": "Will Sheppard",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "RILEY_LEONARD_1_NFL": {
+    "espn_player_id": "4683423",
+    "sgo_player_id": "RILEY_LEONARD_1_NFL",
+    "name": "Riley Leonard",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "ULYSSES_BENTLEY_IV_1_NFL": {
+    "espn_player_id": "4426689",
+    "sgo_player_id": "ULYSSES_BENTLEY_IV_1_NFL",
+    "name": "Ulysses Bentley IV",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "COLEMAN_OWEN_1_NFL": {
+    "espn_player_id": "4578436",
+    "sgo_player_id": "COLEMAN_OWEN_1_NFL",
+    "name": "Coleman Owen",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "ISAIAH_NEYOR_1_NFL": {
+    "espn_player_id": "4428116",
+    "sgo_player_id": "ISAIAH_NEYOR_1_NFL",
+    "name": "Isaiah Neyor",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "BLAKE_WHITEHEART_1_NFL": {
+    "espn_player_id": "4362018",
+    "sgo_player_id": "BLAKE_WHITEHEART_1_NFL",
+    "name": "Blake Whiteheart",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "AHMANI_MARSHALL_1_NFL": {
+    "espn_player_id": "4432374",
+    "sgo_player_id": "AHMANI_MARSHALL_1_NFL",
+    "name": "Ahmani Marshall",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "GAGE_LARVADAIN_1_NFL": {
+    "espn_player_id": "4877203",
+    "sgo_player_id": "GAGE_LARVADAIN_1_NFL",
+    "name": "Gage Larvadain",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "CEDRIC_TILLMAN_1_NFL": {
+    "espn_player_id": "4369863",
+    "sgo_player_id": "CEDRIC_TILLMAN_1_NFL",
+    "name": "Cedric Tillman",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "TERRACE_MARSHALL_1_NFL": {
+    "espn_player_id": "4362630",
+    "sgo_player_id": "TERRACE_MARSHALL_1_NFL",
+    "name": "Terrace Marshall Jr.",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "DARIUS_COOPER_1_NFL": {
+    "espn_player_id": "4715355",
+    "sgo_player_id": "DARIUS_COOPER_1_NFL",
+    "name": "Darius Cooper",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "KYLE_MCCORD_1_NFL": {
+    "espn_player_id": "4433971",
+    "sgo_player_id": "KYLE_MCCORD_1_NFL",
+    "name": "Kyle McCord",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "CADE_MCDONALD_1_NFL": {
+    "espn_player_id": "4569507",
+    "sgo_player_id": "CADE_MCDONALD_1_NFL",
+    "name": "Cade McDonald",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "BROCK_PURDY_1_NFL": {
+    "espn_player_id": "4361741",
+    "sgo_player_id": "BROCK_PURDY_1_NFL",
+    "name": "Brock Purdy",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "JUNIOR_BERGEN_1_NFL": {
+    "espn_player_id": "4887918",
+    "sgo_player_id": "JUNIOR_BERGEN_1_NFL",
+    "name": "Junior Bergen",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "RICKY_PEARSALL_1_NFL": {
+    "espn_player_id": "4428209",
+    "sgo_player_id": "RICKY_PEARSALL_1_NFL",
+    "name": "Ricky Pearsall",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "ASHTON_JEANTY_1_NFL": {
+    "espn_player_id": "4890973",
+    "sgo_player_id": "ASHTON_JEANTY_1_NFL",
+    "name": "Ashton Jeanty",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "BROCK_BOWERS_1_NFL": {
+    "espn_player_id": "4432665",
+    "sgo_player_id": "BROCK_BOWERS_1_NFL",
+    "name": "Brock Bowers",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "LUKE_FARRELL_1_NFL": {
+    "espn_player_id": "4040612",
+    "sgo_player_id": "LUKE_FARRELL_1_NFL",
+    "name": "Luke Farrell",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "JACK_BECH_1_NFL": {
+    "espn_player_id": "4603186",
+    "sgo_player_id": "JACK_BECH_1_NFL",
+    "name": "Jack Bech",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "CARTER_RUNYON_1_NFL": {
+    "espn_player_id": "5155825",
+    "sgo_player_id": "CARTER_RUNYON_1_NFL",
+    "name": "Carter Runyon",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "ALBERT_OKWUEGBUNAM_1_NFL": {
+    "espn_player_id": "4035115",
+    "sgo_player_id": "ALBERT_OKWUEGBUNAM_1_NFL",
+    "name": "Albert Okwuegbunam",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "CAM_MILLER_1_NFL": {
+    "espn_player_id": "4693331",
+    "sgo_player_id": "CAM_MILLER_1_NFL",
+    "name": "Cam Miller",
+    "espn_team_id": "13",
+    "sgo_team_id": "LAS_VEGAS_RAIDERS_NFL"
+  },
+  "JUSTIN_HERBERT_1_NFL": {
+    "espn_player_id": "4038941",
+    "sgo_player_id": "JUSTIN_HERBERT_1_NFL",
+    "name": "Justin Herbert",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "QUENTIN_JOHNSTON_1_NFL": {
+    "espn_player_id": "4429025",
+    "sgo_player_id": "QUENTIN_JOHNSTON_1_NFL",
+    "name": "Quentin Johnston",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "LADD_MCCONKEY_1_NFL": {
+    "espn_player_id": "4612826",
+    "sgo_player_id": "LADD_MCCONKEY_1_NFL",
+    "name": "Ladd McConkey",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "OMARION_HAMPTON_1_NFL": {
+    "espn_player_id": "4685382",
+    "sgo_player_id": "OMARION_HAMPTON_1_NFL",
+    "name": "Omarion Hampton",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "KONATA_MUMPFIELD_1_NFL": {
+    "espn_player_id": "4710855",
+    "sgo_player_id": "KONATA_MUMPFIELD_1_NFL",
+    "name": "Konata Mumpfield",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "JARQUEZ_HUNTER_1_NFL": {
+    "espn_player_id": "4710341",
+    "sgo_player_id": "JARQUEZ_HUNTER_1_NFL",
+    "name": "Jarquez Hunter",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "BRENNAN_PRESLEY_1_NFL": {
+    "espn_player_id": "4431342",
+    "sgo_player_id": "BRENNAN_PRESLEY_1_NFL",
+    "name": "Brennan Presley",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "LUKE_GRIMM_1_NFL": {
+    "espn_player_id": "4433830",
+    "sgo_player_id": "LUKE_GRIMM_1_NFL",
+    "name": "Luke Grimm",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "MILES_SANDERS_1_NFL": {
+    "espn_player_id": "4045163",
+    "sgo_player_id": "MILES_SANDERS_1_NFL",
+    "name": "Miles Sanders",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "LAJOHNTAY_WESTER_1_NFL": {
+    "espn_player_id": "4690143",
+    "sgo_player_id": "LAJOHNTAY_WESTER_1_NFL",
+    "name": "LaJohntay Wester",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "HUNTER_LUEPKE_1_NFL": {
+    "espn_player_id": "4383396",
+    "sgo_player_id": "HUNTER_LUEPKE_1_NFL",
+    "name": "Hunter Luepke",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "JOHN_STEPHENS_JR_1_NFL": {
+    "espn_player_id": "4362489",
+    "sgo_player_id": "JOHN_STEPHENS_JR_1_NFL",
+    "name": "John Stephens Jr.",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "PRINCETON_FANT_1_NFL": {
+    "espn_player_id": "4242442",
+    "sgo_player_id": "PRINCETON_FANT_1_NFL",
+    "name": "Princeton Fant",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "ZAIRE_MITCHELLPADEN_1_NFL": {
+    "espn_player_id": "4876006",
+    "sgo_player_id": "ZAIRE_MITCHELLPADEN_1_NFL",
+    "name": "Zaire Mitchell-Paden",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "PHIL_MAFAH_1_NFL": {
+    "espn_player_id": "4431562",
+    "sgo_player_id": "PHIL_MAFAH_1_NFL",
+    "name": "Phil Mafah",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "TRAESHON_HOLDEN_1_NFL": {
+    "espn_player_id": "4429172",
+    "sgo_player_id": "TRAESHON_HOLDEN_1_NFL",
+    "name": "Traeshon Holden",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "TEDDY_BRIDGEWATER_1_NFL": {
+    "espn_player_id": "16728",
+    "sgo_player_id": "TEDDY_BRIDGEWATER_1_NFL",
+    "name": "Teddy Bridgewater",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "BUCKY_IRVING_1_NFL": {
+    "espn_player_id": "4596448",
+    "sgo_player_id": "BUCKY_IRVING_1_NFL",
+    "name": "Bucky Irving",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "STERLING_SHEPARD_1_NFL": {
+    "espn_player_id": "2976592",
+    "sgo_player_id": "STERLING_SHEPARD_1_NFL",
+    "name": "Sterling Shepard",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "PAYNE_DURHAM_1_NFL": {
+    "espn_player_id": "4372505",
+    "sgo_player_id": "PAYNE_DURHAM_1_NFL",
+    "name": "Payne Durham",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "KENNETH_GAINWELL_1_NFL": {
+    "espn_player_id": "4371733",
+    "sgo_player_id": "KENNETH_GAINWELL_1_NFL",
+    "name": "Kenneth Gainwell",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "ROMAN_WILSON_1_NFL": {
+    "espn_player_id": "4431492",
+    "sgo_player_id": "ROMAN_WILSON_1_NFL",
+    "name": "Roman Wilson",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "CADE_OTTON_1_NFL": {
+    "espn_player_id": "4243331",
+    "sgo_player_id": "CADE_OTTON_1_NFL",
+    "name": "Cade Otton",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "EMEKA_EGBUKA_1_NFL": {
+    "espn_player_id": "4567750",
+    "sgo_player_id": "EMEKA_EGBUKA_1_NFL",
+    "name": "Emeka Egbuka",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "MAX_HURLEMAN_1_NFL": {
+    "espn_player_id": "4694237",
+    "sgo_player_id": "MAX_HURLEMAN_1_NFL",
+    "name": "Max Hurleman",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "GARRETT_GREENE_1_NFL": {
+    "espn_player_id": "4429847",
+    "sgo_player_id": "GARRETT_GREENE_1_NFL",
+    "name": "Garrett Greene",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "CONNOR_BAZELAK_1_NFL": {
+    "espn_player_id": "4426444",
+    "sgo_player_id": "CONNOR_BAZELAK_1_NFL",
+    "name": "Connor Bazelak",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "TANNER_TAULA_1_NFL": {
+    "espn_player_id": "4248052",
+    "sgo_player_id": "TANNER_TAULA_1_NFL",
+    "name": "Tanner Taula",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "JAMAAL_PRITCHETT_1_NFL": {
+    "espn_player_id": "4892576",
+    "sgo_player_id": "JAMAAL_PRITCHETT_1_NFL",
+    "name": "Jamaal Pritchett",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "JALIN_HYATT_1_NFL": {
+    "espn_player_id": "4692590",
+    "sgo_player_id": "JALIN_HYATT_1_NFL",
+    "name": "Jalin Hyatt",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "JAXSON_DART_1_NFL": {
+    "espn_player_id": "4689114",
+    "sgo_player_id": "JAXSON_DART_1_NFL",
+    "name": "Jaxson Dart",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "THOMAS_FIDONE_II_1_NFL": {
+    "espn_player_id": "4590292",
+    "sgo_player_id": "THOMAS_FIDONE_II_1_NFL",
+    "name": "Thomas Fidone II",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "BRADY_COOK_1_NFL": {
+    "espn_player_id": "4429435",
+    "sgo_player_id": "BRADY_COOK_1_NFL",
+    "name": "Brady Cook",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "DALEN_CAMBRE_1_NFL": {
+    "espn_player_id": "4570296",
+    "sgo_player_id": "DALEN_CAMBRE_1_NFL",
+    "name": "Dalen Cambre",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "QUENTIN_SKINNER_1_NFL": {
+    "espn_player_id": "4613050",
+    "sgo_player_id": "QUENTIN_SKINNER_1_NFL",
+    "name": "Quentin Skinner",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "RJ_HARVEY_1_NFL": {
+    "espn_player_id": "4568490",
+    "sgo_player_id": "RJ_HARVEY_1_NFL",
+    "name": "RJ Harvey",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "EVAN_ENGRAM_1_NFL": {
+    "espn_player_id": "3051876",
+    "sgo_player_id": "EVAN_ENGRAM_1_NFL",
+    "name": "Evan Engram",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "PAT_BRYANT_1_NFL": {
+    "espn_player_id": "4600981",
+    "sgo_player_id": "PAT_BRYANT_1_NFL",
+    "name": "Pat Bryant",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "SIMI_FEHOKO_1_NFL": {
+    "espn_player_id": "4360739",
+    "sgo_player_id": "SIMI_FEHOKO_1_NFL",
+    "name": "Simi Fehoko",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "TYLER_SHOUGH_1_NFL": {
+    "espn_player_id": "4360689",
+    "sgo_player_id": "TYLER_SHOUGH_1_NFL",
+    "name": "Tyler Shough",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "RASHID_SHAHEED_1_NFL": {
+    "espn_player_id": "4032473",
+    "sgo_player_id": "RASHID_SHAHEED_1_NFL",
+    "name": "Rashid Shaheed",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "CHRIS_OLAVE_1_NFL": {
+    "espn_player_id": "4361370",
+    "sgo_player_id": "CHRIS_OLAVE_1_NFL",
+    "name": "Chris Olave",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "BHAYSHUL_TUTEN_1_NFL": {
+    "espn_player_id": "4882093",
+    "sgo_player_id": "BHAYSHUL_TUTEN_1_NFL",
+    "name": "Bhayshul Tuten",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "CHANDLER_BRAYBOY_1_NFL": {
+    "espn_player_id": "4573243",
+    "sgo_player_id": "CHANDLER_BRAYBOY_1_NFL",
+    "name": "Chandler Brayboy",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "SETH_HENIGAN_1_NFL": {
+    "espn_player_id": "4606194",
+    "sgo_player_id": "SETH_HENIGAN_1_NFL",
+    "name": "Seth Henigan",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "COLSTON_LOVELAND_1_NFL": {
+    "espn_player_id": "4723086",
+    "sgo_player_id": "COLSTON_LOVELAND_1_NFL",
+    "name": "Colston Loveland",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "COLE_KMET_1_NFL": {
+    "espn_player_id": "4258595",
+    "sgo_player_id": "COLE_KMET_1_NFL",
+    "name": "Cole Kmet",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "CHRIS_WILLIAMS_1_NFL": {
+    "espn_player_id": "4431611",
+    "sgo_player_id": "CHRIS_WILLIAMS_1_NFL",
+    "name": "Caleb Williams",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "DEION_HANKINS_1_NFL": {
+    "espn_player_id": "4575667",
+    "sgo_player_id": "DEION_HANKINS_1_NFL",
+    "name": "Deion Hankins",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "DJ_MOORE_1_NFL": {
+    "espn_player_id": "3915416",
+    "sgo_player_id": "DJ_MOORE_1_NFL",
+    "name": "DJ Moore",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "OLAMIDE_ZACCHEAUS_1_NFL": {
+    "espn_player_id": "3917914",
+    "sgo_player_id": "OLAMIDE_ZACCHEAUS_1_NFL",
+    "name": "Olamide Zaccheaus",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "MILES_BOYKIN_1_NFL": {
+    "espn_player_id": "3932423",
+    "sgo_player_id": "MILES_BOYKIN_1_NFL",
+    "name": "Miles Boykin",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "ELIJAH_MOORE_1_NFL": {
+    "espn_player_id": "4372414",
+    "sgo_player_id": "ELIJAH_MOORE_1_NFL",
+    "name": "Elijah Moore",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "ROME_ODUNZE_1_NFL": {
+    "espn_player_id": "4431299",
+    "sgo_player_id": "ROME_ODUNZE_1_NFL",
+    "name": "Rome Odunze",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "JACKSON_HAWES_1_NFL": {
+    "espn_player_id": "4573699",
+    "sgo_player_id": "JACKSON_HAWES_1_NFL",
+    "name": "Jackson Hawes",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "KELEKI_LATU_1_NFL": {
+    "espn_player_id": "4688552",
+    "sgo_player_id": "KELEKI_LATU_1_NFL",
+    "name": "Keleki Latu",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "LUTHER_BURDEN_III_1_NFL": {
+    "espn_player_id": "4685278",
+    "sgo_player_id": "LUTHER_BURDEN_III_1_NFL",
+    "name": "Luther Burden III",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "BRITTAIN_BROWN_1_NFL": {
+    "espn_player_id": "4036032",
+    "sgo_player_id": "BRITTAIN_BROWN_1_NFL",
+    "name": "Brittain Brown",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "JAHDAE_WALKER_1_NFL": {
+    "espn_player_id": "5160110",
+    "sgo_player_id": "JAHDAE_WALKER_1_NFL",
+    "name": "Jahdae Walker",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "STEPHEN_GOSNELL_1_NFL": {
+    "espn_player_id": "4432215",
+    "sgo_player_id": "STEPHEN_GOSNELL_1_NFL",
+    "name": "Stephen Gosnell",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "DREW_SAMPLE_1_NFL": {
+    "espn_player_id": "3127310",
+    "sgo_player_id": "DREW_SAMPLE_1_NFL",
+    "name": "Drew Sample",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "DEEBO_SAMUEL_1_NFL": {
+    "espn_player_id": "3126486",
+    "sgo_player_id": "DEEBO_SAMUEL_1_NFL",
+    "name": "Deebo Samuel",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "JAYDEN_DANIELS_1_NFL": {
+    "espn_player_id": "4426348",
+    "sgo_player_id": "JAYDEN_DANIELS_1_NFL",
+    "name": "Jayden Daniels",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "ANDREI_IOSIVAS_1_NFL": {
+    "espn_player_id": "4368003",
+    "sgo_player_id": "ANDREI_IOSIVAS_1_NFL",
+    "name": "Andrei Iosivas",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "TAHJ_BROOKS_1_NFL": {
+    "espn_player_id": "4429299",
+    "sgo_player_id": "TAHJ_BROOKS_1_NFL",
+    "name": "Tahj Brooks",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "JAYLIN_LANE_1_NFL": {
+    "espn_player_id": "4602667",
+    "sgo_player_id": "JAYLIN_LANE_1_NFL",
+    "name": "Jaylin Lane",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "CAM_GRANDY_1_NFL": {
+    "espn_player_id": "4700712",
+    "sgo_player_id": "CAM_GRANDY_1_NFL",
+    "name": "Cam Grandy",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "JACOREY_BROOKS_1_NFL": {
+    "espn_player_id": "4431506",
+    "sgo_player_id": "JACOREY_BROOKS_1_NFL",
+    "name": "Ja'Corey Brooks",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "JACOBY_JONES_1_NFL": {
+    "espn_player_id": "5083297",
+    "sgo_player_id": "JACOBY_JONES_1_NFL",
+    "name": "Jacoby Jones",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "KENDALL_MILTON_1_NFL": {
+    "espn_player_id": "4429012",
+    "sgo_player_id": "KENDALL_MILTON_1_NFL",
+    "name": "Kendall Milton",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "JORDAN_MOORE_1_NFL": {
+    "espn_player_id": "4594444",
+    "sgo_player_id": "JORDAN_MOORE_1_NFL",
+    "name": "Jordan Moore",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "JAYLEN_WARREN_1_NFL": {
+    "espn_player_id": "4569987",
+    "sgo_player_id": "JAYLEN_WARREN_1_NFL",
+    "name": "Jaylen Warren",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "PAT_FREIERMUTH_1_NFL": {
+    "espn_player_id": "4361411",
+    "sgo_player_id": "PAT_FREIERMUTH_1_NFL",
+    "name": "Pat Freiermuth",
+    "espn_team_id": "23",
+    "sgo_team_id": "PITTSBURGH_STEELERS_NFL"
+  },
+  "JEREMY_RUCKERT_1_NFL": {
+    "espn_player_id": "4361372",
+    "sgo_player_id": "JEREMY_RUCKERT_1_NFL",
+    "name": "Jeremy Ruckert",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "BEN_YUROSEK_1_NFL": {
+    "espn_player_id": "4433959",
+    "sgo_player_id": "BEN_YUROSEK_1_NFL",
+    "name": "Ben Yurosek",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "XAZAVIAN_VALLADAY_1_NFL": {
+    "espn_player_id": "4240350",
+    "sgo_player_id": "XAZAVIAN_VALLADAY_1_NFL",
+    "name": "Xazavian Valladay",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "RIVALDO_FAIRWEATHER_1_NFL": {
+    "espn_player_id": "4605858",
+    "sgo_player_id": "RIVALDO_FAIRWEATHER_1_NFL",
+    "name": "Rivaldo Fairweather",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "DANDRE_SWIFT_1_NFL": {
+    "espn_player_id": "4259545",
+    "sgo_player_id": "DANDRE_SWIFT_1_NFL",
+    "name": "D'Andre Swift",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "JUSTICE_HILL_1_NFL": {
+    "espn_player_id": "4038441",
+    "sgo_player_id": "JUSTICE_HILL_1_NFL",
+    "name": "Justice Hill",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "JOE_FLACCO_1_NFL": {
+    "espn_player_id": "11252",
+    "sgo_player_id": "JOE_FLACCO_1_NFL",
+    "name": "Joe Flacco",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "SHEDEUR_SANDERS_1_NFL": {
+    "espn_player_id": "4432762",
+    "sgo_player_id": "SHEDEUR_SANDERS_1_NFL",
+    "name": "Shedeur Sanders",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "JEROME_FORD_1_NFL": {
+    "espn_player_id": "4372019",
+    "sgo_player_id": "JEROME_FORD_1_NFL",
+    "name": "Jerome Ford",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "DYLAN_SAMPSON_1_NFL": {
+    "espn_player_id": "5081397",
+    "sgo_player_id": "DYLAN_SAMPSON_1_NFL",
+    "name": "Dylan Sampson",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "DAVID_NJOKU_1_NFL": {
+    "espn_player_id": "3123076",
+    "sgo_player_id": "DAVID_NJOKU_1_NFL",
+    "name": "David Njoku",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "JERRY_JEUDY_1_NFL": {
+    "espn_player_id": "4241463",
+    "sgo_player_id": "JERRY_JEUDY_1_NFL",
+    "name": "Jerry Jeudy",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "DEANDRE_CARTER_1_NFL": {
+    "espn_player_id": "2580216",
+    "sgo_player_id": "DEANDRE_CARTER_1_NFL",
+    "name": "DeAndre Carter",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "DAMEON_PIERCE_1_NFL": {
+    "espn_player_id": "4360238",
+    "sgo_player_id": "DAMEON_PIERCE_1_NFL",
+    "name": "Dameon Pierce",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "HARRISON_BRYANT_1_NFL": {
+    "espn_player_id": "4040774",
+    "sgo_player_id": "HARRISON_BRYANT_1_NFL",
+    "name": "Harrison Bryant",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "MOLIKI_MATAVAO_1_NFL": {
+    "espn_player_id": "4432731",
+    "sgo_player_id": "MOLIKI_MATAVAO_1_NFL",
+    "name": "Moliki Matavao",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "ADAM_TRAUTMAN_1_NFL": {
+    "espn_player_id": "3911853",
+    "sgo_player_id": "ADAM_TRAUTMAN_1_NFL",
+    "name": "Adam Trautman",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "AT_PERRY_1_NFL": {
+    "espn_player_id": "4362019",
+    "sgo_player_id": "AT_PERRY_1_NFL",
+    "name": "A.T. Perry",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "JOSH_JACOBS_1_NFL": {
+    "espn_player_id": "4047365",
+    "sgo_player_id": "JOSH_JACOBS_1_NFL",
+    "name": "Josh Jacobs",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "MATTHEW_GOLDEN_1_NFL": {
+    "espn_player_id": "4701936",
+    "sgo_player_id": "MATTHEW_GOLDEN_1_NFL",
+    "name": "Matthew Golden",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "NICK_KALLERUP_1_NFL": {
+    "espn_player_id": "4569547",
+    "sgo_player_id": "NICK_KALLERUP_1_NFL",
+    "name": "Nick Kallerup",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "JAYLEN_WADDLE_1_NFL": {
+    "espn_player_id": "4372016",
+    "sgo_player_id": "JAYLEN_WADDLE_1_NFL",
+    "name": "Jaylen Waddle",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "JAQUINDEN_JACKSON_1_NFL": {
+    "espn_player_id": "4690972",
+    "sgo_player_id": "JAQUINDEN_JACKSON_1_NFL",
+    "name": "Ja'Quinden Jackson",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "KAMERON_JOHNSON_1_NFL": {
+    "espn_player_id": "5097554",
+    "sgo_player_id": "KAMERON_JOHNSON_1_NFL",
+    "name": "Kameron Johnson",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "ISAAC_GUERENDO_1_NFL": {
+    "espn_player_id": "4372561",
+    "sgo_player_id": "ISAAC_GUERENDO_1_NFL",
+    "name": "Isaac Guerendo",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "DERIUS_DAVIS_1_NFL": {
+    "espn_player_id": "4362477",
+    "sgo_player_id": "DERIUS_DAVIS_1_NFL",
+    "name": "Derius Davis",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "MALIK_TURNER_1_NFL": {
+    "espn_player_id": "3115928",
+    "sgo_player_id": "MALIK_TURNER_1_NFL",
+    "name": "Malik Turner",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "THOMAS_YASSMIN_1_NFL": {
+    "espn_player_id": "4361027",
+    "sgo_player_id": "THOMAS_YASSMIN_1_NFL",
+    "name": "Thomas Yassmin",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "JALEN_HURTS_1_NFL": {
+    "espn_player_id": "4040715",
+    "sgo_player_id": "JALEN_HURTS_1_NFL",
+    "name": "Jalen Hurts",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "SAQUON_BARKLEY_1_NFL": {
+    "espn_player_id": "3929630",
+    "sgo_player_id": "SAQUON_BARKLEY_1_NFL",
+    "name": "Saquon Barkley",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "AJ_BROWN_1_NFL": {
+    "espn_player_id": "4047646",
+    "sgo_player_id": "AJ_BROWN_1_NFL",
+    "name": "A.J. Brown",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "DEVONTA_SMITH_1_NFL": {
+    "espn_player_id": "4241478",
+    "sgo_player_id": "DEVONTA_SMITH_1_NFL",
+    "name": "DeVonta Smith",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "DAK_PRESCOTT_1_NFL": {
+    "espn_player_id": "2577417",
+    "sgo_player_id": "DAK_PRESCOTT_1_NFL",
+    "name": "Dak Prescott",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "CEEDEE_LAMB_1_NFL": {
+    "espn_player_id": "4241389",
+    "sgo_player_id": "CEEDEE_LAMB_1_NFL",
+    "name": "CeeDee Lamb",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "DALLAS_GOEDERT_1_NFL": {
+    "espn_player_id": "3121023",
+    "sgo_player_id": "DALLAS_GOEDERT_1_NFL",
+    "name": "Dallas Goedert",
+    "espn_team_id": "21",
+    "sgo_team_id": "PHILADELPHIA_EAGLES_NFL"
+  },
+  "JAKE_FERGUSON_1_NFL": {
+    "espn_player_id": "4242355",
+    "sgo_player_id": "JAKE_FERGUSON_1_NFL",
+    "name": "Jake Ferguson",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "KAVONTAE_TURPIN_1_NFL": {
+    "espn_player_id": "3676833",
+    "sgo_player_id": "KAVONTAE_TURPIN_1_NFL",
+    "name": "KaVontae Turpin",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "BREVYN_SPANNFORD_1_NFL": {
+    "espn_player_id": "4360967",
+    "sgo_player_id": "BREVYN_SPANNFORD_1_NFL",
+    "name": "Brevyn Spann-Ford",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "JAYDON_BLUE_1_NFL": {
+    "espn_player_id": "4685279",
+    "sgo_player_id": "JAYDON_BLUE_1_NFL",
+    "name": "Jaydon Blue",
+    "espn_team_id": "6",
+    "sgo_team_id": "DALLAS_COWBOYS_NFL"
+  },
+  "WILL_DISSLY_1_NFL": {
+    "espn_player_id": "3127292",
+    "sgo_player_id": "WILL_DISSLY_1_NFL",
+    "name": "Will Dissly",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "TUCKER_FISK_1_NFL": {
+    "espn_player_id": "4242558",
+    "sgo_player_id": "TUCKER_FISK_1_NFL",
+    "name": "Tucker Fisk",
+    "espn_team_id": "24",
+    "sgo_team_id": "LOS_ANGELES_CHARGERS_NFL"
+  },
+  "BRASHARD_SMITH_1_NFL": {
+    "espn_player_id": "4596602",
+    "sgo_player_id": "BRASHARD_SMITH_1_NFL",
+    "name": "Brashard Smith",
+    "espn_team_id": "12",
+    "sgo_team_id": "KANSAS_CITY_CHIEFS_NFL"
+  },
+  "MALIK_NABERS_1_NFL": {
+    "espn_player_id": "4595348",
+    "sgo_player_id": "MALIK_NABERS_1_NFL",
+    "name": "Malik Nabers",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "TERRY_MCLAURIN_1_NFL": {
+    "espn_player_id": "3121422",
+    "sgo_player_id": "TERRY_MCLAURIN_1_NFL",
+    "name": "Terry McLaurin",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "ZACH_ERTZ_1_NFL": {
+    "espn_player_id": "15835",
+    "sgo_player_id": "ZACH_ERTZ_1_NFL",
+    "name": "Zach Ertz",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "AUSTIN_EKELER_1_NFL": {
+    "espn_player_id": "3068267",
+    "sgo_player_id": "AUSTIN_EKELER_1_NFL",
+    "name": "Austin Ekeler",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "DARIUS_SLAYTON_1_NFL": {
+    "espn_player_id": "3916945",
+    "sgo_player_id": "DARIUS_SLAYTON_1_NFL",
+    "name": "Darius Slayton",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "JOHN_BATES_1_NFL": {
+    "espn_player_id": "4048228",
+    "sgo_player_id": "JOHN_BATES_1_NFL",
+    "name": "John Bates",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "CHRIS_MANHERTZ_1_NFL": {
+    "espn_player_id": "2531358",
+    "sgo_player_id": "CHRIS_MANHERTZ_1_NFL",
+    "name": "Chris Manhertz",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "ERIC_GRAY_1_NFL": {
+    "espn_player_id": "4570561",
+    "sgo_player_id": "ERIC_GRAY_1_NFL",
+    "name": "Eric Gray",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "BRYCE_FORDWHEATON_1_NFL": {
+    "espn_player_id": "4362227",
+    "sgo_player_id": "BRYCE_FORDWHEATON_1_NFL",
+    "name": "Bryce Ford-Wheaton",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "NOAH_BROWN_1_NFL": {
+    "espn_player_id": "3121409",
+    "sgo_player_id": "NOAH_BROWN_1_NFL",
+    "name": "Noah Brown",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  },
+  "BEAUX_COLLINS_1_NFL": {
+    "espn_player_id": "4431210",
+    "sgo_player_id": "BEAUX_COLLINS_1_NFL",
+    "name": "Beaux Collins",
+    "espn_team_id": "19",
+    "sgo_team_id": "NEW_YORK_GIANTS_NFL"
+  },
+  "TOMMY_TREMBLE_1_NFL": {
+    "espn_player_id": "4372780",
+    "sgo_player_id": "TOMMY_TREMBLE_1_NFL",
+    "name": "Tommy Tremble",
+    "espn_team_id": "29",
+    "sgo_team_id": "CAROLINA_PANTHERS_NFL"
+  },
+  "TRAVIS_HUNTER_1_NFL": {
+    "espn_player_id": "4685415",
+    "sgo_player_id": "TRAVIS_HUNTER_1_NFL",
+    "name": "Travis Hunter",
+    "espn_team_id": "30",
+    "sgo_team_id": "JACKSONVILLE_JAGUARS_NFL"
+  },
+  "BAKER_MAYFIELD_1_NFL": {
+    "espn_player_id": "3052587",
+    "sgo_player_id": "BAKER_MAYFIELD_1_NFL",
+    "name": "Baker Mayfield",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "MIKE_EVANS_1_NFL": {
+    "espn_player_id": "16737",
+    "sgo_player_id": "MIKE_EVANS_1_NFL",
+    "name": "Mike Evans",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "DRAKE_LONDON_1_NFL": {
+    "espn_player_id": "4426502",
+    "sgo_player_id": "DRAKE_LONDON_1_NFL",
+    "name": "Drake London",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "BIJAN_ROBINSON_1_NFL": {
+    "espn_player_id": "4430807",
+    "sgo_player_id": "BIJAN_ROBINSON_1_NFL",
+    "name": "Bijan Robinson",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "TYLER_ALLGEIER_1_NFL": {
+    "espn_player_id": "4373626",
+    "sgo_player_id": "TYLER_ALLGEIER_1_NFL",
+    "name": "Tyler Allgeier",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "DARNELL_MOONEY_1_NFL": {
+    "espn_player_id": "4040655",
+    "sgo_player_id": "DARNELL_MOONEY_1_NFL",
+    "name": "Darnell Mooney",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "RAYRAY_MCCLOUD_III_1_NFL": {
+    "espn_player_id": "3728262",
+    "sgo_player_id": "RAYRAY_MCCLOUD_III_1_NFL",
+    "name": "Ray-Ray McCloud III",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "CHARLIE_WOERNER_1_NFL": {
+    "espn_player_id": "4035020",
+    "sgo_player_id": "CHARLIE_WOERNER_1_NFL",
+    "name": "Charlie Woerner",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "KHADAREL_HODGE_1_NFL": {
+    "espn_player_id": "3047876",
+    "sgo_player_id": "KHADAREL_HODGE_1_NFL",
+    "name": "Khadarel Hodge",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "CARLOS_WASHINGTON_JR_1_NFL": {
+    "espn_player_id": "4248425",
+    "sgo_player_id": "CARLOS_WASHINGTON_JR_1_NFL",
+    "name": "Carlos Washington Jr.",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "CASEY_WASHINGTON_1_NFL": {
+    "espn_player_id": "4428796",
+    "sgo_player_id": "CASEY_WASHINGTON_1_NFL",
+    "name": "Casey Washington",
+    "espn_team_id": "1",
+    "sgo_team_id": "ATLANTA_FALCONS_NFL"
+  },
+  "KO_KIEFT_1_NFL": {
+    "espn_player_id": "4034779",
+    "sgo_player_id": "KO_KIEFT_1_NFL",
+    "name": "Ko Kieft",
+    "espn_team_id": "27",
+    "sgo_team_id": "TAMPA_BAY_BUCCANEERS_NFL"
+  },
+  "MASON_TAYLOR_1_NFL": {
+    "espn_player_id": "4808766",
+    "sgo_player_id": "MASON_TAYLOR_1_NFL",
+    "name": "Mason Taylor",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "ALVIN_KAMARA_1_NFL": {
+    "espn_player_id": "3054850",
+    "sgo_player_id": "ALVIN_KAMARA_1_NFL",
+    "name": "Alvin Kamara",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "ZAY_JONES_1_NFL": {
+    "espn_player_id": "3059722",
+    "sgo_player_id": "ZAY_JONES_1_NFL",
+    "name": "Zay Jones",
+    "espn_team_id": "22",
+    "sgo_team_id": "ARIZONA_CARDINALS_NFL"
+  },
+  "FOSTER_MOREAU_1_NFL": {
+    "espn_player_id": "3843945",
+    "sgo_player_id": "FOSTER_MOREAU_1_NFL",
+    "name": "Foster Moreau",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "TAYSOM_HILL_1_NFL": {
+    "espn_player_id": "2468609",
+    "sgo_player_id": "TAYSOM_HILL_1_NFL",
+    "name": "Taysom Hill",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "DEVIN_NEAL_1_NFL": {
+    "espn_player_id": "4682652",
+    "sgo_player_id": "DEVIN_NEAL_1_NFL",
+    "name": "Devin Neal",
+    "espn_team_id": "18",
+    "sgo_team_id": "NEW_ORLEANS_SAINTS_NFL"
+  },
+  "HUNTER_HENRY_1_NFL": {
+    "espn_player_id": "3046439",
+    "sgo_player_id": "HUNTER_HENRY_1_NFL",
+    "name": "Hunter Henry",
+    "espn_team_id": "17",
+    "sgo_team_id": "NEW_ENGLAND_PATRIOTS_NFL"
+  },
+  "TYREEK_HILL_1_NFL": {
+    "espn_player_id": "3116406",
+    "sgo_player_id": "TYREEK_HILL_1_NFL",
+    "name": "Tyreek Hill",
+    "espn_team_id": "15",
+    "sgo_team_id": "MIAMI_DOLPHINS_NFL"
+  },
+  "JOSH_DOWNS_1_NFL": {
+    "espn_player_id": "4688813",
+    "sgo_player_id": "JOSH_DOWNS_1_NFL",
+    "name": "Josh Downs",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "ALEC_PIERCE_1_NFL": {
+    "espn_player_id": "4360078",
+    "sgo_player_id": "ALEC_PIERCE_1_NFL",
+    "name": "Alec Pierce",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "DJ_MONTGOMERY_1_NFL": {
+    "espn_player_id": "4249030",
+    "sgo_player_id": "DJ_MONTGOMERY_1_NFL",
+    "name": "D.J. Montgomery",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "TYLER_WARREN_1_NFL": {
+    "espn_player_id": "4431459",
+    "sgo_player_id": "TYLER_WARREN_1_NFL",
+    "name": "Tyler Warren",
+    "espn_team_id": "11",
+    "sgo_team_id": "INDIANAPOLIS_COLTS_NFL"
+  },
+  "MIKE_GESICKI_1_NFL": {
+    "espn_player_id": "3116164",
+    "sgo_player_id": "MIKE_GESICKI_1_NFL",
+    "name": "Mike Gesicki",
+    "espn_team_id": "4",
+    "sgo_team_id": "CINCINNATI_BENGALS_NFL"
+  },
+  "HAROLD_FANNIN_JR_1_NFL": {
+    "espn_player_id": "5083076",
+    "sgo_player_id": "HAROLD_FANNIN_JR_1_NFL",
+    "name": "Harold Fannin Jr.",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "DILLON_GABRIEL_1_NFL": {
+    "espn_player_id": "4427238",
+    "sgo_player_id": "DILLON_GABRIEL_1_NFL",
+    "name": "Dillon Gabriel",
+    "espn_team_id": "5",
+    "sgo_team_id": "CLEVELAND_BROWNS_NFL"
+  },
+  "TREYLON_BURKS_1_NFL": {
+    "espn_player_id": "4567156",
+    "sgo_player_id": "TREYLON_BURKS_1_NFL",
+    "name": "Treylon Burks",
+    "espn_team_id": "10",
+    "sgo_team_id": "TENNESSEE_TITANS_NFL"
+  },
+  "NATE_ADKINS_1_NFL": {
+    "espn_player_id": "4383440",
+    "sgo_player_id": "NATE_ADKINS_1_NFL",
+    "name": "Nate Adkins",
+    "espn_team_id": "7",
+    "sgo_team_id": "DENVER_BRONCOS_NFL"
+  },
+  "BRANDON_AIYUK_1_NFL": {
+    "espn_player_id": "4360438",
+    "sgo_player_id": "BRANDON_AIYUK_1_NFL",
+    "name": "Brandon Aiyuk",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "CHRISTIAN_MCCAFFREY_1_NFL": {
+    "espn_player_id": "3117251",
+    "sgo_player_id": "CHRISTIAN_MCCAFFREY_1_NFL",
+    "name": "Christian McCaffrey",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "KENNETH_WALKER_III_1_NFL": {
+    "espn_player_id": "4567048",
+    "sgo_player_id": "KENNETH_WALKER_III_1_NFL",
+    "name": "Kenneth Walker III",
+    "espn_team_id": "26",
+    "sgo_team_id": "SEATTLE_SEAHAWKS_NFL"
+  },
+  "GEORGE_KITTLE_1_NFL": {
+    "espn_player_id": "3040151",
+    "sgo_player_id": "GEORGE_KITTLE_1_NFL",
+    "name": "George Kittle",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "JAUAN_JENNINGS_1_NFL": {
+    "espn_player_id": "3886598",
+    "sgo_player_id": "JAUAN_JENNINGS_1_NFL",
+    "name": "Jauan Jennings",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "JACOB_COWING_1_NFL": {
+    "espn_player_id": "4575665",
+    "sgo_player_id": "JACOB_COWING_1_NFL",
+    "name": "Jacob Cowing",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "JORDAN_WATKINS_1_NFL": {
+    "espn_player_id": "4431466",
+    "sgo_player_id": "JORDAN_WATKINS_1_NFL",
+    "name": "Jordan Watkins",
+    "espn_team_id": "25",
+    "sgo_team_id": "SAN_FRANCISCO_49ERS_NFL"
+  },
+  "PUKA_NACUA_1_NFL": {
+    "espn_player_id": "4426515",
+    "sgo_player_id": "PUKA_NACUA_1_NFL",
+    "name": "Puka Nacua",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "JOE_MIXON_1_NFL": {
+    "espn_player_id": "3116385",
+    "sgo_player_id": "JOE_MIXON_1_NFL",
+    "name": "Joe Mixon",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "KYREN_WILLIAMS_1_NFL": {
+    "espn_player_id": "4430737",
+    "sgo_player_id": "KYREN_WILLIAMS_1_NFL",
+    "name": "Kyren Williams",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "DALTON_SCHULTZ_1_NFL": {
+    "espn_player_id": "3117256",
+    "sgo_player_id": "DALTON_SCHULTZ_1_NFL",
+    "name": "Dalton Schultz",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "TYLER_HIGBEE_1_NFL": {
+    "espn_player_id": "2573401",
+    "sgo_player_id": "TYLER_HIGBEE_1_NFL",
+    "name": "Tyler Higbee",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "TUTU_ATWELL_1_NFL": {
+    "espn_player_id": "4360797",
+    "sgo_player_id": "TUTU_ATWELL_1_NFL",
+    "name": "Tutu Atwell",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "JORDAN_WHITTINGTON_1_NFL": {
+    "espn_player_id": "4569382",
+    "sgo_player_id": "JORDAN_WHITTINGTON_1_NFL",
+    "name": "Jordan Whittington",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "COLBY_PARKINSON_1_NFL": {
+    "espn_player_id": "4242557",
+    "sgo_player_id": "COLBY_PARKINSON_1_NFL",
+    "name": "Colby Parkinson",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "JARED_WAYNE_1_NFL": {
+    "espn_player_id": "4430681",
+    "sgo_player_id": "JARED_WAYNE_1_NFL",
+    "name": "Jared Wayne",
+    "espn_team_id": "34",
+    "sgo_team_id": "HOUSTON_TEXANS_NFL"
+  },
+  "TERRANCE_FERGUSON_1_NFL": {
+    "espn_player_id": "4570037",
+    "sgo_player_id": "TERRANCE_FERGUSON_1_NFL",
+    "name": "Terrance Ferguson",
+    "espn_team_id": "14",
+    "sgo_team_id": "LOS_ANGELES_RAMS_NFL"
+  },
+  "JARED_GOFF_1_NFL": {
+    "espn_player_id": "3046779",
+    "sgo_player_id": "JARED_GOFF_1_NFL",
+    "name": "Jared Goff",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "AMONRA_ST_BROWN_1_NFL": {
+    "espn_player_id": "4374302",
+    "sgo_player_id": "AMONRA_ST_BROWN_1_NFL",
+    "name": "Amon-Ra St. Brown",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "SAM_LAPORTA_1_NFL": {
+    "espn_player_id": "4430027",
+    "sgo_player_id": "SAM_LAPORTA_1_NFL",
+    "name": "Sam LaPorta",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "JAYDEN_REED_1_NFL": {
+    "espn_player_id": "4362249",
+    "sgo_player_id": "JAYDEN_REED_1_NFL",
+    "name": "Jayden Reed",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "JAHMYR_GIBBS_1_NFL": {
+    "espn_player_id": "4429795",
+    "sgo_player_id": "JAHMYR_GIBBS_1_NFL",
+    "name": "Jahmyr Gibbs",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "DAVID_MONTGOMERY_1_NFL": {
+    "espn_player_id": "4035538",
+    "sgo_player_id": "DAVID_MONTGOMERY_1_NFL",
+    "name": "David Montgomery",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "JAMESON_WILLIAMS_1_NFL": {
+    "espn_player_id": "4426388",
+    "sgo_player_id": "JAMESON_WILLIAMS_1_NFL",
+    "name": "Jameson Williams",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "TUCKER_KRAFT_1_NFL": {
+    "espn_player_id": "4572680",
+    "sgo_player_id": "TUCKER_KRAFT_1_NFL",
+    "name": "Tucker Kraft",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "DONTAYVION_WICKS_1_NFL": {
+    "espn_player_id": "4428850",
+    "sgo_player_id": "DONTAYVION_WICKS_1_NFL",
+    "name": "Dontayvion Wicks",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "BROCK_WRIGHT_1_NFL": {
+    "espn_player_id": "4242392",
+    "sgo_player_id": "BROCK_WRIGHT_1_NFL",
+    "name": "Brock Wright",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "KALIF_RAYMOND_1_NFL": {
+    "espn_player_id": "2973405",
+    "sgo_player_id": "KALIF_RAYMOND_1_NFL",
+    "name": "Kalif Raymond",
+    "espn_team_id": "8",
+    "sgo_team_id": "DETROIT_LIONS_NFL"
+  },
+  "CHRISTIAN_WATSON_1_NFL": {
+    "espn_player_id": "4248528",
+    "sgo_player_id": "CHRISTIAN_WATSON_1_NFL",
+    "name": "Christian Watson",
+    "espn_team_id": "9",
+    "sgo_team_id": "GREEN_BAY_PACKERS_NFL"
+  },
+  "LAMAR_JACKSON_1_NFL": {
+    "espn_player_id": "3916387",
+    "sgo_player_id": "LAMAR_JACKSON_1_NFL",
+    "name": "Lamar Jackson",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "JOSH_ALLEN_1_NFL": {
+    "espn_player_id": "3918298",
+    "sgo_player_id": "JOSH_ALLEN_1_NFL",
+    "name": "Josh Allen",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "ZAY_FLOWERS_1_NFL": {
+    "espn_player_id": "4429615",
+    "sgo_player_id": "ZAY_FLOWERS_1_NFL",
+    "name": "Zay Flowers",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "KHALIL_SHAKIR_1_NFL": {
+    "espn_player_id": "4373678",
+    "sgo_player_id": "KHALIL_SHAKIR_1_NFL",
+    "name": "Khalil Shakir",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "DERRICK_HENRY_1_NFL": {
+    "espn_player_id": "3043078",
+    "sgo_player_id": "DERRICK_HENRY_1_NFL",
+    "name": "Derrick Henry",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "RASHOD_BATEMAN_1_NFL": {
+    "espn_player_id": "4360939",
+    "sgo_player_id": "RASHOD_BATEMAN_1_NFL",
+    "name": "Rashod Bateman",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "MARK_ANDREWS_1_NFL": {
+    "espn_player_id": "3116365",
+    "sgo_player_id": "MARK_ANDREWS_1_NFL",
+    "name": "Mark Andrews",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "ISAIAH_LIKELY_1_NFL": {
+    "espn_player_id": "4361050",
+    "sgo_player_id": "ISAIAH_LIKELY_1_NFL",
+    "name": "Isaiah Likely",
+    "espn_team_id": "33",
+    "sgo_team_id": "BALTIMORE_RAVENS_NFL"
+  },
+  "CURTIS_SAMUEL_1_NFL": {
+    "espn_player_id": "3121427",
+    "sgo_player_id": "CURTIS_SAMUEL_1_NFL",
+    "name": "Curtis Samuel",
+    "espn_team_id": "2",
+    "sgo_team_id": "BUFFALO_BILLS_NFL"
+  },
+  "JUSTIN_JEFFERSON_1_NFL": {
+    "espn_player_id": "4262921",
+    "sgo_player_id": "JUSTIN_JEFFERSON_1_NFL",
+    "name": "Justin Jefferson",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "ROSCHON_JOHNSON_1_NFL": {
+    "espn_player_id": "4426386",
+    "sgo_player_id": "ROSCHON_JOHNSON_1_NFL",
+    "name": "Roschon Johnson",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "TJ_HOCKENSON_1_NFL": {
+    "espn_player_id": "4036133",
+    "sgo_player_id": "TJ_HOCKENSON_1_NFL",
+    "name": "T.J. Hockenson",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "JOSH_OLIVER_1_NFL": {
+    "espn_player_id": "3921690",
+    "sgo_player_id": "JOSH_OLIVER_1_NFL",
+    "name": "Josh Oliver",
+    "espn_team_id": "16",
+    "sgo_team_id": "MINNESOTA_VIKINGS_NFL"
+  },
+  "KYLE_MONANGAI_1_NFL": {
+    "espn_player_id": "4608686",
+    "sgo_player_id": "KYLE_MONANGAI_1_NFL",
+    "name": "Kyle Monangai",
+    "espn_team_id": "3",
+    "sgo_team_id": "CHICAGO_BEARS_NFL"
+  },
+  "TYROD_TAYLOR_1_NFL": {
+    "espn_player_id": "14163",
+    "sgo_player_id": "TYROD_TAYLOR_1_NFL",
+    "name": "Tyrod Taylor",
+    "espn_team_id": "20",
+    "sgo_team_id": "NEW_YORK_JETS_NFL"
+  },
+  "MARCUS_MARIOTA_1_NFL": {
+    "espn_player_id": "2576980",
+    "sgo_player_id": "MARCUS_MARIOTA_1_NFL",
+    "name": "Marcus Mariota",
+    "espn_team_id": "28",
+    "sgo_team_id": "WASHINGTON_COMMANDERS_NFL"
+  }
+}

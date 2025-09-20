@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "league_id": "NFL",
+    "starts_after_utc": "2025-09-20T04:00:00Z",
+    "starts_before_utc": "2025-09-24T04:00:00Z",
+    "request_count": 1,
+    "generated_at_utc": "2025-09-20T04:23:25.430879+00:00"
+  },
+  "event_count": 15,
+  "files": [
+    "MwDXH6Xe6U7bvPratAid.json",
+    "NclrP3SpEdzpeWBl5WW7.json",
+    "VJXvK6sl7RRW0JqR6HAV.json",
+    "ctRWeVjEOeXL0yoZ9Cgz.json",
+    "ePE6wg7dHCg5E9kTWsWJ.json",
+    "o9fV7VhWHDkPqSh793l7.json",
+    "u3NYBQx7UpLDgDWjA5Ls.json",
+    "wM8nyPUVKzNinhbPBexN.json",
+    "xTfa3EkZzsnMn1cnxoZk.json",
+    "3ZiHilLN97wNOrHFVSHE.json",
+    "vz47tqBHCJevfqlN0BEj.json",
+    "AEsrkbDKLwtLrm7AcneU.json",
+    "eptUEEjTvQWkNPlbLHat.json",
+    "D92cCMnvwbn6h8KLoUtw.json",
+    "WOqdEpp7LeOW3RjjjyI7.json"
+  ]
+}

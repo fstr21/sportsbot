@@ -1,0 +1,290 @@
+[
+  {
+    "abbreviation": "ATL",
+    "displayName": "Atlanta Falcons",
+    "id": "1",
+    "location": "Atlanta",
+    "name": "Falcons",
+    "slug": "atlanta-falcons",
+    "uid": "s:20~l:28~t:1"
+  },
+  {
+    "abbreviation": "BUF",
+    "displayName": "Buffalo Bills",
+    "id": "2",
+    "location": "Buffalo",
+    "name": "Bills",
+    "slug": "buffalo-bills",
+    "uid": "s:20~l:28~t:2"
+  },
+  {
+    "abbreviation": "CHI",
+    "displayName": "Chicago Bears",
+    "id": "3",
+    "location": "Chicago",
+    "name": "Bears",
+    "slug": "chicago-bears",
+    "uid": "s:20~l:28~t:3"
+  },
+  {
+    "abbreviation": "CIN",
+    "displayName": "Cincinnati Bengals",
+    "id": "4",
+    "location": "Cincinnati",
+    "name": "Bengals",
+    "slug": "cincinnati-bengals",
+    "uid": "s:20~l:28~t:4"
+  },
+  {
+    "abbreviation": "CLE",
+    "displayName": "Cleveland Browns",
+    "id": "5",
+    "location": "Cleveland",
+    "name": "Browns",
+    "slug": "cleveland-browns",
+    "uid": "s:20~l:28~t:5"
+  },
+  {
+    "abbreviation": "DAL",
+    "displayName": "Dallas Cowboys",
+    "id": "6",
+    "location": "Dallas",
+    "name": "Cowboys",
+    "slug": "dallas-cowboys",
+    "uid": "s:20~l:28~t:6"
+  },
+  {
+    "abbreviation": "DEN",
+    "displayName": "Denver Broncos",
+    "id": "7",
+    "location": "Denver",
+    "name": "Broncos",
+    "slug": "denver-broncos",
+    "uid": "s:20~l:28~t:7"
+  },
+  {
+    "abbreviation": "DET",
+    "displayName": "Detroit Lions",
+    "id": "8",
+    "location": "Detroit",
+    "name": "Lions",
+    "slug": "detroit-lions",
+    "uid": "s:20~l:28~t:8"
+  },
+  {
+    "abbreviation": "GB",
+    "displayName": "Green Bay Packers",
+    "id": "9",
+    "location": "Green Bay",
+    "name": "Packers",
+    "slug": "green-bay-packers",
+    "uid": "s:20~l:28~t:9"
+  },
+  {
+    "abbreviation": "TEN",
+    "displayName": "Tennessee Titans",
+    "id": "10",
+    "location": "Tennessee",
+    "name": "Titans",
+    "slug": "tennessee-titans",
+    "uid": "s:20~l:28~t:10"
+  },
+  {
+    "abbreviation": "IND",
+    "displayName": "Indianapolis Colts",
+    "id": "11",
+    "location": "Indianapolis",
+    "name": "Colts",
+    "slug": "indianapolis-colts",
+    "uid": "s:20~l:28~t:11"
+  },
+  {
+    "abbreviation": "KC",
+    "displayName": "Kansas City Chiefs",
+    "id": "12",
+    "location": "Kansas City",
+    "name": "Chiefs",
+    "slug": "kansas-city-chiefs",
+    "uid": "s:20~l:28~t:12"
+  },
+  {
+    "abbreviation": "LV",
+    "displayName": "Las Vegas Raiders",
+    "id": "13",
+    "location": "Las Vegas",
+    "name": "Raiders",
+    "slug": "las-vegas-raiders",
+    "uid": "s:20~l:28~t:13"
+  },
+  {
+    "abbreviation": "LAR",
+    "displayName": "Los Angeles Rams",
+    "id": "14",
+    "location": "Los Angeles",
+    "name": "Rams",
+    "slug": "los-angeles-rams",
+    "uid": "s:20~l:28~t:14"
+  },
+  {
+    "abbreviation": "MIA",
+    "displayName": "Miami Dolphins",
+    "id": "15",
+    "location": "Miami",
+    "name": "Dolphins",
+    "slug": "miami-dolphins",
+    "uid": "s:20~l:28~t:15"
+  },
+  {
+    "abbreviation": "MIN",
+    "displayName": "Minnesota Vikings",
+    "id": "16",
+    "location": "Minnesota",
+    "name": "Vikings",
+    "slug": "minnesota-vikings",
+    "uid": "s:20~l:28~t:16"
+  },
+  {
+    "abbreviation": "NE",
+    "displayName": "New England Patriots",
+    "id": "17",
+    "location": "New England",
+    "name": "Patriots",
+    "slug": "new-england-patriots",
+    "uid": "s:20~l:28~t:17"
+  },
+  {
+    "abbreviation": "NO",
+    "displayName": "New Orleans Saints",
+    "id": "18",
+    "location": "New Orleans",
+    "name": "Saints",
+    "slug": "new-orleans-saints",
+    "uid": "s:20~l:28~t:18"
+  },
+  {
+    "abbreviation": "NYG",
+    "displayName": "New York Giants",
+    "id": "19",
+    "location": "New York",
+    "name": "Giants",
+    "slug": "new-york-giants",
+    "uid": "s:20~l:28~t:19"
+  },
+  {
+    "abbreviation": "NYJ",
+    "displayName": "New York Jets",
+    "id": "20",
+    "location": "New York",
+    "name": "Jets",
+    "slug": "new-york-jets",
+    "uid": "s:20~l:28~t:20"
+  },
+  {
+    "abbreviation": "PHI",
+    "displayName": "Philadelphia Eagles",
+    "id": "21",
+    "location": "Philadelphia",
+    "name": "Eagles",
+    "slug": "philadelphia-eagles",
+    "uid": "s:20~l:28~t:21"
+  },
+  {
+    "abbreviation": "ARI",
+    "displayName": "Arizona Cardinals",
+    "id": "22",
+    "location": "Arizona",
+    "name": "Cardinals",
+    "slug": "arizona-cardinals",
+    "uid": "s:20~l:28~t:22"
+  },
+  {
+    "abbreviation": "PIT",
+    "displayName": "Pittsburgh Steelers",
+    "id": "23",
+    "location": "Pittsburgh",
+    "name": "Steelers",
+    "slug": "pittsburgh-steelers",
+    "uid": "s:20~l:28~t:23"
+  },
+  {
+    "abbreviation": "LAC",
+    "displayName": "Los Angeles Chargers",
+    "id": "24",
+    "location": "Los Angeles",
+    "name": "Chargers",
+    "slug": "los-angeles-chargers",
+    "uid": "s:20~l:28~t:24"
+  },
+  {
+    "abbreviation": "SF",
+    "displayName": "San Francisco 49ers",
+    "id": "25",
+    "location": "San Francisco",
+    "name": "49ers",
+    "slug": "san-francisco-49ers",
+    "uid": "s:20~l:28~t:25"
+  },
+  {
+    "abbreviation": "SEA",
+    "displayName": "Seattle Seahawks",
+    "id": "26",
+    "location": "Seattle",
+    "name": "Seahawks",
+    "slug": "seattle-seahawks",
+    "uid": "s:20~l:28~t:26"
+  },
+  {
+    "abbreviation": "TB",
+    "displayName": "Tampa Bay Buccaneers",
+    "id": "27",
+    "location": "Tampa Bay",
+    "name": "Buccaneers",
+    "slug": "tampa-bay-buccaneers",
+    "uid": "s:20~l:28~t:27"
+  },
+  {
+    "abbreviation": "WSH",
+    "displayName": "Washington Commanders",
+    "id": "28",
+    "location": "Washington",
+    "name": "Commanders",
+    "slug": "washington-commanders",
+    "uid": "s:20~l:28~t:28"
+  },
+  {
+    "abbreviation": "CAR",
+    "displayName": "Carolina Panthers",
+    "id": "29",
+    "location": "Carolina",
+    "name": "Panthers",
+    "slug": "carolina-panthers",
+    "uid": "s:20~l:28~t:29"
+  },
+  {
+    "abbreviation": "JAX",
+    "displayName": "Jacksonville Jaguars",
+    "id": "30",
+    "location": "Jacksonville",
+    "name": "Jaguars",
+    "slug": "jacksonville-jaguars",
+    "uid": "s:20~l:28~t:30"
+  },
+  {
+    "abbreviation": "BAL",
+    "displayName": "Baltimore Ravens",
+    "id": "33",
+    "location": "Baltimore",
+    "name": "Ravens",
+    "slug": "baltimore-ravens",
+    "uid": "s:20~l:28~t:33"
+  },
+  {
+    "abbreviation": "HOU",
+    "displayName": "Houston Texans",
+    "id": "34",
+    "location": "Houston",
+    "name": "Texans",
+    "slug": "houston-texans",
+    "uid": "s:20~l:28~t:34"
+  }
+]
